@@ -31,8 +31,8 @@ author: CollectionBuilder
 # Organization branding
 organization-name: "Digital Initiatives, University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-logo-banner: objects/vjwp-logo.png
+organization-logo-nav: objects/vjwp-logo.png
 
 ##########
 # COLLECTION SETTINGS
