@@ -4,6 +4,7 @@ creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
 description,Description,,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
+language,Language,,DCTERMS.language,language
 location,Location,,,contentLocation
 latitude,Latitude
 longitude,Longitude
@@ -11,4 +12,4 @@ source,Source
 identifier,Source Identifier
 type,Type,,DCTERMS.type
 format,Format,,,encodingFormat
-rightsstatement,,,DCTERMS.rights,license
+rightsstatements,,,DCTERMS.rights,license
