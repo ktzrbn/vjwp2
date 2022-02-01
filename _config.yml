@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: The Victorian Jewish Writers Project
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 
+tagline: exploring Jewish literature and history in Victorian Britain
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Welcome to the Victorian Jewish Writers Project, a digital collection focusing on Anglo-Jewish writing during the long nineteenth century."
@@ -29,10 +29,10 @@ keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: objects/vjwp-logo.png
-organization-logo-nav: objects/vjwp-logo.png
+organization-name: 
+organization-link: 
+organization-logo-banner: 
+organization-logo-nav: 
 
 ##########
 # COLLECTION SETTINGS
