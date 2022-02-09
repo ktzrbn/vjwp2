@@ -459,7 +459,7 @@ img {
   <tr>
    <td>1816-1847
    </td>
-   <td>Grace Aguilar
+   <td><a href="grace-aguilar.html">Grace Aguilar</a>
    </td>
    <td>Novelist, poet, and historian
    </td>
