@@ -27,7 +27,7 @@ img {
   <tr>
    <td>1742-1801
    </td>
-   <td>David Levi
+   <td><a href="david-levi.html">David Levi</a>
    </td>
    <td>Author, translator, and printer
    </td>
