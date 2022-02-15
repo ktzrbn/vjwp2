@@ -19,3 +19,7 @@ img {
 </div>
 
 &nbsp;
+
+# Modern: Ideas
+
+Coming soon

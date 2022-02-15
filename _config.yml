@@ -31,8 +31,8 @@ author: CollectionBuilder
 # Organization branding
 organization-name: About the VJWP
 organization-link: /about.html
-organization-logo-banner: /logos/black-on-trans.png
-organization-logo-nav: /logos/mon-on-trans3.png
+organization-logo-banner: objects/logos/black-on-trans.png
+organization-logo-nav: objects/logos/mon-on-trans3.png
 
 ##########
 # COLLECTION SETTINGS

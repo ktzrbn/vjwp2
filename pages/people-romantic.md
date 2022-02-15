@@ -27,7 +27,7 @@ img {
   <tr>
    <td>1742-1801
    </td>
-   <td><a href="david-levi.html">David Levi</a>
+   <td>David Levi
    </td>
    <td>Author, translator, and printer
    </td>
@@ -157,7 +157,7 @@ img {
    </td>
    <td>Joshua Van Oven
    </td>
-   <td>Writer, surgeon, and communal leader; Founder of the Jews’ Free School
+   <td>Writer, surgeon, and communal leader; Founder of the Jews’ Free School; Founder of the Jews’ Hospital
    </td>
   </tr>
   <tr>
@@ -417,6 +417,14 @@ img {
    </td>
   </tr>
   <tr>
+   <td>1804-1881
+   </td>
+   <td>Benjamin Disraeli, 1st Earl of Beaconsfield
+   </td>
+   <td>Author, statesman, and Conservative Member of Parliament; Served twice as Prime Minister of the United Kingdom, 1868 and 1874-1880
+   </td>
+  </tr>
+  <tr>
    <td>1805-1889
    </td>
    <td>Anna Maria Goldsmid
@@ -441,6 +449,14 @@ img {
    </td>
   </tr>
   <tr>
+   <td>1811-1909
+   </td>
+   <td>David Woolf Marks
+   </td>
+   <td>Rabbi of the first British Reform temple, the West London Synagogue of British Jews
+   </td>
+  </tr>
+  <tr>
    <td>1812-1855
    </td>
    <td>Henry Edward (Moses) Goldsmid
@@ -459,7 +475,7 @@ img {
   <tr>
    <td>1816-1847
    </td>
-   <td><a href="grace-aguilar.html">Grace Aguilar</a>
+   <td>Grace Aguilar
    </td>
    <td>Novelist, poet, and historian
    </td>
@@ -505,6 +521,22 @@ img {
    </td>
   </tr>
   <tr>
+   <td>1819-1873
+   </td>
+   <td>Celia (Moss) Levetus
+   </td>
+   <td>Writer of Jewish historical fiction; Sister of Marion (Moss) Hartog
+   </td>
+  </tr>
+  <tr>
+   <td>1821-1907
+   </td>
+   <td>Marion (Moss) Hartog
+   </td>
+   <td>Poet, author, and educator; Founder of the first Jewish women’s periodical, <em>The Jewish Sabbath Journal</em>
+   </td>
+  </tr>
+  <tr>
    <td>fl. 1830
    </td>
    <td>Elizabeth Polack
@@ -529,7 +561,4 @@ img {
    </td>
   </tr>
 </table>
-
-
-
 
