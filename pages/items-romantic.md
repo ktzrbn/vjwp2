@@ -19,11 +19,13 @@ img {
 
 # Romanticism: Items
 
+<!-- Output copied to clipboard! -->
+
 <!-----
 
 Yay, no errors, warnings, or alerts!
 
-Conversion time: 0.368 seconds.
+Conversion time: 0.52 seconds.
 
 
 Using this HTML file:
@@ -36,18 +38,42 @@ Using this HTML file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β33
-* Mon Feb 14 2022 12:07:46 GMT-0800 (PST)
-* Source doc: Untitled document
+* Mon Feb 21 2022 10:56:21 GMT-0800 (PST)
+* Source doc: romantic-items-bib
 ----->
 
 
 <p>
 
-        <a href="http://victorianjewishwritersproject.org/">Bresslau, Marcus Heinrich. Kitzur Dikduk Lashon Ivri [A Compendious Hebrew Grammar]. John Weale, 1855.</a>
+        <em>“A Daughter of Israel,” Letter to Mr. Frey, of the Soi-Distant Jews-Chapel, Spitalfields; Occasioned by the Question Now in Debate at the London Forum, Cateaton-Street</em>. 1810.
+</p>
+<p>
+
+        <em>A.S. Lyon’s 1823 Diary</em>.
+</p>
+<p>
+
+        <em>A.S. Lyon’s 1826-1839 Diary</em>.
+</p>
+<p>
+
+        Bresslau, Marcus Heinrich. <em>Kitzur Dikduk Lashon Ivri [A Compendious Hebrew Grammar]</em>. John Weale, 1855.
 </p>
 <p>
 
         Cohen, Shalom ben Jacob. <em>Shorshei Emunah, Elements Fo Faith for the Use of Jewish Youth of Both Sexes</em>. E. Justins, 1815.
+</p>
+<p>
+
+        Cumberland, Richard. <em>The Jew</em>. 1794.
+</p>
+<p>
+
+        Dacre, Charlotte. <em>Zofloya; or, The Moor</em>. Longman, Hurst, Rees, and Orme, 1806.
+</p>
+<p>
+
+        Daughter of Israel. <em>The Jewish Preceptress: Or, Elementary Lessons: Written Chiefly for the Use of Female Children, Educated at Jews Hospital</em>. N. Archer, 1818.
 </p>
 <p>
 
@@ -63,6 +89,14 @@ Conversion notes:
 </p>
 <p>
 
+        ---. <em>An Essay on the Manners and Genius of the Literary Character</em>. T. Cadell, 1795.
+</p>
+<p>
+
+        ---. <em>Calamities of Authors</em>. John Murray, 1812.
+</p>
+<p>
+
         ---. <em>Curiosities of Literature</em>. J. Murray, 1823.
 </p>
 <p>
@@ -71,15 +105,67 @@ Conversion notes:
 </p>
 <p>
 
+        ---. <em>Literary Miscellanies</em>. Murray and Highley, 1801.
+</p>
+<p>
+
+        ---. <em>Miscellanies</em>. T. Cadell and W. Davies, 1796.
+</p>
+<p>
+
+        ---. <em>Narrative Poems</em>. Thomas and George Palmer for Conrad and Co., 1803.
+</p>
+<p>
+
         ---. “On the Abuse of Satire.” <em>Gentleman’s Magazine</em>, 1789.
 </p>
 <p>
 
-        Hurwitz, Hyman. <em>The Elements of the Hebrew Language</em>. John Taylor, 1832.
+        ---. <em>Romances, Including “Mejnoun and Leila.”</em> D. Longworth, 1803.
 </p>
 <p>
 
-        Levi, David. <em>A Defense of the Old Testament, in a Series of Letters, Addressed to Thomas Paine</em>. D. Levi, 1797.
+        Edgeworth, Maria. <em>Harrington</em>. R. Hunter, 1817.
+</p>
+<p>
+
+        Godwin, William. <em>St. Leon</em>. C.C. and J. Robinson, 1799.
+</p>
+<p>
+
+        Hazlitt, William. “The Emancipation of the Jews.” <em>The Tatler</em>, Mar. 1831.
+</p>
+<p>
+
+        Hurwitz, Hyman. <em>An Introductory Lecture Delivered in the University of London on Tuesday, November 11, 1828</em>. John Taylor, University Publishers, 1828.
+</p>
+<p>
+
+        ---. <em>Hebrew Tales: Selected and Translated from the Writings of the Ancient Hebrew Sages, to Which Is Prefixed an Essay on the Uninspired Literature of the Hebrews</em>. Spalding & Shepard, 1847.
+</p>
+<p>
+
+        ---. <em>The Elements of the Hebrew Language</em>. John Taylor, 1832.
+</p>
+<p>
+
+        ---. <em>The Tears of a Grateful People, a Hebrew Dirge & Hymn, Chaunted in the Great Synagogue, St. James’s Place, Aldgate, On the Day of the Funeral of King George III...Translated into English Verse by a Friend</em>. Edited by Samual Taylor Coleridge, H. Barnett, 1820.
+</p>
+<p>
+
+        ---. <em>Vindiciae Hebraicae: Or, a Defence of the Hebrew Scriptures as a Vehicle of Revealed Religion, in Refutation of J. Bellamy</em>. F.C. and J. Rivington, 1820.
+</p>
+<p>
+
+        Hurwtiz, Hyman. <em>The Etymology and Syntax of the Hebrew Language</em>. Taylor and Walton, 1835.
+</p>
+<p>
+
+        Levi, David. <em>A Defence of the Old Testament: In a Series of Letters, Addressed to Thomas Paine</em>. Paternoster Row, 1797.
+</p>
+<p>
+
+        ---. <em>A Defense of the Old Testament, in a Series of Letters, Addressed to Thomas Paine</em>. D. Levi, 1797.
 </p>
 <p>
 
@@ -91,11 +177,11 @@ Conversion notes:
 </p>
 <p>
 
-        ---. <em>Dissertations on the Prophesies of the Old Testament, Containing All Such Prophecies as Are Applicable to the Coming of the Messiah, the Restoration of the Jews, and the Resurrection of the Dead</em>. D. Levi, 1787.
+        ---. <em>Dissertations on the Prophesies of the Old Testament, Containing All Such Prophecies as Are Applicable to the Coming of the Messiah, the Restoration of the Jews, and the Resurrection of the Dead</em>. D. Levi, 1796.
 </p>
 <p>
 
-        ---. <em>Dissertations on the Prophesies of the Old Testament, Containing All Such Prophecies as Are Applicable to the Coming of the Messiah, the Restoration of the Jews, and the Resurrection of the Dead</em>. D. Levi, 1796.
+        ---. <em>Dissertations on the Prophesies of the Old Testament, Containing All Such Prophecies as Are Applicable to the Coming of the Messiah, the Restoration of the Jews, and the Resurrection of the Dead</em>. D. Levi, 1787.
 </p>
 <p>
 
@@ -123,6 +209,10 @@ Conversion notes:
 </p>
 <p>
 
+        ---. <em>The Holy Bible, in Hebrew, Conformable to the Accurate Text of Everardo van Der Hooght, Printed at Amsterdam, in 1705, and the Musical Accents after the Manner of Pramselo, with the English Translation on the Opposite Page</em>. L. Alexander, 1822.
+</p>
+<p>
+
         ---. <em>The Order of the Daily Prayers, in Hebrew and English, According to the Custom of the Spanish and Portuguese Jews; as Read in Their Synagogues and Used by Their Families</em>. E. Justins, 1810.
 </p>
 <p>
@@ -135,9 +225,41 @@ Conversion notes:
 </p>
 <p>
 
+        Lord Byron. <em>Hebrew Melodies</em>. John Murray, 1815.
+</p>
+<p>
+
+        Lyon, Emma Henry. <em>Miscellaneous Poems</em>. 1812.
+</p>
+<p>
+
         Lyon, Solomon. <em>A Theological Hebrew Grammar Adn Lexicon, Entitled Mapeach Lashon Hakodesh, A Key to the Holy Tongue</em>. G.F. Harris’s Widow, 1815.
 </p>
 <p>
 
+        ---. <em>Explanation of and Observations on an Antique Medal</em>. Calvert, 1810.
+</p>
+<p>
+
+        Macaulay, Thomas. <em>Civil Disabilities of the Jews</em>. 1829.
+</p>
+<p>
+
         <em>Memoirs of the Life and Commercial Connections, Public and Private, of the Late Benjamin Goldsmid, Esq of Roehampton, Containing a Cursory View of the Jewish Society and Manners...</em> London.
+</p>
+<p>
+
+        M.H.R. <em>Letters from Perdita to a Certain Israelite, and His Answers to Them</em>. J. Fielding, W. Kent, J. Stockdale, J. Sewell, 1781.
+</p>
+<p>
+
+        Polack, Maria. <em>Fiction without Romance, or, the Locket-Watch</em>. Effingham Wilson, 1830.
+</p>
+<p>
+
+        Scott, Walter. <em>Ivanhoe</em>. Archibald Constable and Co., 1820.
+</p>
+<p>
+
+        Wordsworth, William. <em>Song for the Wandering Jew</em>. 1815.
 </p>
