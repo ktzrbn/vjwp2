@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: victorianjewishwritersproject.org
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/brandonkatzir/vjwp2
 
 ##########
 # SITE SETTINGS
@@ -27,9 +27,9 @@ description: "Welcome to the Victorian Jewish Writers Project, a digital collect
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: britain;jews;anglo-jews
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: https://github.com/brandonkatzir
 # Organization branding
-organization-name: About the VJWP
+organization-name: VJWP
 organization-link: /about.html
 organization-logo-banner: objects/logos/black-on-trans.png
 organization-logo-nav: objects/logos/mon-on-trans3.png

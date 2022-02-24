@@ -6,6 +6,7 @@ description,Description,,DCTERMS.description,description
 subject,Subjects,true,DCTERMS.subject,keywords
 language,Language,,DCTERMS.language,language
 location,Location,,,contentLocation
+publisher,Publisher,,DCTERMS.publisher
 latitude,Latitude
 longitude,Longitude
 source,Source

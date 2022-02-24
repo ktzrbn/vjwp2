@@ -23,13 +23,37 @@ img {
 
 # Romanticism: People
 
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 1.932 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β33
+* Wed Feb 23 2022 18:39:33 GMT-0800 (PST)
+* Source doc: romantic-people table
+* Tables are currently converted to HTML tables.
+----->
+
+
+
 <table>
   <tr>
-   <td>1742-1801
+   <td><strong>1742-1801</strong>
    </td>
-   <td>David Levi
+   <td><strong>David Levi</strong>
    </td>
-   <td>Author, translator, and printer
+   <td><strong>Author, translator, and printer</strong>
    </td>
   </tr>
   <tr>
@@ -121,11 +145,11 @@ img {
    </td>
   </tr>
   <tr>
-   <td>1761-1849 
+   <td><strong>1761-1849 </strong>
    </td>
-   <td>Michael (Meyer) Josephs
+   <td><strong>Michael (Meyer) Josephs</strong>
    </td>
-   <td>Hebraist and businessman
+   <td><strong>Hebraist and businessman</strong>
    </td>
   </tr>
   <tr>
@@ -153,19 +177,19 @@ img {
    </td>
   </tr>
   <tr>
-   <td>1766-1838
+   <td><strong>1766-1838</strong>
    </td>
-   <td>Joshua Van Oven
+   <td><strong>Joshua Van Oven</strong>
    </td>
-   <td>Writer, surgeon, and communal leader; Founder of the Jews’ Free School; Founder of the Jews’ Hospital
+   <td><strong>Writer, surgeon, and communal leader; Founder of the Jews’ Free School; Founder of the Jews’ Hospital</strong>
    </td>
   </tr>
   <tr>
-   <td>1766-1848 
+   <td><strong>1766-1848 </strong>
    </td>
-   <td>Isaac D’Israeli
+   <td><strong>Isaac D’Israeli</strong>
    </td>
-   <td>Author and father of Benjamin Disraeli
+   <td><strong>Author and father of Benjamin Disraeli</strong>
    </td>
   </tr>
   <tr>
@@ -177,11 +201,11 @@ img {
    </td>
   </tr>
   <tr>
-   <td>C1770-1844
+   <td><strong>C1770-1844</strong>
    </td>
-   <td>Hyman Hurwitz
+   <td><strong>Hyman Hurwitz</strong>
    </td>
-   <td>Biblical scholar and Hebraist; Founder of the Highgate Academy; Professor of Hebrew at University College London
+   <td><strong>Biblical scholar and Hebraist; Founder of the Highgate Academy; Professor of Hebrew at University College London</strong>
    </td>
   </tr>
   <tr>
@@ -225,11 +249,11 @@ img {
    </td>
   </tr>
   <tr>
-   <td>C1782-1825
+   <td><strong>C1782-1825</strong>
    </td>
-   <td>Charlotte King (Dacre)
+   <td><strong>Charlotte King (Dacre)</strong>
    </td>
-   <td>Poet author Gothic novels; Daughter of John King
+   <td><strong>Poet author Gothic novels; Daughter of John King</strong>
    </td>
   </tr>
   <tr>
@@ -273,19 +297,19 @@ img {
    </td>
   </tr>
   <tr>
-   <td>1784-1862
+   <td><strong>1784-1862</strong>
    </td>
-   <td>Judith (Cohen) Montefiore
+   <td><strong>Judith (Cohen) Montefiore</strong>
    </td>
-   <td>Writer and philanthropist; Wife of Moses Montefiore
+   <td><strong>Writer and philanthropist; Wife of Moses Montefiore</strong>
    </td>
   </tr>
   <tr>
-   <td>1784-1885
+   <td><strong>1784-1885</strong>
    </td>
-   <td>Moses Haim Montefiore
+   <td><strong>Moses Haim Montefiore</strong>
    </td>
-   <td>Businessman, diarist, and communal leader
+   <td><strong>Businessman, diarist, and communal leader</strong>
    </td>
   </tr>
   <tr>
@@ -313,11 +337,11 @@ img {
    </td>
   </tr>
   <tr>
-   <td>1788-1870
+   <td><strong>1788-1870</strong>
    </td>
-   <td>Emma (Lyon) Henry
+   <td><strong>Emma (Lyon) Henry</strong>
    </td>
-   <td>First Anglo-Jewish woman (published) poet
+   <td><strong>First Anglo-Jewish woman (published) poet</strong>
    </td>
   </tr>
   <tr>
@@ -377,11 +401,11 @@ img {
    </td>
   </tr>
   <tr>
-   <td>1798-1868
+   <td><strong>1798-1868</strong>
    </td>
-   <td>Morris Jacob Raphall
+   <td><strong>Morris Jacob Raphall</strong>
    </td>
-   <td>Orthodox rabbi and author; Established Britain’s first Jewish periodical; Philanthropist and businessman; Founder of the Jewish Board of Guardians 
+   <td><strong>Orthodox rabbi and author; Established Britain’s first Jewish periodical; Philanthropist and businessman; Founder of the Jewish Board of Guardians </strong>
    </td>
   </tr>
   <tr>
@@ -393,19 +417,19 @@ img {
    </td>
   </tr>
   <tr>
-   <td>1803-1848
+   <td><strong>1803-1848</strong>
    </td>
-   <td>Abigail Lindo
+   <td><strong>Abigail Lindo</strong>
    </td>
-   <td>Lexicographer and scholar; Compiled first (British) Hebrew-English dictionary
+   <td><strong>Lexicographer and scholar; Compiled first (British) Hebrew-English dictionary</strong>
    </td>
   </tr>
   <tr>
-   <td>1803-1890
+   <td><strong>1803-1890</strong>
    </td>
-   <td>Nathan Marcus Adler
+   <td><strong>Nathan Marcus Adler</strong>
    </td>
-   <td>Rabbinical writer and Chief Rabbi
+   <td><strong>Rabbinical writer and Chief Rabbi</strong>
    </td>
   </tr>
   <tr>
@@ -425,11 +449,11 @@ img {
    </td>
   </tr>
   <tr>
-   <td>1805-1889
+   <td><strong>1805-1889</strong>
    </td>
-   <td>Anna Maria Goldsmid
+   <td><strong>Anna Maria Goldsmid</strong>
    </td>
-   <td>Writer, translator, and philanthropist; Daughter of Sir Isaac Lyon Goldsmid
+   <td><strong>Writer, translator, and philanthropist; Daughter of Sir Isaac Lyon Goldsmid</strong>
    </td>
   </tr>
   <tr>
@@ -473,11 +497,11 @@ img {
    </td>
   </tr>
   <tr>
-   <td>1816-1847
+   <td><strong>1816-1847</strong>
    </td>
-   <td>Grace Aguilar
+   <td><strong><a href="http://victorianjewishwritersproject.org/grace-aguilar.html">Grace Aguilar</a></strong>
    </td>
-   <td>Novelist, poet, and historian
+   <td><strong>Novelist, poet, and historian</strong>
    </td>
   </tr>
   <tr>
@@ -489,11 +513,11 @@ img {
    </td>
   </tr>
   <tr>
-   <td>1818-1854
+   <td><strong>1818-1854</strong>
    </td>
-   <td>Charlote Montefiore
+   <td><strong>Charlotte Montefiore</strong>
    </td>
-   <td>Writer and philanthropist; Founder of the Cheap Jewish Library 
+   <td><strong>Writer and philanthropist; Founder of the Cheap Jewish Library </strong>
    </td>
   </tr>
   <tr>
@@ -521,19 +545,19 @@ img {
    </td>
   </tr>
   <tr>
-   <td>1819-1873
+   <td><strong>1819-1873</strong>
    </td>
-   <td>Celia (Moss) Levetus
+   <td><strong>Celia (Moss) Levetus</strong>
    </td>
-   <td>Writer of Jewish historical fiction; Sister of Marion (Moss) Hartog
+   <td><strong>Writer of Jewish historical fiction; Sister of Marion (Moss) Hartog</strong>
    </td>
   </tr>
   <tr>
-   <td>1821-1907
+   <td><strong>1821-1907</strong>
    </td>
-   <td>Marion (Moss) Hartog
+   <td><strong>Marion (Moss) Hartog</strong>
    </td>
-   <td>Poet, author, and educator; Founder of the first Jewish women’s periodical, <em>The Jewish Sabbath Journal</em>
+   <td><strong>Poet, author, and educator; Founder of the first Jewish women’s periodical, <em>The Jewish Sabbath Journal</em></strong>
    </td>
   </tr>
   <tr>
@@ -545,11 +569,11 @@ img {
    </td>
   </tr>
   <tr>
-   <td>fl. 1830
+   <td><strong>fl. 1830</strong>
    </td>
-   <td>Maria Polack
+   <td><strong>Maria Polack</strong>
    </td>
-   <td>First Ango-Jewish woman novelist; Daughter of Ephraim Polack; Related to Elizabeth Polack
+   <td><strong>First Ango-Jewish woman novelist; Daughter of Ephraim Polack; Related to Elizabeth Polack</strong>
    </td>
   </tr>
   <tr>

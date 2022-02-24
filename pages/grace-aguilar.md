@@ -5,3 +5,8 @@ permalink: grace-aguilar.html
 ---
 
 # Grace Aguilar
+
+## Biography 
+
+## Works Cited
+
