@@ -20,6 +20,8 @@ img {
 
 &nbsp;
 
-# Victorians: People
+# People
 
 Coming soon
+
+&nbsp;

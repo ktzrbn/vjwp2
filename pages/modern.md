@@ -1,6 +1,6 @@
 ---
 title: Modern
-layout: page
+layout: about
 permalink: modern.html
 ---
 
@@ -23,3 +23,5 @@ img {
 # Anglo-Jews in the Modern Period
 
 Coming soon
+
+&nbsp;

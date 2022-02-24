@@ -17,7 +17,7 @@ img {
 </div>
 &nbsp;
 
-# Romanticism: Places
+# Places
 
 <!-- Output copied to clipboard! -->
 
@@ -59,3 +59,7 @@ Conversion notes:
 * H. N. Solomon’s Edmonton boarding School
 * Emanuel Hyam Cohen’s Brighton school
 * Lewis Loewe’s Brighton boarding school
+
+&nbsp;
+&nbsp;
+<br>

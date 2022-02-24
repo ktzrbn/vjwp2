@@ -20,6 +20,8 @@ img {
 
 &nbsp;
 
-# Modern: Places
+# Places
 
 Coming soon
+
+&nbsp;

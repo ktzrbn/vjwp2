@@ -10,18 +10,22 @@ img {
      height: auto;
 }
   td {
-    padding: 5px 15px;
+    padding: 3px 15px;
   }
 </style>
 
 <div class=img>
-<img src="objects/princes-road.jpg"
+<img src="objects/princes-road2.jpg"
      alt="Princes Road Synagogue"
      style="float: left; margin-right: 10px; padding-bottom:20px;" />  
 </div>
+
+&nbsp;
+&nbsp;
+<br>
 &nbsp;
 
-# Romanticism: People
+# People
 
 <!-----
 
@@ -44,8 +48,6 @@ Conversion notes:
 * Source doc: romantic-people table
 * Tables are currently converted to HTML tables.
 ----->
-
-
 
 <table>
   <tr>
@@ -585,4 +587,4 @@ Conversion notes:
    </td>
   </tr>
 </table>
-
+&nbsp;

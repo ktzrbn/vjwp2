@@ -1,6 +1,6 @@
 ---
 title: Victorian
-layout: page
+layout: about
 permalink: victorian.html
 ---
 
@@ -14,7 +14,7 @@ img {
 
 <div class=img>
 <img src="objects/disraeli.jpg"
-     alt="Princes Road Synagogue"
+     alt="D'israeli and Gladstone"
      style="float: left; margin-right: 10px; padding-bottom:20px;" />  
 </div>
 
@@ -22,4 +22,6 @@ img {
 
 # Anglo-Jews of the Victorian Period
 
-British Jews during the Victorian Period....
+Coming soon
+
+&nbsp;

@@ -16,7 +16,7 @@ img {
 </div>
 &nbsp;
 
-# Romanticism: Ideas
+# Ideas
 
 <!-- Output copied to clipboard! -->
 
@@ -59,3 +59,6 @@ Conversion notes:
 * Rothschilds
 * Edmund Kean
 * The Merchant of Venice
+
+
+&nbsp;

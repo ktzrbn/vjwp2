@@ -17,7 +17,7 @@ img {
 </div>
 &nbsp;
 
-# Romanticism: Items
+# Items
 <!-----
 
 Yay, no errors, warnings, or alerts!
@@ -139,3 +139,7 @@ Conversion notes:
 <li><a href="http://victorianjewishwritersproject.org/items/vjwp_64.html">Scott, Walter. Ivanhoe. Archibald Constable and Co., 1820.</a>
 
 <li><a href="http://victorianjewishwritersproject.org/items/vjwp_61.html">Wordsworth, William. Song for the Wandering Jew. 1815.</a>
+
+&nbsp;
+<br>
+&nbsp;
