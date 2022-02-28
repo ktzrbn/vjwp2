@@ -10,7 +10,7 @@ img {
 }
 </style>
 <div class=img>
-<img src="objects/princes-road.jpg"
+<img src="objects/princes-road2.jpg"
      alt="Princes Road Synagogue"
      style="float: left; margin-right: 10px; padding-bottom:20px;" />  
 </div>

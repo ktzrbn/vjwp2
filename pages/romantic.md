@@ -11,13 +11,11 @@ img {
 }
 </style>
 <div class=img>
-<img src="objects/princes-road.jpg"
+<img src="objects/princes-road2.jpg"
      alt="Princes Road Synagogue"
      style="float: left; margin-right: 10px; padding-bottom:20px;" />  
 </div>
 &nbsp;
-
-# Anglo-Jewish Writers in the Romantic Era, 1780-1832
 
 In 1656, Oliver Cromwell agreed to overturn centuries of precedent and formally invite the Jews to return to England after their expulsion from the country in 1290. The immediate practical effect of Cromwell's decision was limited: the few Jews living in seventeenth-century England, mostly Sephardic merchants from Amsterdam, were granted the right to remain in England on legal terms. And though it would be another two centuries before Jews enjoyed British citizenship, Jewish immigrants nevertheless began arriving in England in small numbers in the late eighteenth century and in increasing numbers during the nineteenth century.
 
