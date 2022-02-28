@@ -1,23 +1,31 @@
 ---
 title: Romanticism-People
-layout: page
+layout: page-full-width
 permalink: /people-romantic.html
 ---
 
 <style>
+
 img {
      max-width: 100%;
      height: auto;
 }
-  td {
-    padding: 3px 15px;
-  }
+table {
+  border-spacing: 0px;}
+
+th, td {
+  padding: 5px 30px 5px 10px;
+  border-spacing: 0px;
+  font-size: 90%;
+  margin: 0px;}
+
 </style>
 
+
 <div class=img>
-<img src="objects/princes-road2.jpg"
-     alt="Princes Road Synagogue"
-     style="float: left; margin-right: 10px; padding-bottom:20px;" />  
+<img src="objects/princes-road-people.jpg"
+     alt="Princes Road Synagogue" style="float: left; margin-right: 10px; padding-bottom:20px;"
+      />  
 </div>
 
 &nbsp;
@@ -68,8 +76,6 @@ Conversion notes:
 * Source doc: romantic-people table
 * Tables are currently converted to HTML tables.
 ----->
-
-
 
 <table>
   <tr>
