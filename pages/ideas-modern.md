@@ -18,6 +18,8 @@ img {
      style="float: left; margin-right: 10px; padding-bottom:20px;" />  
 </div>
 
+&nbsp;
+
 # Ideas
 
 Coming soon
