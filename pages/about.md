@@ -15,8 +15,8 @@ img {
 }
 </style>
 <div class=img>
-<img src="objects/vjwp-web-banner2.jpg"
-     alt="brick lane, by melvin heng"
+<img src="objects/jews-hospital.jpg"
+     alt="Jews' Hospital, Whitechapel (East End)"
      style="float: left; margin-right: 10px; padding-bottom:20px;" />  </div>
 <br>  <br>
 

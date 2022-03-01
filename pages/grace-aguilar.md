@@ -1,8 +1,13 @@
 ---
 title: Grace Aguilar
-layout: about
+layout: page-narrow
 permalink: grace-aguilar.html
 ---
+
+&nbsp;
+
+&nbsp;
+
 <p align="center">
 
 <h2 align=center>Grace Aguilar</h2>
@@ -11,7 +16,7 @@ permalink: grace-aguilar.html
 
 <p align="center"><a href="mailto:katzir@vjwp.org">katzir@vjwp.org</a></p>
 
- </p>
+</p>
 
  &nbsp;
 
@@ -40,6 +45,9 @@ Immensely popular during the Victorian era, Aguilar was beloved as the “Moral 
 <sup>1 </sup>From a tribute by the Ladies of the Society for the Religious Instruction of Charleston, South Carolina, published in the _Occident and American Jewish Advocate_ in November 1847.
 
 <sup>2 </sup>This article was originally published in The Literary Encyclopedia in 2022 and appears here with permission.
+
+&nbsp;
+&nbsp;
 
 ## Works Consulted 
 
@@ -73,6 +81,8 @@ Shahaf, Michal. “Charlotte Montefiore’s Secret: The Cheap Jewish Library—A
 
 Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Cambridge University Press, 2007.
 
+&nbsp;
+&nbsp;
 
 ## Bibliography
 
@@ -176,3 +186,5 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 
         ---. <em>Works</em>. Groombridge and Sons, 1869.
 </p>
+
+&nbsp;
