@@ -108,7 +108,7 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 </p>
 <p>
 
-        <a href="http://victorianjewishwritersproject.org/items/vjwp_81.html">---. <em>Essays and Miscellanies: Choice Cullings from the Manuscripts of Grace Aguilar</em>. Edited by Sarah Aguilar and A. Hart, Late Carey and Hart, 1853.
+        <a href="http://victorianjewishwritersproject.org/items/vjwp_70.html">---. <em>Essays and Miscellanies: Choice Cullings from the Manuscripts of Grace Aguilar</em>. Edited by Sarah Aguilar and A. Hart, Late Carey and Hart, 1853.</a>
 </p>
 <p>
 
@@ -128,7 +128,7 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 </p>
 <p>
 
-        <a href="http://victorianjewishwritersproject.org/items/vjwp_81.html">---. <em>Records of Israel</em>. J. Mortimer, 1844.
+        <a href="http://victorianjewishwritersproject.org/items/vjwp_81.html">---. <em>Records of Israel</em>. J. Mortimer, 1844.</a>
 </p>
 <p>
 
@@ -180,7 +180,7 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 </p>
 <p>
 
-        <a href="http://victorianjewishwritersproject.org/items/vjwp_89.html">---. <em>Woman’s Friendship: A Story of Domestic Life</em>. R. Groombridge and Sons, 1850.
+        <a href="http://victorianjewishwritersproject.org/items/vjwp_89.html">---. <em>Woman’s Friendship: A Story of Domestic Life</em>. R. Groombridge and Sons, 1850.</a>
 </p>
 <p>
 
