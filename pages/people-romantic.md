@@ -58,7 +58,7 @@ Conversion notes:
 
 
 
-* David Levi
+* [David Levi](david-levi.html)
 * Moses Ephraim
 * Solomon Polack
 * Levi Barent Cohen
@@ -83,19 +83,19 @@ Conversion notes:
 * David Abarbanel Lindo
 * Sir Isaac Lyon Goldsmid
 * Moses Baruh Lousada
-* Charlotte King (Dacre)
+* [Charlotte King (Dacre)](/charlotte-dacre.html)
 * Hannah (Cohen) Rothschild
 * Emanuel Baruh Lousada
 * Elias Haim Lindo
 * Jane (Goldsmid) Lousada
 * Anne (Goldsmid) Mocatta
-* Judith (Cohen) Montefiore
+* [Judith (Cohen) Montefiore](/judith-montefiore.html)
 * Moses Haim Montefiore
 * Sarah (Dias Fernandes) Aguilar
 * Emanuel Aguilar
 * Abraham Joseph Elias Montefiore
 * Emma (Lyon) Henry
-* Isaac Nathan
+* [Isaac Nathan](/isaac-nathan.html)
 * David Tevele Schiff
 * Levi Emanuel Cohen
 * David Aaron de Sola
@@ -123,6 +123,6 @@ Conversion notes:
 * Celia (Moss) Levetus 
 * Marion (Moss) Hartog
 * Elizabeth Polack
-* Maria Polack
+* [Maria Polack](/maria.polack.html)
 
 &nbsp;
