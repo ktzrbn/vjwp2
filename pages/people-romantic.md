@@ -123,6 +123,6 @@ Conversion notes:
 * Celia (Moss) Levetus 
 * Marion (Moss) Hartog
 * Elizabeth Polack
-* [Maria Polack](/maria.polack.html)
+* [Maria Polack](/maria-polack.html)
 
 &nbsp;

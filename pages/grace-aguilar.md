@@ -180,7 +180,7 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 </p>
 <p>
 
-        <a href="http://victorianjewishwritersproject.org/items/vjwp_89.html">---. <em>Woman’s Friendship: A Story of Domestic Life</em>. R. Groombridge and Sons, 1850.</a>
+        <a href="http://victorianjewishwritersproject.org/items/vjwp_89.html">---. <em>Woman’s Friendship: A Story of Domestic Life</em>. George Routledge and Sons, 1850.</a>
 </p>
 <p>
 
