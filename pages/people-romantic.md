@@ -34,95 +34,88 @@ th, td {
 
 # People
 
-<!-----
+<!-- Master list is in Google docs--make sure that links on this page and links in Google Doc ALWAYS MATCH -->
 
-Yay, no errors, warnings, or alerts!
+* Adler, Nathan Marcus
+* Aguilar, Emanuel
+* [Aguilar, Grace](/grace-aguilar.html)
+* Aguilar, Sarah (Dias Fernandes)
+* Cohen, Levi Barent
+* Cohen, Levi Emanuel
+* D’Aguilar, Benjamin
+* D’Aguilar, Judith
+* D’Aguilar, Solomon
+* Disraeli, Benjamin
+* D’Israeli, Isaac
+* Ephraim, Moses
+* Goldsmid, Abraham
+* Goldsmid, Anna Maria
+* Goldsmid, Asher
+* Goldsmid, Augustus
+* Goldsmid, Benjamin
+* Goldsmid, Sir Francis Henry
+* Goldsmid, Frederick David
+* Goldsmid, Sir Frederick John
+* Goldsmid, Henry Edward (Moses)
+* Goldsmid, Sir Isaac Lyon
+* Goldsmid, Jessie Sarah
+* Goldsmid, Louisa Sophia
+* Gordon, Lord George
+* Hirschell, Solomon
+* Hurwitz, Hyman
+* Josephs, Michael [Meyer]
+* [Levi, David](/david-levi.html)
+* Lindo, Abigail
+* Lindo, David Abarbanel
+* Lindo, Elias Haim
+* Lindo, Moses
+* Lousada, Abigail
+* Lousada, Emanuel Baruh
+* Lousada, Isaac Baruh
+* Lousada, Jane (Goldsmid)
+* Lousada, Moses Baruh
+* Lyon, Abraham Septimus (A. S.)
+* Lyon (Henry), Emma
+* Lyon, Solomon
+* [King, Charlotte [Dacre]](/charlotte-dacre.html)
+* King, John [Jacob Rey]
+* Marks, David Woolf
+* Mendoza, Daniel
+* Merton, Hannah (Cohen)
+* Mocatta, Abraham
+* Mocatta, Anne (Goldsmid)
+* Mocatta, Moses
+* Montefiore, Abraham Joseph Elias
+* Montefiore, Charlotte
+* Montefiore, Joseph Elias
+* [Montefiore, Lady Judith (Cohen)](/judith-montefiore.html)
+* [Montefiore, Sir Moses](/moses-montefiore.html)
+* Montefiore, Rachel (Mocatta)
+* Moss (Levetus), Celia
+* Moss (Hartog), Marion
+* [Nathan, Isaac](/isaac-nathan.html)
+* Polack, Ephraim
+* Polack, Elizabeth [playwright]
+* Polack, Elizabeth [poet]
+* Polack, Joel Samuel
+* [Polack, Maria](/maria-polack.html)
+* Polack, Solomon
+* Raphall, Morris J. Raphall
+* Rothschild, Sir Anthony de
+* Rothschild, Charlotte de
+* Rothschild, Hannah (Cohen)
+* Rothschild, Hannah Mayer de
+* Rothschild, Lionel de
+* Rothschild, Lady Louise
+* Rothschild, Mayer Amschel de
+* Rothschild, Nathan Mayer
+* Rothschild, Nathanial de
+* Salomons, Sir David
+* Salomons, Levy
+* Salomons, Philip
+* Schiff, David Tevele
+* Sola, David Aaron
+* Van Oven, Joshua
 
-Conversion time: 0.483 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Tue Mar 01 2022 07:05:39 GMT-0800 (PST)
-* Source doc: romantic-people list
------>
-
-
-
-
-* [David Levi](david-levi.html)
-* Moses Ephraim
-* Solomon Polack
-* Levi Barent Cohen
-* Isaac Baruh Lousada
-* Lord George Gordon
-* Asher Goldsmid
-* John King (Jacob Rey)
-* Benjamin Goldsmid
-* Solomon Lyon
-* Abraham Goldsmid
-* Joseph Elias Montefiore
-* Michael (Meyer) Josephs
-* Rachel (Mocatta) Montefiore
-* Solomon Hirschell
-* Daniel Mendoza
-* Joshua Van Oven
-* Isaac D’Israeli
-* Moses Mocatta
-* Hyman Hurwitz
-* Levy Salomons
-* Abigail Lousada
-* David Abarbanel Lindo
-* Sir Isaac Lyon Goldsmid
-* Moses Baruh Lousada
-* [Charlotte King (Dacre)](/charlotte-dacre.html)
-* Hannah (Cohen) Rothschild
-* Emanuel Baruh Lousada
-* Elias Haim Lindo
-* Jane (Goldsmid) Lousada
-* Anne (Goldsmid) Mocatta
-* [Judith (Cohen) Montefiore](/judith-montefiore.html)
-* Moses Haim Montefiore
-* Sarah (Dias Fernandes) Aguilar
-* Emanuel Aguilar
-* Abraham Joseph Elias Montefiore
-* Emma (Lyon) Henry
-* [Isaac Nathan](/isaac-nathan.html)
-* David Tevele Schiff
-* Levi Emanuel Cohen
-* David Aaron de Sola
-* Philip Salomons
-* Sir David Salomons, first Baronet
-* Abraham Mocatta
-* Morris Jacob Raphall
-* Ephraim Polack
-* Abigail Lindo
-* Nathan Marcus Adler
-* Abraham Septimus (A.S.) Lyon
-* Benjamin Disraeli, 1st Earl of Beaconsfield
-* Anna Maria Goldsmid
-* Joel Samuel Polack
-* Sir Francis Henry Goldsmid, second Baronet
-* David Woolf Marks
-* Henry Edward (Moses) Goldsmid
-* Frederick David Goldsmid 
-* [Grace Aguilar](/grace-aguilar.html)
-* Jessie Sarah Goldsmid
-* Charlotte Montefiore
-* Augustus Goldsmid
-* Sir Frederick John Goldsmid
-* Louisa Sophia Goldsmid
-* Celia (Moss) Levetus 
-* Marion (Moss) Hartog
-* Elizabeth Polack
-* [Maria Polack](/maria-polack.html)
 
 &nbsp;

@@ -52,6 +52,7 @@ Conversion notes:
 * Bevis Marks Synagogue
 * Brighton Regency Synagogue
 * Portsmouth and Southsea Synagogue
+* [Ramsgate](/ramsgate.html)
 * Jews’ Hospital (1807)
 * Westminster Jews’ Free School
 * Jews Free School
