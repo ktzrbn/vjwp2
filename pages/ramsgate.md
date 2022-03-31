@@ -28,6 +28,8 @@ The present Jewish population of Ramsgate is 130; but this is largely increased 
 
 <sup>1</sup>This article was originally published in The Jewish Encyclopedia, Volume 10, in 1905.
 
+&nbsp;
+&nbsp;
 
 ## Works Consulted
 
@@ -40,3 +42,5 @@ Reports of the Judith Montefiore College, 1893 et seq.
 _J. Q. R._ 1902 et seq.
 
 Descriptive Catalogue of the Hebrew MSS. of the Montefiore Library.
+
+&nbsp;

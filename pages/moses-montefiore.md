@@ -70,7 +70,7 @@ Liebermann, Internationales Montefiore-Album, 1884.
 
 <p>
 
-Montefiore, Moses, and Judith Montefiore. _Diaries of Sir Moses and Lady Montefiore_. Edited by Louis Loewe, Belford-Clarke Co., 1890.
+Montefiore, Moses, and Judith Montefiore. <em>Diaries of Sir Moses and Lady Montefiore</em>. Edited by Louis Loewe, Belford-Clarke Co., 1890.
 </p>
 
 &nbsp;
