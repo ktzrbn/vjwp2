@@ -95,8 +95,8 @@ th, td {
 * Moss (Hartog), Marion
 * [Nathan, Isaac](/isaac-nathan.html)
 * Polack, Ephraim
-* Polack, Elizabeth [playwright]
-* Polack, Elizabeth [poet]
+* [Polack, Elizabeth [playwright]](/elizabeth-polack-playwright.html)
+* [Polack, Elizabeth [poet]](/elizabeth-polack-poet.html)
 * Polack, Joel Samuel
 * [Polack, Maria](/maria-polack.html)
 * Polack, Solomon

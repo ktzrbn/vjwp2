@@ -58,7 +58,7 @@ Conversion notes:
 * Old Clothesmen
 * Rothschilds
 * Edmund Kean
-* The Merchant of Venice
+* [The Merchant of Venice](/merchant-of-venice.html)
 
 
 &nbsp;
