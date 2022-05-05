@@ -36,7 +36,7 @@ th, td {
 
 <!-- Master list is in Google docs--make sure that links on this page and links in Google Doc ALWAYS MATCH -->
 
-* Adler, Nathan Marcus
+* [Adler, Nathan Marcus](/nathan-marcus-adler.html)
 * Aguilar, Emanuel
 * [Aguilar, Grace](/grace-aguilar.html)
 * Aguilar, Sarah (Dias Fernandes)
