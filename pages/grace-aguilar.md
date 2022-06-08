@@ -152,7 +152,7 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 </p>
 <p>
 
-        ---. <em>The Jewish Faith</em>. 1838.
+        <a href="http://victorianjewishwritersproject.org/items/vjwp_77.html">---. <em>The Jewish Faith</em>. 1864.</a>
 </p>
 <p>
 
