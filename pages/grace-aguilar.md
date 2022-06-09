@@ -144,7 +144,7 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 </p>
 <p>
 
-        ---. <em>The Days of Bruce: A Story of Scottish History</em>. Groombridge and Sons, 1852.
+        ---. <em>The Days of Bruce: A Story of Scottish History</em>. R. Groombridge and Sons, 1852.
 </p>
 <p>
 
@@ -152,7 +152,7 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 </p>
 <p>
 
-        <a href="http://victorianjewishwritersproject.org/items/vjwp_77.html">---. <em>The Jewish Faith</em>. 1864.</a>
+        <a href="http://victorianjewishwritersproject.org/items/vjwp_77.html">---. <em>The Jewish Faith</em>. Edited by Isaac Leeser, Jewish Publication Society of America, 1864. (1846)</a>
 </p>
 <p>
 
@@ -160,7 +160,7 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 </p>
 <p>
 
-        <a href="http://victorianjewishwritersproject.org/items/vjwp_84.html">---. The Spirit of Judaism. Edited by Isaac Leeser, Jewish Publication Society of America, 1842.</a>
+        <a href="http://victorianjewishwritersproject.org/items/vjwp_84.html">---. <em>The Spirit of Judaism.</em> Edited by Isaac Leeser, Jewish Publication Society of America, 1842.</a>
 </p>
 <p>
 
@@ -172,11 +172,11 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 </p>
 <p>
 
-        <a href="http://victorianjewishwritersproject.org/items/vjwp_90.html">---. The Women of Israel. Vol. 1. R. Groombridge and Sons, 1845.</a>
+        <a href="http://victorianjewishwritersproject.org/items/vjwp_90.html">---. <em>The Women of Israel.</em> Vol. 1. R. Groombridge and Sons, 1845.</a>
 </p>
 <p>
 
-        <a href="http://victorianjewishwritersproject.org/items/vjwp_91.html">---. The Women of Israel. Vol. 2. R. Groombridge and Sons, 1845.</a>
+        <a href="http://victorianjewishwritersproject.org/items/vjwp_91.html">---. <em>The Women of Israel.</em> Vol. 2. R. Groombridge and Sons, 1845.</a>
 </p>
 <p>
 
