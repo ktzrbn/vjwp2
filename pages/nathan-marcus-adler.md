@@ -32,7 +32,7 @@ The keynote of Dr. Adler’s life is to be found in his unflinching orthodoxy. H
 
 He was the author of: (1) Hebrew prayers, recited during critical episodes in English history; (2) a volume of “Sermons” in German and English, including his installation address in London, “The Jewish Faith,” and “The Bonds of Brotherhood”; (3) several volumes of “Derashot” (Disquisitions), delivered by him semiannually to those interested in the study of the Talmud; (4) “Responsa,” several having reference to ritualistic questions in the Anglo-Jewish community (manuscript); (5) “Ḥiddushim” (Novellæ), consisting of short notes on the Talmud and Poseḳim, especially the Turim, with some annotations on Hai Gaon’s commentary, “Seder Ṭeharot,” Berlin, 1856; (6) German translation of Judah ha-Levi’s “Cuzari,” with copious explanatory notes (manuscript); (7) commentary on the Targum of Onkelos entitled “Netinah la-Ger” (A Gift to the Proselyte), published with an edition of the Pentateuch, Wilna, 1875 (in connection with this commentary he edited the “Sefer Yaer,” or “Patshegen,” and a Masorah on the Targum); (8) “Ahabat Yonatan” (The Love of Jonathan), a work in the same style as the “Netinah” on the so-called Targum of Jonathan, consisting of three parts.<sup>1</sup>
 
-<sup>1</sup>This article was originally published in The Jewish Encyclopedia, Volume 1, in 1901.
+<sup>1</sup>This article was originally published in <em>The Jewish Encyclopedia</em>, Volume I, in 1901.
 
 &nbsp;
 &nbsp;

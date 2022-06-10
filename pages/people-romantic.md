@@ -40,7 +40,8 @@ th, td {
 * Aguilar, Emanuel
 * [Aguilar, Grace](/grace-aguilar.html)
 * Aguilar, Sarah (Dias Fernandes)
-* Cohen, Levi Barent
+* Basevi, Miriam (Maria)
+* [Cohen, Levi Barent](/levi-barent-cohen.html)
 * Cohen, Levi Emanuel
 * D’Aguilar, Benjamin
 * D’Aguilar, Judith
@@ -78,6 +79,7 @@ th, td {
 * Lyon (Henry), Emma
 * Lyon, Solomon
 * [King, Charlotte [Dacre]](/charlotte-dacre.html)
+* Josephs, Michael (Meyer Konigsberg)
 * King, John [Jacob Rey]
 * Marks, David Woolf
 * Mendoza, Daniel
