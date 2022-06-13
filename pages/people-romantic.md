@@ -46,7 +46,7 @@ th, td {
 * D’Aguilar, Benjamin
 * D’Aguilar, Judith
 * D’Aguilar, Solomon
-* Disraeli, Benjamin
+* [Disraeli, Benjamin](/benjamin-disraeli.html)
 * D’Israeli, Isaac
 * Ephraim, Moses
 * Goldsmid, Abraham

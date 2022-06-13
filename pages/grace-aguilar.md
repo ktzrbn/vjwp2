@@ -84,7 +84,7 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 &nbsp;
 &nbsp;
 
-## Bibliography
+## Selected Bibliography
 
 <p>
 
