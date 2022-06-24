@@ -97,7 +97,7 @@ Georg Brandes, <em>Lord Beaconsfield.</em>
 </p>
 
 <p>
-<em>Henrietta</em> <em>Temple</em>. Vol. 2. Henry Colburn, 1837. [I think it only has two volumes. Not sure.]
+<em>Henrietta</em> <em>Temple</em>. Vol. 2. Henry Colburn, 1837.
 </p>
 
 <p>
@@ -145,7 +145,7 @@ Georg Brandes, <em>Lord Beaconsfield.</em>
 </p>
 
 <p>
-<em>Vivian Grey</em>. 1826. [You’ll have to look into which version of this is available.]
+<em>Vivian Grey</em>. 1826. 
 </p>
 
 <p>
