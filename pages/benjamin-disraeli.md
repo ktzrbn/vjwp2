@@ -61,99 +61,124 @@ Georg Brandes, <em>Lord Beaconsfield.</em>
 ## Selected Bibliography
 
 <p>
-<em>Coningsby, or the New Generation</em>. Vol. 1. Henry Colburn, 1844.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_96.html"><em>Coningsby, or the New Generation</em>. Vol. 1. Henry Colburn, 1844.</a>
 </p>
 
 <p>
-<em>Coningsby, or the New Generation</em>. Vol. 2. Henry Colburn, 1844.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_97.html"><em>Coningsby, or the New Generation</em>. Vol. 2. Henry Colburn, 1844.</a>
 </p>
 
 <p>
-<em>Coningsby, or the New Generation</em>. Vol. 3. Henry Colburn, 1844.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_98.html"><em>Coningsby, or the New Generation</em>. Vol. 3. Henry Colburn, 1844.</a>
 </p>
 
 <p>
-<em>Contarini Fleming, A Psychological Autobiography</em>. Vol. 1. Harper, 1832.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_99.html"><em>Contarini Fleming, A Psychological Autobiography</em>. Vol. 1. Harper, 1832.</a>
 </p>
 
 <p>
-<em>Contarini Fleming, A Psychological Autobiography</em>. Vol. 2. Harper, 1832.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_100.html"><em>Contarini Fleming, A Psychological Autobiography</em>. Vol. 2. Harper, 1832.</a>
 </p>
 
 <p>
-<em>Endymion</em>. Vol. 1. Longmans & Green, 1880.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_101.html"><em>Endymion</em>. Vol. 1. Longmans & Green, 1880.</a>
 </p>
 
 <p>
-<em>Endymion</em>. Vol. 2. Longmans & Green, 1880.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_102.html"><em>Endymion</em>. Vol. 2. Longmans & Green, 1880.</a>
 </p>
 
 <p>
-<em>Endymion</em>. Vol. 3. Longmans & Green, 1880.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_103.html"><em>Endymion</em>. Vol. 3. Longmans & Green, 1880.</a>
 </p>
 
 <p>
-<em>Henrietta</em> <em>Temple</em>. Vol. 1. Henry Colburn, 1837.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_104.html"><em>Henrietta</em> <em>Temple</em>. Vol. 1. Henry Colburn, 1837.</a>
 </p>
 
 <p>
-<em>Henrietta</em> <em>Temple</em>. Vol. 2. Henry Colburn, 1837.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_105.html"><em>Henrietta</em> <em>Temple</em>. Vol. 2. Henry Colburn, 1837.</a>
 </p>
 
 <p>
-<em>Lord George Bentinck, A Political Biography</em>. [?], 1852.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_107.html"><em>Lord George Bentinck, A Political Biography</em>. [?], 1852.</a>
 </p>
 
 <p>
-<em>Lothair</em>. Vol. 1. Longmans & Green, 1870.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_108.html"><em>Lothair</em>. Vol. 1. Longmans & Green, 1870.</a>
 </p>
 
 <p>
-<em>Lothair</em>. Vol. 2. Longmans & Green, 1870.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_109.html"><em>Lothair</em>. Vol. 2. Longmans & Green, 1870.</a>
 </p>
 
 <p>
-<em>Lothair</em>. Vol. 3. Longmans & Green, 1870.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_110.html"><em>Lothair</em>. Vol. 3. Longmans & Green, 1870.</a>
 </p>
 
 <p>
-<em>Sybil, or The Two Nations</em>. Vol. 1. Henry Colburn, 1845.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_111.html"><em>Sybil, or The Two Nations</em>. Vol. 1. Henry Colburn, 1845.</a>
 </p>
 
 <p>
-<em>Sybil, or The Two Nations</em>. Vol. 2. Henry Colburn, 1845.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_112.html"><em>Sybil, or The Two Nations</em>. Vol. 2. Henry Colburn, 1845.</a>
 </p>
 
 <p>
-<em>Sybil, or The Two Nations</em>. Vol. 3. Henry Colburn, 1845.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_113.html"><em>Sybil, or The Two Nations</em>. Vol. 3. Henry Colburn, 1845.</a>
 </p>
 
 <p>
-<em>Tancred, or the New Crusade</em>. Vol. 1. Henry Colburn, 1847.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_114.html"><em>Tancred, or the New Crusade</em>. Vol. 1. Henry Colburn, 1847.</a>
 </p>
 
 <p>
-<em>Tancred, or the New Crusade</em>. Vol. 2. Henry Colburn, 1847.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_115.html"><em>Tancred, or the New Crusade</em>. Vol. 2. Henry Colburn, 1847.</a>
 </p>
 
 <p>
-<em>Tancred, or the New Crusade</em>. Vol. 3. Henry Colburn, 1847.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_116.html"><em>Tancred, or the New Crusade</em>. Vol. 3. Henry Colburn, 1847.</a>
 </p>
 
 <p>
-<em>The Vindication of the English Constitution</em>. Saunders and Otley, 1835.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_117.html"><em>The Vindication of the English Constitution</em>. Saunders and Otley, 1835.</a>
 </p>
 
 <p>
-<em>Vivian Grey</em>. 1826. 
+<a href="https://victorianjewishwritersproject.org/items/vjwp_118.html"><em>Vivian Grey</em>. Vol 1. Henry Colburn, 1827.</a>
 </p>
 
 <p>
-<em>The Wondrous Tale of Alroy</em>. Saunders and Otley, 1833.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_119.html"><em>Vivian Grey</em>. Vol 2. Henry Colburn, 1827.</a>
 </p>
 
 <p>
-<em>The Young Duke</em>. Henry Colburn, 1831.
+<a href="https://victorianjewishwritersproject.org/items/vjwp_120.html"><em>Vivian Grey</em>. Vol 3. Henry Colburn, 1827.</a>
 </p>
+
+<p>
+<a href="https://victorianjewishwritersproject.org/items/vjwp_121.html"><em>Vivian Grey</em>. Vol 4. Henry Colburn, 1827.</a>
+</p>
+
+<p>
+<a href="https://victorianjewishwritersproject.org/items/vjwp_122.html"><em>Vivian Grey</em>. Vol 5. Henry Colburn, 1827.</a>
+</p>
+
+<p>
+<a href="https://victorianjewishwritersproject.org/items/vjwp_123.html"><em>The Wondrous Tale of Alroy</em>. Saunders and Otley, 1833.</a>
+</p>
+
+<p>
+<a href="https://victorianjewishwritersproject.org/items/vjwp_124.html"><em>The Young Duke</em>. Vol. 1. Henry Colburn, 1831.</a>
+</p>
+
+<p>
+<a href="https://victorianjewishwritersproject.org/items/vjwp_125.html"><em>The Young Duke</em>. Vol. 2. Henry Colburn, 1831.</a>
+</p>
+
+<p>
+<a href="https://victorianjewishwritersproject.org/items/vjwp_126.html"><em>The Young Duke</em>. Vol. 3. Henry Colburn, 1831.</a>
+</p>
+
 
 &nbsp;
