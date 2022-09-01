@@ -114,23 +114,23 @@ It appears that Solomon has been wiped from history, despite her promising caree
 ## Works Cited 
 
 
-* Cherry, Deborah. <em>Beyond the Frame: Feminism and Visual Culture, Britain 1850-1900</em>. 
-Routledge, 2012.
-* “Donation to the Jewish Philanthropic Society.” <em>Jewish Chronicle</em>, 13 Jun. 1862, p. 1.
-* “Donation to the Soup Kitchen for the Jewish Poor.” <em>Jewish Chronicle</em>, 20 Dec. 1861, p. 1.
-* Errington, Lindsay. <em>Sunshine and Shadow: The David Scott Collection of Victorian Paintings</em>. National Gallery of Scotland, 1991.
-* Ferrari, Roberto. “To the Rossettis, From the Solomons: Five Unpublished Letters.” <em>Notes and Queries</em>, vol. 52, no. 1, 2005, pp. 70–75.
-* “Rebecca Solomon.” <em>Simeon Solomon Research Archive</em>, [https://www.simeonsolomon.com](https://www.simeonsolomon.com).
-* Ferrari, Roberto. “Rebecca Solomon, Pre-Raphaelite Sister.” <em>Review of the Pre-Raphaelite Society</em>, vol. 12, no. 2, 2004, pp. 23–36.
-* <em>Solomon: A Family of Painters</em>, edited by Geffrye Museum and Birmingham Museums and Art Gallery, Inner London Education Authority, 1985.
-* Gerrish Nunn, Pamela. “Rebecca Solomon.” <em>Solomon: A Family of Painters</em>, edited by Geffrye Museum and Birmingham Museums and Art Gallery, Inner London Education Authority, 1985.
-* Kirchen, Anita. “Rebecca Solomon.” <em>Jewish Women’s Archive</em>, [https://jwa.org/encyclopedia/article/solomon-rebecca](https://jwa.org/encyclopedia/article/solomon-rebecca).
-* Lambourne, Lionel. “Abraham Solomon, Painter of Fashion, and Simeon Solomon, Decadent Artist.” <em>Transactions</em>, vol. 21, 1967, pp. 274–286.
-* Reynolds, Simon. <em>The Vision of Simeon Solomon</em>. Catalpa Press, 2010.
-* Valman, Nadia. <em>The Jewess in Nineteenth Century British Literary Culture</em>. Cambridge University Press, 2007.
-* Verhoeven, Timothy. <em>Secularists, Religion and Government in Nineteenth-Century America</em>. Springer International Publishing, 2018.
-* Welby, Thomas Earle. <em>The Victorian Romantics, 1850-70: The Early Work of Dante Gabriel Rossetti, William Morris, Burne-Jones, Swinburne, Simeon Solomon and their Associates</em>. G. Howe, 1929.
-* Wood, Christopher. <em>The Blessed Damozel: Women and Children in Victorian Art</em>. Christopher Wood Gallery, 1980.
+<p>Cherry, Deborah. <em>Beyond the Frame: Feminism and Visual Culture, Britain 1850-1900</em>. 
+Routledge, 2012.</p>
+<p>“Donation to the Jewish Philanthropic Society.” <em>Jewish Chronicle</em>, 13 Jun. 1862, p. 1.</p>
+<p>“Donation to the Soup Kitchen for the Jewish Poor.” <em>Jewish Chronicle</em>, 20 Dec. 1861, p. 1.</p>
+<p>Errington, Lindsay. <em>Sunshine and Shadow: The David Scott Collection of Victorian Paintings</em>. National Gallery of Scotland, 1991.</p>
+<p>Ferrari, Roberto. “To the Rossettis, From the Solomons: Five Unpublished Letters.” <em>Notes and Queries</em>, vol. 52, no. 1, 2005, pp. 70–75.</p>
+<p>“Rebecca Solomon.” <em>Simeon Solomon Research Archive</em>, [https://www.simeonsolomon.com](https://www.simeonsolomon.com).</p>
+<p>Ferrari, Roberto. “Rebecca Solomon, Pre-Raphaelite Sister.” <em>Review of the Pre-Raphaelite Society</em>, vol. 12, no. 2, 2004, pp. 23–36.</p>
+<p><em>Solomon: A Family of Painters</em>, edited by Geffrye Museum and Birmingham Museums and Art Gallery, Inner London Education Authority, 1985.</p>
+<p>Gerrish Nunn, Pamela. “Rebecca Solomon.” <em>Solomon: A Family of Painters</em>, edited by Geffrye Museum and Birmingham Museums and Art Gallery, Inner London Education Authority, 1985.</p>
+<p>Kirchen, Anita. “Rebecca Solomon.” <em>Jewish Women’s Archive</em>, [https://jwa.org/encyclopedia/article/solomon-rebecca](https://jwa.org/encyclopedia/article/solomon-rebecca).</p>
+<p>Lambourne, Lionel. “Abraham Solomon, Painter of Fashion, and Simeon Solomon, Decadent Artist.” <em>Transactions</em>, vol. 21, 1967, pp. 274–286.</p>
+<p>Reynolds, Simon. <em>The Vision of Simeon Solomon</em>. Catalpa Press, 2010.</p>
+<p>Valman, Nadia. <em>The Jewess in Nineteenth Century British Literary Culture</em>. Cambridge University Press, 2007.</p>
+<p>Verhoeven, Timothy. <em>Secularists, Religion and Government in Nineteenth-Century America</em>. Springer International Publishing, 2018.</p>
+<p>Welby, Thomas Earle. <em>The Victorian Romantics, 1850-70: The Early Work of Dante Gabriel Rossetti, William Morris, Burne-Jones, Swinburne, Simeon Solomon and their Associates</em>. G. Howe, 1929.</p>
+<p>Wood, Christopher. <em>The Blessed Damozel: Women and Children in Victorian Art</em>. Christopher Wood Gallery, 1980.</p>
 
 &nbsp;
 
