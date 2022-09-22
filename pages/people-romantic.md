@@ -115,6 +115,7 @@ th, td {
 * Salomons, Sir David
 * Salomons, Levy
 * Salomons, Philip
+* [Solomon, Rebecca](/rebecca-solomon.html)
 * Schiff, David Tevele
 * Sola, David Aaron
 * Van Oven, Joshua

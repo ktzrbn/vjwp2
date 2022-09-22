@@ -59,21 +59,16 @@ Solomon also affected reforms for women in the art community, joining a group of
 As aforementioned, Solomon was keen on marketing her own work and meeting prominent members of the art world, including the preeminent painter Dante Gabriel Rossetti. The relationship between the Rossetti and Solomon families has never been discussed in depth, but it is known that the two families were friendly. Simeon must have conversed with Rossetti quite often since both were part of the Pre-Raphaelite movement, and we know that these conversations extended to Rebecca. For example, in the following letter, Solomon appeals to Rossetti for his insight on a painting of hers. She originally addressed the letter from her mother’s address at 18 John Street, but then readdressed it from her studio in Fitzroy Street: 
 </p>
 
-<p style="margin-right:15%;">Studio</p>
-
-<p style="margin-right:15%;">12 Fitzroy Street</p>
-
+<p style="margin-right:15%; margin-bottom:0;">Studio</p>
+<p style="margin-right:15%; margin-bottom:0;">12 Fitzroy Street</p>
 <p style="margin-right:15%;">Monday</p>
-
 <p style="margin-right:15%;">Dear Mr Rossetti,</p>
 
 <p style="margin-right:15%;">If you should be in Town tomorrow I should feel greatly favoured if you could call to see my picture which leaves in the evening; the subject is the ‘Duchess of    
 Devonshire canvassing for Fox and allowing a butcher to kiss her for a vote’. I must apologise for not having written earlier but I have been so pressed for time. Simeon told me you were good enough to say you would let him know when your picture would be again on view. I trust I may take the liberty of also availing myself of this privilege, for having promised to return to Town with my friend the day I called. I had such a short time to see your most wonderful and lovely work, Mrs Lewis said that she hoped I would if an opportune it occurred present her excuses to you for having been so worried, but the cause was from having stayed longer than we thought at Mr Jones’s.</p>
 
-<p style="margin-right:15%;">With best compts [compliments]</p>
-
-
-<p style="margin-right:15%;">Believe me</p>
+<p style="margin-right:15%; margin-bottom:0;">With best compts [compliments]</p>
+<p style="margin-right:15%; margin-bottom:0;">Believe me</p>
 <p style="margin-right:15%;">Yours Faithfully,</p>
 <p style="margin-right:15%;">Rebecca Solomon</p>
 
@@ -84,7 +79,7 @@ Solomon often promoted her work to her clients through her endearing letters, an
 
 <p style="margin-right:15%;">Dear Sir,</p>
 <p style="margin-right:15%;">I should have much pleasure in a call from you if you have an opportunity before Tuesday evening the 2nd of April to see my Academy picture which is the incident of “The Duchess of Devonshire canvassing for Fox and allowing a butcher to kiss her for the vote.” With best to yourself and Mrs Hall trusting to have the pleasure of seeing her also to view my work.</p>
-<p style="margin-right:15%;">Believe me</p>
+<p style="margin-right:15%; margin-bottom:0;">Believe me</p>
 <p style="margin-right:15%;">Yours Faithfully,</p>
 <p style="margin-right:15%;">Rebecca Solomon (qtd. in Ferrari, 27)</p>
 
@@ -111,7 +106,7 @@ It appears that Solomon has been wiped from history, despite her promising caree
 &nbsp;
 &nbsp;
 
-## Works Cited 
+## Works Consulted 
 
 
 <p>Cherry, Deborah. <em>Beyond the Frame: Feminism and Visual Culture, Britain 1850-1900</em>. 
@@ -119,14 +114,14 @@ Routledge, 2012.</p>
 <p>“Donation to the Jewish Philanthropic Society.” <em>Jewish Chronicle</em>, 13 Jun. 1862, p. 1.</p>
 <p>“Donation to the Soup Kitchen for the Jewish Poor.” <em>Jewish Chronicle</em>, 20 Dec. 1861, p. 1.</p>
 <p>Errington, Lindsay. <em>Sunshine and Shadow: The David Scott Collection of Victorian Paintings</em>. National Gallery of Scotland, 1991.</p>
-<p>Ferrari, Roberto. “To the Rossettis, From the Solomons: Five Unpublished Letters.” <em>Notes and Queries</em>, vol. 52, no. 1, 2005, pp. 70–75.</p>
-<p>“Rebecca Solomon.” <em>Simeon Solomon Research Archive</em>, [https://www.simeonsolomon.com](https://www.simeonsolomon.com).</p>
 <p>Ferrari, Roberto. “Rebecca Solomon, Pre-Raphaelite Sister.” <em>Review of the Pre-Raphaelite Society</em>, vol. 12, no. 2, 2004, pp. 23–36.</p>
-<p><em>Solomon: A Family of Painters</em>, edited by Geffrye Museum and Birmingham Museums and Art Gallery, Inner London Education Authority, 1985.</p>
+<p>Ferrari, Roberto. “To the Rossettis, From the Solomons: Five Unpublished Letters.” <em>Notes and Queries</em>, vol. 52, no. 1, 2005, pp. 70–75.</p>
 <p>Gerrish Nunn, Pamela. “Rebecca Solomon.” <em>Solomon: A Family of Painters</em>, edited by Geffrye Museum and Birmingham Museums and Art Gallery, Inner London Education Authority, 1985.</p>
 <p>Kirchen, Anita. “Rebecca Solomon.” <em>Jewish Women’s Archive</em>, [https://jwa.org/encyclopedia/article/solomon-rebecca](https://jwa.org/encyclopedia/article/solomon-rebecca).</p>
 <p>Lambourne, Lionel. “Abraham Solomon, Painter of Fashion, and Simeon Solomon, Decadent Artist.” <em>Transactions</em>, vol. 21, 1967, pp. 274–286.</p>
+<p>“Rebecca Solomon.” <em>Simeon Solomon Research Archive</em>, [https://www.simeonsolomon.com](https://www.simeonsolomon.com).</p>
 <p>Reynolds, Simon. <em>The Vision of Simeon Solomon</em>. Catalpa Press, 2010.</p>
+<p><em>Solomon: A Family of Painters</em>, edited by Geffrye Museum and Birmingham Museums and Art Gallery, Inner London Education Authority, 1985.</p>
 <p>Valman, Nadia. <em>The Jewess in Nineteenth Century British Literary Culture</em>. Cambridge University Press, 2007.</p>
 <p>Verhoeven, Timothy. <em>Secularists, Religion and Government in Nineteenth-Century America</em>. Springer International Publishing, 2018.</p>
 <p>Welby, Thomas Earle. <em>The Victorian Romantics, 1850-70: The Early Work of Dante Gabriel Rossetti, William Morris, Burne-Jones, Swinburne, Simeon Solomon and their Associates</em>. G. Howe, 1929.</p>

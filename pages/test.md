@@ -1,0 +1,745 @@
+---
+title: test
+layout: page-full-width
+permalink: /test.html
+---
+<table>
+  <tr>
+   <td>Adler, Nathan Marcus
+   </td>
+   <td>1803–1890
+   </td>
+   <td>Rabbinical writer and Chief Rabbi from 1845–1890
+   </td>
+  </tr>
+  <tr>
+   <td>Aguilar, Emanuel
+   </td>
+   <td>1787–1845
+   </td>
+   <td>Composer, pianist, and music teacher, father of Grace Aguilar
+   </td>
+  </tr>
+  <tr>
+   <td>Aguilar, Grace
+   </td>
+   <td>1816–1847
+   </td>
+   <td>Novelist, poet, theologian, and historian
+   </td>
+  </tr>
+  <tr>
+   <td>Aguilar, Sarah (Dias Fernandes)
+   </td>
+   <td>1786–1854
+   </td>
+   <td>Founder of Mrs. and Miss Aguilar’s Preparatory Establishment for Young Gentlemen, mother of 
+<p>
+Grace Aguilar
+   </td>
+  </tr>
+  <tr>
+   <td>Alex, Ephraim
+   </td>
+   <td>1800–1882
+   </td>
+   <td>Philanthropist and businessman, founder of the 
+<p>
+Jewish Board of Guardians (1859)
+   </td>
+  </tr>
+  <tr>
+   <td>Angel, Moses
+   </td>
+   <td>1819–1898
+   </td>
+   <td>Headmaster of the Jews’ Free School from 1842–
+<p>
+1897, first co-editor of the <em>Jewish Chronicle</em> (with David Meldola)
+   </td>
+  </tr>
+  <tr>
+   <td>Basevi, Miriam [Maria]
+   </td>
+   <td>C1774–1847
+   </td>
+   <td>Mother of Benjamin Disraeli
+   </td>
+  </tr>
+  <tr>
+   <td>Benisch, Abraham
+   </td>
+   <td>1811–1878
+   </td>
+   <td>Hebraist, editor, and journalist, editor of the <em>Jewish </em>
+<p>
+<em>Chronicle</em> from 1854–1869 and 1875–1878
+   </td>
+  </tr>
+  <tr>
+   <td>Cohen, Levi Barent
+   </td>
+   <td>1747–1808
+   </td>
+   <td>Merchant and communal leader, first president of 
+<p>
+the Jews’ Hospital, father of Judith (Cohen) Montefiore and Hannah (Cohen) Rothschild
+   </td>
+  </tr>
+  <tr>
+   <td>Cohen, Levi Emanuel
+   </td>
+   <td>1796–1840
+   </td>
+   <td>Newspaper editor and founder of the <em>Brighton </em>
+<p>
+<em>Guardian</em> (1827)
+   </td>
+  </tr>
+  <tr>
+   <td>Dacre, Charlotte (King)
+   </td>
+   <td>C1782–1825
+   </td>
+   <td>Poet and author of Gothic novels, daughter of John 
+<p>
+King
+   </td>
+  </tr>
+  <tr>
+   <td>Disraeli, Benjamin, 1<sup>st</sup> Earl of Beaconsfield
+   </td>
+   <td>1804–1881
+   </td>
+   <td>Author, statesmen, and Conservative politician, Served twice as Prime Minister of the United 
+<p>
+Kingdom, 1868 and 1874–1880
+   </td>
+  </tr>
+  <tr>
+   <td>D’Israeli, Isaac
+   </td>
+   <td>1766–1848
+   </td>
+   <td>Author and father of Benjamin Disraeli
+   </td>
+  </tr>
+  <tr>
+   <td>Franklin, Jacob Abraham
+   </td>
+   <td>1809-1877
+   </td>
+   <td>Optician, actuary, and newspaper proprietor and 
+<p>
+editor, founder of the <em>Voice of Jacob</em> (1841–8) periodical
+   </td>
+  </tr>
+  <tr>
+   <td>Ephraim, Moses
+   </td>
+   <td>1745–1815
+   </td>
+   <td>Officiant of Plymouth Synagogue from C1780–1815
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Abraham
+   </td>
+   <td>C1756–1810
+   </td>
+   <td>Bill broker and stockbroker, son of Dutch merchant Aaron Goldsmid
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Anna Maria
+   </td>
+   <td>1805–1889
+   </td>
+   <td>Writer, translator, and philanthropist, daughter of 
+<p>
+Sir Isaac Lyon Goldsmid
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Asher
+   </td>
+   <td>C1751–1822
+   </td>
+   <td>Bullion broker, son of Aaron Goldsmid
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Augustus
+   </td>
+   <td>1818–1874
+   </td>
+   <td>Barrister, nephew of Sir Isaac Lyon Goldsmid, nephew of Sir David Salomons
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Benjamin
+   </td>
+   <td>C1755–1808
+   </td>
+   <td>Bill broker, son of Aaron Goldsmid
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Sir Francis Henry, 2nd Baronet
+   </td>
+   <td>1808–1878
+   </td>
+   <td>Politician, barrister, and communal leader, Liberal MP for Reading from 1860–1878, son of Sir Isaac Lyon Goldsmid
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Frederick David
+   </td>
+   <td>1812–1866
+   </td>
+   <td>Politician and communal leader, Liberal MP for 
+<p>
+Honiton from 1865–1866
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Sir Frederick John
+   </td>
+   <td>1818–1908
+   </td>
+   <td>Author, army officer, and civil servant in India, Director General of the Indo-European Telegraph, nephew of Sir Isaac Lyon Goldsmid
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Henry Edward (Moses)
+   </td>
+   <td>1812–1855
+   </td>
+   <td>East India Company official, married into the Goldsmid family
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Sir Isaac Lyon
+   </td>
+   <td>1778–1859
+   </td>
+   <td>Financier and communal leader, son of Asher 
+<p>
+Goldsmid, founding member of the West London 
+<p>
+Synagogue in C1840
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Jessie Sarah
+   </td>
+   <td>1816–1888
+   </td>
+   <td>Sister of Sir Frederick John Goldsmid, wife of Henry 
+<p>
+Edward (Moses) Goldsmid
+   </td>
+  </tr>
+  <tr>
+   <td>Goldsmid, Louisa Sophia
+   </td>
+   <td>1819–1908
+   </td>
+   <td>Feminist and philanthropist, niece of Sir Isaac Lyon 
+<p>
+Goldsmid, wife of Sir Francis Henry Goldsmid
+   </td>
+  </tr>
+  <tr>
+   <td>Gordon, Lord George
+   </td>
+   <td>1751–1793
+   </td>
+   <td>Aristocrat and politician, converted to Judaism in 1787
+   </td>
+  </tr>
+  <tr>
+   <td>Hartog, Marion (Moss)
+   </td>
+   <td>1821–1907
+   </td>
+   <td>Poet, author, and educator, co-founder of the first 
+<p>
+Jewish women’s periodical, the <em>Jewish Sabbath Journal</em> (1855), sister of Celia (Moss) Levetus
+   </td>
+  </tr>
+  <tr>
+   <td>Henry, Emma (Lyon)
+   </td>
+   <td>1788–1870
+   </td>
+   <td>First (published)Anglo- Jewish woman poet
+   </td>
+  </tr>
+  <tr>
+   <td>Hirschell, Solomon
+   </td>
+   <td>1762–1842
+   </td>
+   <td>Chief Rabbi from 1802–1842
+   </td>
+  </tr>
+  <tr>
+   <td>Hurwitz, Hyman
+   </td>
+   <td>C1770–1844
+   </td>
+   <td>Biblical scholar and Hebraist, founder of the Highgate Academy, professor of Hebrew at University College London
+   </td>
+  </tr>
+  <tr>
+   <td>Josephs, Michael
+   </td>
+   <td>1761–1849
+   </td>
+   <td>Hebraist, communal 
+<p>
+leader, and businessman, born Meyer Konigsberg
+   </td>
+  </tr>
+  <tr>
+   <td>King, John
+   </td>
+   <td>C1753–1824
+   </td>
+   <td>Money broker, radical writer, born Jacob Rey, father 
+<p>
+of Charlotte (King) Dacre
+   </td>
+  </tr>
+  <tr>
+   <td>Levetus, Celia (Moss)
+   </td>
+   <td>1819–1873
+   </td>
+   <td>Writer of Jewish historical fiction, co-founder of the 
+<p>
+first Jewish women’s periodical, the <em>Jewish Sabbath Journal</em> (1855), sister of Marion (Moss) Hartog
+   </td>
+  </tr>
+  <tr>
+   <td>Levi, David
+   </td>
+   <td>1742–1801
+   </td>
+   <td>Author, translator, and printer
+   </td>
+  </tr>
+  <tr>
+   <td>Lindo, Abigail
+   </td>
+   <td>1803–1848
+   </td>
+   <td>Lexicographer and scholar, first British Jew to compile a Hebrew-English dictionary
+   </td>
+  </tr>
+  <tr>
+   <td>Lindo, David Abarbanel
+   </td>
+   <td>1772–1852
+   </td>
+   <td>Communal leader and scion of the Lindo family, father of Abigail Lindo, uncle of Benjamin Disraeli
+   </td>
+  </tr>
+  <tr>
+   <td>Lindo, Elias Haim
+   </td>
+   <td>1783–1865
+   </td>
+   <td>Scholar and author, nephew of David Abarbanel Lindo
+   </td>
+  </tr>
+  <tr>
+   <td>Lousada, Abigail
+   </td>
+   <td>C1772–1833
+   </td>
+   <td>Scholar, mathematician, and translator
+   </td>
+  </tr>
+  <tr>
+   <td>Lousada, Emanuel Baruh
+   </td>
+   <td>1783–1854
+   </td>
+   <td>West Indies merchant and developer of Sidmouth, 
+<p>
+High Sheriff of Devon from 1842–1843, son of Isaac 
+<p>
+Baruh Lousada
+   </td>
+  </tr>
+  <tr>
+   <td>Lousada, Isaac Baruh
+   </td>
+   <td>1748–1831
+   </td>
+   <td>Mahamad of Bevis Marks from 1778–1820
+   </td>
+  </tr>
+  <tr>
+   <td>Lousada, Jane (Goldsmid)
+   </td>
+   <td>1783–1870
+   </td>
+   <td>Daughter of Abraham Goldsmid, wife of Emanuel 
+<p>
+Baruh Lousada
+   </td>
+  </tr>
+  <tr>
+   <td>Lousada, Moses Baruh
+   </td>
+   <td>1780–1826
+   </td>
+   <td>Solicitor at Austin Friars in the City of London, son 
+<p>
+of Isaac Baruh Lousada
+   </td>
+  </tr>
+  <tr>
+   <td>Lyon, Abraham Septimus (A.S.)
+   </td>
+   <td>1804–1872
+   </td>
+   <td>Diarist and brother of Emma (Lyon) Henry
+   </td>
+  </tr>
+  <tr>
+   <td>Lyon, Solomon
+   </td>
+   <td>1755–1820
+   </td>
+   <td>Writer, scholar, and Hebraist, established Britain’s 
+<p>
+first Jewish boarding school, father of Emma (Lyon) Henry
+   </td>
+  </tr>
+  <tr>
+   <td>Marks, David Woolf
+   </td>
+   <td>1811–1909
+   </td>
+   <td>Leader of the first British Reform temple (West 
+<p>
+London Synagogue of British Jews)
+   </td>
+  </tr>
+  <tr>
+   <td>Meldola, David
+   </td>
+   <td>1797­–1853
+   </td>
+   <td>Minister of Bevis Marks, the Spanish and Portuguese Synagogue, first co-editor of the <em>Jewish Chronicle</em> (with Moses Angel)
+   </td>
+  </tr>
+  <tr>
+   <td>Mendoza, Daniel
+   </td>
+   <td>C1765–1836
+   </td>
+   <td>Writer and prizefighter
+   </td>
+  </tr>
+  <tr>
+   <td>Mocatta, Anne (Goldsmid)
+   </td>
+   <td>1783–1837
+   </td>
+   <td>Daughter of George [Gershon] Goldsmid, wife of 
+<p>
+Daniel Mocatta
+   </td>
+  </tr>
+  <tr>
+   <td>Mocatta, Abraham
+   </td>
+   <td>1797–1880
+   </td>
+   <td>Bullion broker and stockbroker, grandson of 
+<p>
+Abraham (Lumbrozo) Mocatta (the founder of 
+<p>
+Mocatta & Goldsmid)
+   </td>
+  </tr>
+  <tr>
+   <td>Mocatta, Daniel
+   </td>
+   <td>1774–1865
+   </td>
+   <td>Son of Abraham (Lumbrozo) Mocatta
+   </td>
+  </tr>
+  <tr>
+   <td>Mocatta, David
+   </td>
+   <td>1806–1882
+   </td>
+   <td>Architect and first Jewish member of a profession in 
+<p>
+Britain, son of Moses Mocatta
+   </td>
+  </tr>
+  <tr>
+   <td>Mocatta, Isaac Lindo
+   </td>
+   <td>1818–1879
+   </td>
+   <td>Author of tracts on Jewish moral teachings and social questions, son of Moses Mocatta
+   </td>
+  </tr>
+  <tr>
+   <td>Mocatta, Moses
+   </td>
+   <td>1768–1857
+   </td>
+   <td>Bullion broker, Hebraist, and communal leader, president of the Board of Deputies from 1829–1835, son of Abraham (Lumbrozo) Mocatta
+   </td>
+  </tr>
+  <tr>
+   <td>Montefiore, Abraham Joseph Elias
+   </td>
+   <td>1788–1824
+   </td>
+   <td>Merchant and stockbroker, brother of Moses Montefiore, father of Charlotte Montefiore
+   </td>
+  </tr>
+  <tr>
+   <td>Montefiore, Charlotte
+   </td>
+   <td>1818–1854
+   </td>
+   <td>Writer and philanthropist, founder of the Cheap 
+<p>
+Jewish Library, niece of Sir Moses Montefiore
+   </td>
+  </tr>
+  <tr>
+   <td>Montefiore, Joseph Elias
+   </td>
+   <td>1759–1804
+   </td>
+   <td>London merchant and father of Moses Montefiore
+   </td>
+  </tr>
+  <tr>
+   <td>Montefiore, Lady Judith (Cohen)
+   </td>
+   <td>1784–1862
+   </td>
+   <td>Writer and philanthropist, wife of Moses Montefiore
+   </td>
+  </tr>
+  <tr>
+   <td>Montefiore, Sir Moses Haim
+   </td>
+   <td>1784–1885
+   </td>
+   <td>Businessman, diarist, and communal leader
+   </td>
+  </tr>
+  <tr>
+   <td>Montefiore, Rachel (Mocatta)
+   </td>
+   <td>1762–1844
+   </td>
+   <td>Mother of Moses Montefiore, daughter of Abraham 
+<p>
+Mocatta (the founder of Mocatta & Goldsmid)
+   </td>
+  </tr>
+  <tr>
+   <td>Nathan, Isaac
+   </td>
+   <td>1790–1864
+   </td>
+   <td>Composer, musicologist, and writer
+   </td>
+  </tr>
+  <tr>
+   <td>Polack, Elizabeth
+   </td>
+   <td>fl. 1830
+   </td>
+   <td>First Anglo-Jewish woman dramatist, possibly related to 
+<p>
+Solomon Polack
+   </td>
+  </tr>
+  <tr>
+   <td>Polack, Elizabeth
+   </td>
+   <td>fl. 1830
+   </td>
+   <td>Anglo-Jewish woman poet, possibly related to Elizabeth Polack (the dramatist)
+   </td>
+  </tr>
+  <tr>
+   <td>Polack, Ephraim
+   </td>
+   <td>b. C1801
+   </td>
+   <td>Tailor and noted hazzan, cousin of Henry Edward 
+<p>
+(Moses) Goldsmid
+   </td>
+  </tr>
+  <tr>
+   <td>Polack, Joel Samuel
+   </td>
+   <td>1807–1882
+   </td>
+   <td>Pioneer settler in New Zealand, son of Solomon 
+<p>
+Polack
+   </td>
+  </tr>
+  <tr>
+   <td>Polack, Maria
+   </td>
+   <td>fl. 1830
+   </td>
+   <td>First Anglo-Jewish woman novelist, daughter of 
+<p>
+Ephraim Polack, possibly related to Elizabeth Polack (the dramatist)
+   </td>
+  </tr>
+  <tr>
+   <td>Polack, Solomon
+   </td>
+   <td>1745–1839
+   </td>
+   <td>Artist and engraver
+   </td>
+  </tr>
+  <tr>
+   <td>Raphall, Morris Jacob
+   </td>
+   <td>1798–1868
+   </td>
+   <td>Orthodox rabbi and author, editor of the <em>Hebrew </em>
+<p>
+<em>Review and Magazine of Rabbinical Literature</em> (1834–6), rabbi of the Birmingham Synagogue from 1841–1849
+   </td>
+  </tr>
+  <tr>
+   <td>Rothschild, Sir Anthony de 
+<p>
+1<sup>st</sup> Baronet
+   </td>
+   <td>1810–1876
+   </td>
+   <td>Financier, High Sheriff of Buckinghamshire (1861), son of Nathan Mayer and Hannah (Cohen) Rothschild
+   </td>
+  </tr>
+  <tr>
+   <td>Rothschild, Charlotte von
+   </td>
+   <td>1819–1884
+   </td>
+   <td>German-born socialite, wife of Lionel de Rothschild
+   </td>
+  </tr>
+  <tr>
+   <td>Rothschild, Hannah (Cohen)
+   </td>
+   <td>1783–1850
+   </td>
+   <td>Sister of Judith (Cohen) Montefiore, wife of Nathan 
+<p>
+Mayer Rothschild
+   </td>
+  </tr>
+  <tr>
+   <td>Rothschild, Baron Lionel Nathan de
+   </td>
+   <td>1808–1879
+   </td>
+   <td>Banker, politician, and philanthropist, first Jewish MP in the House of Commons, Liberal MP for the City of London from appx. 1847–1868
+   </td>
+  </tr>
+  <tr>
+   <td>Rothschild, Lady Louisa (Montefiore) de
+   </td>
+   <td>1821–1910
+   </td>
+   <td>Philanthropist and founding member of the Union of Jewish Women, wife of Anthony de Rothschild
+   </td>
+  </tr>
+  <tr>
+   <td>Rothschild, Nathan Mayer
+   </td>
+   <td>1777–1836
+   </td>
+   <td>Banker, businessman, and financier, founder of the 
+<p>
+Rothschild banking family of England (1798), son of Mayer Amschel Rothschild of Frankfurt
+   </td>
+  </tr>
+  <tr>
+   <td>Sir David Salomons, 1st Baronet
+   </td>
+   <td>1797–1873
+   </td>
+   <td>Politician, businessman, and communal leader, Sheriff of London from 1835–1836, Liberal MP for Greenwich from 1851–1873, Lord Mayor of London (1855), son of Levy Salomons
+   </td>
+  </tr>
+  <tr>
+   <td>Salomons, Levy
+   </td>
+   <td>1774–1843
+   </td>
+   <td>Merchant and insurance broker
+   </td>
+  </tr>
+  <tr>
+   <td>Salomons, Philip
+   </td>
+   <td>1796–1867
+   </td>
+   <td>Businessman and communal leader, High Sheriff of Sussex (1852), son of Levy Salomons
+   </td>
+  </tr>
+  <tr>
+   <td>Schiff, David Tevele
+   </td>
+   <td>d. 1791
+   </td>
+   <td>Chief Rabbi from 1780–1791
+   </td>
+  </tr>
+  <tr>
+   <td>Sola, David Aaron de
+   </td>
+   <td>1796–1860
+   </td>
+   <td>Minister of Bevis Marks from 1818–1860
+   </td>
+  </tr>
+  <tr>
+   <td>Valletine, Isaac
+   </td>
+   <td>1793–1868
+   </td>
+   <td>Founder of the <em>Jewish Chronicle</em> (1841), the Jewish 
+<p>
+Association for the Diffusion of Religious Knowledge (1828), and the Jews’ Orphans Asylum (1831)
+   </td>
+  </tr>
+  <tr>
+   <td>Van Oven, Joshua
+   </td>
+   <td>1766–1838
+   </td>
+   <td>Writer, surgeon, and communal leader, founder of 
+<p>
+the Jews’ Free School, founder of the Jews’ Hospital
+   </td>
+  </tr>
+</table>
