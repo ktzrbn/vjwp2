@@ -83,7 +83,7 @@ th, td {
 * King, John [Jacob Rey]
 * Marks, David Woolf
 * Mendoza, Daniel
-* Merton, Hannah (Cohen)
+* [Merton, Hannah (Cohen)](/hannah-merton.html)
 * Mocatta, Abraham
 * Mocatta, Anne (Goldsmid)
 * Mocatta, Moses
