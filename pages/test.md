@@ -3,15 +3,23 @@ title: test
 layout: page-full-width
 permalink: /test.html
 ---
+
+<style>
+table, th, td {
+ columns-fill: balance;
+ padding: 15px;
+}
+
+</style>
 <table>
   <tr>
    <td>Adler, Nathan Marcus
    </td>
-   <td>1803–1890
+   <td style="white-space:nowrap;">1803–1890
    </td>
    <td>Rabbinical writer and Chief Rabbi from 1845–1890
    </td>
-  </tr>
+ </tr>
   <tr>
    <td>Aguilar, Emanuel
    </td>
@@ -34,7 +42,6 @@ permalink: /test.html
    <td>1786–1854
    </td>
    <td>Founder of Mrs. and Miss Aguilar’s Preparatory Establishment for Young Gentlemen, mother of 
-<p>
 Grace Aguilar
    </td>
   </tr>
@@ -43,9 +50,7 @@ Grace Aguilar
    </td>
    <td>1800–1882
    </td>
-   <td>Philanthropist and businessman, founder of the 
-<p>
-Jewish Board of Guardians (1859)
+   <td>Philanthropist and businessman, founder of the Jewish Board of Guardians (1859)
    </td>
   </tr>
   <tr>
@@ -54,14 +59,13 @@ Jewish Board of Guardians (1859)
    <td>1819–1898
    </td>
    <td>Headmaster of the Jews’ Free School from 1842–
-<p>
 1897, first co-editor of the <em>Jewish Chronicle</em> (with David Meldola)
    </td>
   </tr>
   <tr>
    <td>Basevi, Miriam [Maria]
    </td>
-   <td>C1774–1847
+   <td style="white-space:nowrap;">C1774–1847
    </td>
    <td>Mother of Benjamin Disraeli
    </td>
@@ -72,7 +76,6 @@ Jewish Board of Guardians (1859)
    <td>1811–1878
    </td>
    <td>Hebraist, editor, and journalist, editor of the <em>Jewish </em>
-<p>
 <em>Chronicle</em> from 1854–1869 and 1875–1878
    </td>
   </tr>
