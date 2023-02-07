@@ -10,14 +10,20 @@ img {
      max-width: 100%;
      height: auto;
 }
-table {
+
+table, th, td {
+ columns-fill: balance;
+ padding: 15px;
+}
+
+/* table {
   border-spacing: 0px;}
 
 th, td {
   padding: 5px 30px 5px 10px;
   border-spacing: 0px;
   font-size: 90%;
-  margin: 0px;}
+  margin: 0px;} */
 
 </style>
 
@@ -34,8 +40,141 @@ th, td {
 
 # People
 
-<!-- Master list is in Google docs--make sure that links on this page and links in Google Doc ALWAYS MATCH -->
+<table>
+   <tr>
+      <td><a href="nathan-marcus-adler.html">Adler, Nathan Marcus</a></td>
+      <td style="white-space:nowrap;">1803–1890</td>
+      <td>Rabbinical writer and Chief Rabbi from 1845–1890</td>
+   </tr>
+   <tr>
+      <td>Aguilar, Emanuel</td>
+      <td>1787–1845</td>
+      <td>Composer, pianist, and music teacher, father of Grace Aguilar</td>
+  </tr>
+  <tr>
+      <td><a href="grace-aguilar.html">Aguilar, Grace</a></td>
+      <td>1816–1847</td>
+      <td>Novelist, poet, theologian, and historian</td>
+  </tr>
+  <tr>
+      <td>Aguilar, Sarah (Dias Fernandes)</td>
+      <td>1786–1854</td>
+      <td>Founder of Mrs. and Miss Aguilar’s Preparatory Establishment for Young Gentlemen, mother of Grace Aguilar</td>
+  </tr>
+  <tr>
+      <td>Alex, Ephraim</td>
+      <td>1800–1882</td>
+      <td>Philanthropist and businessman, founder of the Jewish Board of Guardians (1859)</td>
+  </tr>
+  <tr>
+      <td>Angel, Moses</td>
+      <td>1819–1898</td>
+      <td>Headmaster of the Jews’ Free School from 1842–1897, first co-editor of the <em>Jewish Chronicle</em> (with David Meldola)</td>
+  </tr>
+  <tr>
+      <td>Basevi, Miriam [Maria]</td>
+      <td style="white-space:nowrap;">C1774–1847</td>
+      <td>Mother of Benjamin Disraeli</td>
+  </tr>
+  <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>  
+  <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  
 
+<!-- Master list is in Google docs--make sure that links on this page and links in Google Doc ALWAYS MATCH -->
+<!--
 * [Adler, Nathan Marcus](/nathan-marcus-adler.html)
 * Aguilar, Emanuel
 * [Aguilar, Grace](/grace-aguilar.html)
@@ -119,6 +258,6 @@ th, td {
 * Schiff, David Tevele
 * Sola, David Aaron
 * Van Oven, Joshua
-
+-->
 
 &nbsp;

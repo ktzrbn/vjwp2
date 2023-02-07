@@ -9,67 +9,47 @@ table, th, td {
  columns-fill: balance;
  padding: 15px;
 }
-
 </style>
+
+
 <table>
-  <tr>
-   <td>Adler, Nathan Marcus
-   </td>
-   <td style="white-space:nowrap;">1803–1890
-   </td>
-   <td>Rabbinical writer and Chief Rabbi from 1845–1890
-   </td>
- </tr>
-  <tr>
-   <td>Aguilar, Emanuel
-   </td>
-   <td>1787–1845
-   </td>
-   <td>Composer, pianist, and music teacher, father of Grace Aguilar
-   </td>
+   <tr>
+      <td>Adler, Nathan Marcus</td>
+      <td style="white-space:nowrap;">1803–1890</td>
+      <td>Rabbinical writer and Chief Rabbi from 1845–1890</td>
+   </tr>
+   <tr>
+      <td>Aguilar, Emanuel</td>
+      <td>1787–1845</td>
+      <td>Composer, pianist, and music teacher, father of Grace Aguilar</td>
   </tr>
   <tr>
-   <td>Aguilar, Grace
-   </td>
-   <td>1816–1847
-   </td>
-   <td>Novelist, poet, theologian, and historian
-   </td>
+      <td>Aguilar, Grace</td>
+      <td>1816–1847</td>
+      <td>Novelist, poet, theologian, and historian</td>
   </tr>
   <tr>
-   <td>Aguilar, Sarah (Dias Fernandes)
-   </td>
-   <td>1786–1854
-   </td>
-   <td>Founder of Mrs. and Miss Aguilar’s Preparatory Establishment for Young Gentlemen, mother of 
-Grace Aguilar
-   </td>
+      <td>Aguilar, Sarah (Dias Fernandes)</td>
+      <td>1786–1854</td>
+      <td>Founder of Mrs. and Miss Aguilar’s Preparatory Establishment for Young Gentlemen, mother of Grace Aguilar</td>
   </tr>
   <tr>
-   <td>Alex, Ephraim
-   </td>
-   <td>1800–1882
-   </td>
-   <td>Philanthropist and businessman, founder of the Jewish Board of Guardians (1859)
-   </td>
+      <td>Alex, Ephraim</td>
+      <td>1800–1882</td>
+      <td>Philanthropist and businessman, founder of the Jewish Board of Guardians (1859)</td>
   </tr>
   <tr>
-   <td>Angel, Moses
-   </td>
-   <td>1819–1898
-   </td>
-   <td>Headmaster of the Jews’ Free School from 1842–
-1897, first co-editor of the <em>Jewish Chronicle</em> (with David Meldola)
-   </td>
-  </tr>
+      <td>Angel, Moses</td>
+      <td>1819–1898</td>
+      <td>Headmaster of the Jews’ Free School from 1842–1897, first co-editor of the <em>Jewish Chronicle</em> (with David Meldola)</td>
+   </tr>
   <tr>
-   <td>Basevi, Miriam [Maria]
-   </td>
-   <td style="white-space:nowrap;">C1774–1847
-   </td>
-   <td>Mother of Benjamin Disraeli
-   </td>
+      <td>Basevi, Miriam [Maria]</td>
+      <td style="white-space:nowrap;">C1774–1847</td>
+      <td>Mother of Benjamin Disraeli</td>
   </tr>
+  
+  
   <tr>
    <td>Benisch, Abraham
    </td>
