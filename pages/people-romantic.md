@@ -105,7 +105,7 @@ permalink: /people-romantic.html
       <td>Poet and author of Gothic novels, daughter of John King</td>
   </tr>
   <tr>
-      <td><a href="benjamin-disraeli.html">Disraeli, Benjamin, 1 Earl of Beaconsfield</a></td>
+      <td><a href="benjamin-disraeli.html">Disraeli, Benjamin, 1st Earl of Beaconsfield</a></td>
       <td>1804–1881</td>
       <td>Author, statesman, and Conservative politician, served twice as Prime Minister of the United Kingdom (1868, 1874-80)</td>
   </tr>
@@ -117,7 +117,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Franklin, Jacob Abraham</td>
       <td>1809-1877</td>
-      <td>Optician, actuary, and newspaper proprietor and editor, founder of the <em>Voice of Jacob</em>(1841–8)</td>
+      <td>Optician, actuary, and newspaper proprietor and editor, founder of the <em>Voice of Jacob</em> (1841–8)</td>
   </tr>
     <tr>
       <td>Ephraim, Moses</td>
@@ -230,363 +230,239 @@ permalink: /people-romantic.html
       <td>Author, translator, and printer</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lindo, Abigail</td>
+      <td>1803–1848</td>
+      <td>Lexicographer and scholar, first British Jew to compile a Hebrew-English dictionary</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lindo, David Abarbanel</td>
+      <td>1772–1852</td>
+      <td>Communal leader and scion of the Lindo family, father of Abigail Lindo, uncle of Benjamin Disraeli</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lindo, Elias Haim</td>
+      <td>1783–1865</td>
+      <td>Scholar and author, nephew of David Abarbanel Lindo</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lousada, Abigail</td>
+      <td>C1772–1833</td>
+      <td>Scholar, mathematician, and translator</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lousada, Emanuel Baruh</td>
+      <td>1783–1854</td>
+      <td>West Indies merchant and developer of Sidmouth, High Sheriff of Devon (1842–3), son of Isaac Baruh Lousada</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lousada, Isaac Baruh</td>
+      <td>1748–1831</td>
+      <td>Mahamad of Bevis Marks (1778–1820)</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lousada, Jane (Goldsmid)</td>
+      <td>1783–1870</td>
+      <td>Daughter of Abraham Goldsmid, wife of Emanuel Baruh Lousada</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lousada, Moses Baruh</td>
+      <td>1780–1826</td>
+      <td>Solicitor at Austin Friars in the City of London, son of Isaac Baruh Lousada</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lyon, Abraham Septimus (A.S.)</td>
+      <td>1804–1872</td>
+      <td>Diarist and brother of Emma (Lyon) Henry</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Lyon, Solomon</td>
+      <td>1755–1820</td>
+      <td>Writer, scholar, and Hebraist, established Britain’s first Jewish boarding school, father of Emma (Lyon) Henry</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Marks, David Woolf</td>
+      <td>1811–1909</td>
+      <td>First spiritual leader of the West London Synagogue of British Jews</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Meldola, David</td>
+      <td>1797–1853</td>
+      <td>Minister of Bevis Marks (1828), first co-editor of the <em>Jewish Chronicle</em> (1841–2)</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="/hannah-merton.html">Merton, Hannah Moses (Cohen)</a></td>
+      <td>1816–1898</td>
+      <td>Diarist and homemaker</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Mendoza, Daniel</td>
+      <td>C1765–1836</td>
+      <td>Writer and prizefighter</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Mocatta, Anne (Goldsmid)</td>
+      <td>1797–1880</td>
+      <td>Bullion broker and stockbroker, grandson of Abraham Lumbrozo Mocatta (the founder of Mocatta & Goldsmid)</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Mocatta, David</td>
+      <td>1806–1882</td>
+      <td>Architect and first Jewish member of a profession in Britain, son of Moses Mocatta</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Mocatta, Isaac Lindo</td>
+      <td>1818–1879</td>
+      <td>Author of tracts on Jewish moral teachings and social questions, son of Moses Mocatta</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Mocatta, Moses</td>
+      <td>1768–1857</td>
+      <td>Bullion broker, Hebraist, and communal leader, president of the Board of Deputies (1829–35), son of Abraham Lumbrozo Mocatta</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Montefiore, Abraham Joseph Elias</td>
+      <td>1788–1824</td>
+      <td>Merchant and stockbroker, brother of Moses Montefiore, father of Charlotte Montefiore</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Montefiore, Charlotte</td>
+      <td>1818–1854</td>
+      <td>Writer and philanthropist, founder of the Cheap Jewish Library, niece of Sir Moses Montefiore</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Montefiore, Joseph Elias</td>
+      <td>1759–1804</td>
+      <td>London merchant and father of Moses Montefiore</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="/judith-montefiore.html">Montefiore, Lady Judith (Cohen)</a></td>
+      <td>1784–1862</td>
+      <td>Writer and philanthropist, author of the first Anglo-Jewish cookbook, wife of Moses Montefiore</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="/moses-montefiore.html">Montefiore, Sir Moses Haim</a></td>
+      <td>1784-1885</td>
+      <td>Businessman, philanthropist, and communal leader</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Montefiore, Rachel (Mocatta)</td>
+      <td>1762–1844</td>
+      <td>Mother of Moses Montefiore, daughter of Abraham Mocatta (the founder of Mocatta & Goldsmid)</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="isaac-nathan.html">Nathan, Isaac</a></td>
+      <td>1790–1864</td>
+      <td>Composer, musicologist, and writer</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="elizabeth-polack-playwright.html">Polack, Elizabeth</a></td>
+      <td>fl. 1830</td>
+      <td>First Anglo-Jewish woman dramatist, related to Solomon Polack</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="elizabeth-polack-poet.html">Polack, Elizabeth</a></td>
+      <td>fl. 1830</td>
+      <td>Anglo-Jewish woman poet</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Polack, Ephraim</td>
+      <td>b. C1801</td>
+      <td>Tailor and noted hazzan, cousin of Henry Edward (Moses) Goldsmid</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Polack, Joel Samuel</td>
+      <td>1807–1882</td>
+      <td>Pioneer settler in New Zealand, son of Solomon Polack</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="maria-polack.html">Polack, Maria</a></td>
+      <td>fl. 1830</td>
+      <td>First Anglo-Jewish woman novelist, daughter of Ephraim Polack, related to Elizabeth Polack</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Polack, Solomon</td>
+      <td>1745–1839</td>
+      <td>Artist and engraver</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Raphall, Morris Jacob</td>
+      <td>1798–1868</td>
+      <td>Orthodox rabbi and author, editor of the <em>Hebrew Review and Magazine of Rabbinical Literature</em> (1834–6), rabbi of the Birmingham Synagogue (1841–9)</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Rothschild, Sir Anthony de 1st Baronet</td>
+      <td>1810–1876</td>
+      <td>Financier, High Sheriff of Buckinghamshire (1861), son of Nathan Mayer and Hannah (Cohen) Rothschild</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Rothschild, Charlotte von</td>
+      <td>1819–1884</td>
+      <td>German-born socialite, wife of Lionel de Rothschild</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Rothschild, Hannah (Cohen)</td>
+      <td>1783–1850</td>
+      <td>Sister of Judith (Cohen) Montefiore, wife of Nathan Mayer Rothschild</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Rothschild, Baron Lionel Nathan de</td>
+      <td>1808–1879</td>
+      <td>Banker, politician, and philanthropist, first Jewish MP in the House of Commons, Liberal MP for the City of London (1847-68)</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Rothschild, Lady Louisa (Montefiore) de</td>
+      <td>1821-1910</td>
+      <td>Philanthropist and founding member of the Union of Jewish Women, wife of Anthony de Rothschild</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Rothschild, Nathan Mayer</td>
+      <td>1777–1836</td>
+      <td>Banker, businessman, and financier, founder of the Rothschild banking family of England (1798), son of Mayer Amschel Rothschild of Frankfurt</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Salomons, Sir David 1st Baronet</td>
+      <td>1797–1873</td>
+      <td>Politicians, businessman, and communal leader, Sheriff of London (1835-6), Liberal MP for Greenwich (1851-73), Lord Mayor of London (1855), son of Levy Salomons</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Salomons, Levy</td>
+      <td>1774–1843</td>
+      <td>Merchant and insurance broker</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Salomons, Philip</td>
+      <td>1796–1867</td>
+      <td>Businessman and communal leader, High Sheriff of Sussex (1852), son of Levy Salomons</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Samuel, Moses</td>
+      <td>1795–1860</td>
+      <td>Writer, translator, and Hebraist</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Schiff, David Tevele</td>
+      <td>d. 1791</td>
+      <td>Chief Rabbi (1780–91)</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Sola, David Aaron de</td>
+      <td>1796–1860</td>
+      <td>Minister of Bevis Marks (1818–60)</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Sussman (Abrahams), Abraham</td>
+      <td>1801–1880</td>
+      <td>Hasidic shochet and scholar, first notable Polish Hasid to settle in Britain (1837)</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Vallentine, Isaac</td>
+      <td>C1793–1868</td>
+      <td>Founder of the <em>Jewish Chronicle</em> (1841), the Jewish Association for the Diffusion of Religious Knowledge (1828), and the Jews’ Orphans Asylum (1831)</td>
   </tr>
   <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Van Oven, Joshua</td>
+      <td>1766–1838</td>
+      <td>Writer, surgeon, and communal leader, co-founder of the Jews’ Free School (1817), founder of the Jews’ Hospital (1807)</td>
   </tr>
-  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
-  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
-  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
-  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
-  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
-  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
-  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
-
-  
-
-<!-- Master list is in Google docs--make sure that links on this page and links in Google Doc ALWAYS MATCH -->
-<!--
-* [Adler, Nathan Marcus](/nathan-marcus-adler.html)
-* Aguilar, Emanuel
-* [Aguilar, Grace](/grace-aguilar.html)
-* Aguilar, Sarah (Dias Fernandes)
-* Basevi, Miriam (Maria)
-* [Cohen, Levi Barent](/levi-barent-cohen.html)
-* Cohen, Levi Emanuel
-* D’Aguilar, Benjamin
-* D’Aguilar, Judith
-* D’Aguilar, Solomon
-* [Disraeli, Benjamin](/benjamin-disraeli.html)
-* D’Israeli, Isaac
-* Ephraim, Moses
-* Goldsmid, Abraham
-* Goldsmid, Anna Maria
-* Goldsmid, Asher
-* Goldsmid, Augustus
-* Goldsmid, Benjamin
-* Goldsmid, Sir Francis Henry
-* Goldsmid, Frederick David
-* Goldsmid, Sir Frederick John
-* Goldsmid, Henry Edward (Moses)
-* Goldsmid, Sir Isaac Lyon
-* Goldsmid, Jessie Sarah
-* Goldsmid, Louisa Sophia
-* Gordon, Lord George
-* Hirschell, Solomon
-* Hurwitz, Hyman
-* Josephs, Michael [Meyer]
-* [Levi, David](/david-levi.html)
-* Lindo, Abigail
-* Lindo, David Abarbanel
-* Lindo, Elias Haim
-* Lindo, Moses
-* Lousada, Abigail
-* Lousada, Emanuel Baruh
-* Lousada, Isaac Baruh
-* Lousada, Jane (Goldsmid)
-* Lousada, Moses Baruh
-* Lyon, Abraham Septimus (A. S.)
-* Lyon (Henry), Emma
-* Lyon, Solomon
-* [King, Charlotte [Dacre]](/charlotte-dacre.html)
-* Josephs, Michael (Meyer Konigsberg)
-* King, John [Jacob Rey]
-* Marks, David Woolf
-* Mendoza, Daniel
-* [Merton, Hannah (Cohen)](/hannah-merton.html)
-* Mocatta, Abraham
-* Mocatta, Anne (Goldsmid)
-* Mocatta, Moses
-* Montefiore, Abraham Joseph Elias
-* Montefiore, Charlotte
-* Montefiore, Joseph Elias
-* [Montefiore, Lady Judith (Cohen)](/judith-montefiore.html)
-* [Montefiore, Sir Moses](/moses-montefiore.html)
-* Montefiore, Rachel (Mocatta)
-* Moss (Levetus), Celia
-* Moss (Hartog), Marion
-* [Nathan, Isaac](/isaac-nathan.html)
-* Polack, Ephraim
-* [Polack, Elizabeth [playwright]](/elizabeth-polack-playwright.html)
-* [Polack, Elizabeth [poet]](/elizabeth-polack-poet.html)
-* Polack, Joel Samuel
-* [Polack, Maria](/maria-polack.html)
-* Polack, Solomon
-* Raphall, Morris J. Raphall
-* Rothschild, Sir Anthony de
-* Rothschild, Charlotte de
-* Rothschild, Hannah (Cohen)
-* Rothschild, Hannah Mayer de
-* Rothschild, Lionel de
-* Rothschild, Lady Louise
-* Rothschild, Mayer Amschel de
-* Rothschild, Nathan Mayer
-* Rothschild, Nathanial de
-* Salomons, Sir David
-* Salomons, Levy
-* Salomons, Philip
-* [Solomon, Rebecca](/rebecca-solomon.html)
-* Schiff, David Tevele
-* Sola, David Aaron
-* Van Oven, Joshua
--->
 
 &nbsp;

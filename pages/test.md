@@ -43,7 +43,7 @@ table, th, td {
       <td>1819–1898</td>
       <td>Headmaster of the Jews’ Free School from 1842–1897, first co-editor of the <em>Jewish Chronicle</em> (with David Meldola)</td>
    </tr>
-  <tr>
+   <tr>
       <td>Basevi, Miriam [Maria]</td>
       <td style="white-space:nowrap;">C1774–1847</td>
       <td>Mother of Benjamin Disraeli</td>
