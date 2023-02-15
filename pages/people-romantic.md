@@ -45,6 +45,21 @@ permalink: /people-romantic.html
       <td>Writer and educationist</td>
   </tr>
    <tr>
+      <td>Abrahams (Sussman), Abraham</td>
+      <td>1801-1880</td>
+      <td>Hasidic shochet and scholar, first notable Polish Hasid to settle in Britain (1837)</td>
+  </tr>
+   <tr>
+      <td>Adler, Celestine (Lehfeldt)</td>
+      <td>1821-1891</td>
+      <td>Second wife of Nathan Marcus Adler, mother of Elkan Nathan Adler</td>
+  </tr>
+   <tr>
+      <td>Adler, Henrietta (Worms)</td>
+      <td>1800-1853</td>
+      <td>First wife of Nathan Marcus Adler, mother of Marcus Nathan Adler and Hermann Adler</td>
+  </tr>
+   <tr>
       <td><a href="nathan-marcus-adler.html">Adler, Nathan Marcus</a></td>
       <td style="white-space:nowrap;">1803–1890</td>
       <td>Rabbinical writer and Chief Rabbi (1845-90)</td>
@@ -84,10 +99,20 @@ permalink: /people-romantic.html
       <td style="white-space:nowrap;">C1774–1847</td>
       <td>Mother of Benjamin Disraeli</td>
   </tr>
+   <tr>
+      <td>Belisario, Miriam Mendes</td>
+      <td>C1820-1885</td>
+      <td>Writer, teacher, and lexicographer</td>
+  </tr>
   <tr>
       <td>Benisch, Abraham</td>
       <td>1811-1878</td>
       <td>Hebraist, editor, and journalist, editor of the <em>Jewish Chronicle</em> (1854–69, 1875–8)</td>
+  </tr>
+   <tr>
+      <td>Bresslau, Marcus Hyman</td>
+      <td>C1808-1864</td>
+      <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844-48)</td>
   </tr>
   <tr>
       <td><a href="levi-barent-cohen.html">Cohen, Levi Barent</a></td>
@@ -114,10 +139,20 @@ permalink: /people-romantic.html
       <td>1766-1848</td>
       <td>Author and father of Benjamin Disraeli</td>
   </tr>
+   <tr>
+      <td>Deutsch, Emanuel</td>
+      <td>1829-1873</td>
+      <td>German-born writer and scholar</td>
+  </tr>
   <tr>
       <td>Franklin, Jacob Abraham</td>
       <td>1809-1877</td>
       <td>Optician, actuary, and newspaper proprietor and editor, founder of the <em>Voice of Jacob</em> (1841–8)</td>
+  </tr>
+   <tr>
+      <td>Edelmann, Zevi Hirsch</td>
+      <td>1805-1858</td>
+      <td>Russian-born Hebraist and scholar</td>
   </tr>
     <tr>
       <td>Ephraim, Moses</td>
@@ -187,7 +222,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Gordon, Lord George</td>
       <td>1751–1793</td>
-      <td>Aristocrat and politician, converted to Judaism in 1787</td>
+      <td>Aristocrat and politician, converted to Judaism (1787)</td>
   </tr>
   <tr>
       <td>Hartog, Marion (Moss)</td>
@@ -212,7 +247,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Josephs, Michael</td>
       <td>1761–1849</td>
-      <td>Hebraist, communal leader, and businessman, born Meyer Konigsberg</td>
+      <td>Businessman, Hebraist, and communal leader, born Meyer Konigsberg</td>
   </tr>
   <tr>
       <td>King, John</td>
@@ -274,6 +309,11 @@ permalink: /people-romantic.html
       <td>1804–1872</td>
       <td>Diarist and brother of Emma (Lyon) Henry</td>
   </tr>
+   <tr>
+      <td>Lyon, Sarah (Lindo)</td>
+      <td>1823-1906</td>
+      <td>Diarist and wife of A.S. Lyon</td>
+  </tr>
   <tr>
       <td>Lyon, Solomon</td>
       <td>1755–1820</td>
@@ -304,6 +344,11 @@ permalink: /people-romantic.html
       <td>1797–1880</td>
       <td>Bullion broker and stockbroker, grandson of Abraham Lumbrozo Mocatta (the founder of Mocatta & Goldsmid)</td>
   </tr>
+   <tr>
+      <td>Mocatta, Abraham</td>
+      <td>1797-1880</td>
+      <td>Bullion broker and stockbroker, grandson of Abraham (Lumbrozo) Mocatta (the founder of Mocatta & Goldsmid)</td>
+  </tr>
   <tr>
       <td>Mocatta, David</td>
       <td>1806–1882</td>
@@ -317,7 +362,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Mocatta, Moses</td>
       <td>1768–1857</td>
-      <td>Bullion broker, Hebraist, and communal leader, president of the Board of Deputies (1829–35), son of Abraham Lumbrozo Mocatta</td>
+      <td>Bullion broker, Hebraist, and communal leader, president of the Board of Deputies (1829–35), son of Abraham (Lumbrozo) Mocatta</td>
   </tr>
   <tr>
       <td>Montefiore, Abraham Joseph Elias</td>
@@ -353,6 +398,11 @@ permalink: /people-romantic.html
       <td><a href="isaac-nathan.html">Nathan, Isaac</a></td>
       <td>1790–1864</td>
       <td>Composer, musicologist, and writer</td>
+  </tr>
+   <tr>
+      <td>Newman, Selig</td>
+      <td>1788-1871</td>
+      <td>German-born Hebraist and writer</td>
   </tr>
   <tr>
       <td><a href="elizabeth-polack-playwright.html">Polack, Elizabeth</a></td>
@@ -448,11 +498,6 @@ permalink: /people-romantic.html
       <td>Sola, David Aaron de</td>
       <td>1796–1860</td>
       <td>Minister of Bevis Marks (1818–60)</td>
-  </tr>
-  <tr>
-      <td>Sussman (Abrahams), Abraham</td>
-      <td>1801–1880</td>
-      <td>Hasidic shochet and scholar, first notable Polish Hasid to settle in Britain (1837)</td>
   </tr>
   <tr>
       <td>Vallentine, Isaac</td>
