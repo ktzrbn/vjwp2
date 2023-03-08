@@ -232,9 +232,119 @@ img {
       <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844–48)</td>
   </tr>  
   <tr>
+      <td>Cohen, Julia (Waley)</td>
+      <td style="white-space:nowrap;">1853–1917</td>
+      <td>Founder of the Union of Jewish Women (1902)</td>
+  </tr>  
+  <tr>
+      <td>Cohen, Nathaniel Louis</td>
+      <td style="white-space:nowrap;">1844–1913</td>
+      <td>Governmental advisor and communal leader, husband of Julia Cohen</td>
+  </tr>
+  <tr>
+      <td>Cuffe, Ellen (Bischoffsheim)</td>
+      <td style="white-space:nowrap;">1857–1933</td>
+      <td>London-born Irish politician and philanthropist, president of the Gaelic League, first Jewish senator in Ireland</td>
+  </tr> 
+  <tr>
+      <td>Deutsch, Emanuel</td>
+      <td style="white-space:nowrap;">1829–1873</td>
+      <td>German-born writer and scholar</td>
+  </tr> 
+  <tr>
+      <td>Disraeli, Benjamin 1st Earl of Beaconsfield</td>
+      <td style="white-space:nowrap;">1804–1881</td>
+      <td>Author, statesman, and Conservative politician, served twice as Prime Minister of the United Kingdom (1868, 1874-80)</td>
+  </tr> 
+  <tr>
+      <td>Edelmann, Zevi Hirsch</td>
+      <td style="white-space:nowrap;">1805–1858</td>
+      <td>Russian-born Hebraist and scholar</td>
+  </tr> 
+  <tr>
+      <td>Farjeon, Benjamin</td>
+      <td style="white-space:nowrap;">1838–1903</td>
+      <td>Novelist and playwright</td>
+  </tr> 
+  <tr>
+      <td>Franklin, Jacob Abraham</td>
+      <td style="white-space:nowrap;">1809-1877</td>
+      <td>Optician, actuary, and newspaper proprietor and editor, founder of the <em>Voice of Jacob</em> (1841–8)</td>
+  </tr> 
+  <tr>
+      <td>Frankau, Julia</td>
+      <td style="white-space:nowrap;">1859–1916</td>
+      <td>Novelist alias Frank Danby</td>
+  </tr> 
+  <tr>
+      <td>Goldsmid, Anna Maria</td>
+      <td style="white-space:nowrap;">1805–1889</td>
+      <td>Writer, translator, and philanthropist, daughter of Isaac Lyon Goldsmid</td>
+  </tr> 
+  <tr>
+      <td>Goldsmid, Augustus</td>
+      <td style="white-space:nowrap;">1818–1874</td>
+      <td>Barrister, nephew of Isaac Lyon Goldsmid, nephew of David Salomons</td>
+  </tr> 
+  <tr>
+      <td>Goldsmid, Sir Francis Henry 2nd Baronet</td>
+      <td style="white-space:nowrap;">1808–1878</td>
+      <td>Politician, barrister, and communal leader, Liberal MP for Reading (1860-78), first Jew to become an English barrister, son of Isaac Lyon Goldsmid</td>
+  </tr> 
+  <tr>
+      <td>Goldsmid, Frederick David</td>
+      <td style="white-space:nowrap;">1812–1866</td>
+      <td>Politician and communal leader, Liberal MP for Honiton (1865–6), son of Isaac Lyon Goldsmid</td>
+  </tr> 
+  <tr>
+      <td>Goldsmid, Sir Frederick John</td>
+      <td style="white-space:nowrap;">1818–1908</td>
+      <td>Author, army officer, and civil servant in India, Director General of the Indo-European Telegraph, nephew of Isaac Lyon Goldsmid</td>
+  </tr> 
+  <tr>
+      <td>Goldsmid, Henry Edward (Moses)</td>
+      <td style="white-space:nowrap;">1812–1855</td>
+      <td>East India Company official, married into the Goldsmid family</td>
+  </tr> 
+  <tr>
+      <td>Goldsmid, Sir Isaac Lyon</td>
+      <td style="white-space:nowrap;">1778–1859</td>
+      <td>Financier and communal leader, founding member of the West London Synagogue (C1840), son of Asher Goldsmid</td>
+  </tr>
+  <tr>
+      <td>Goldsmid, Jessie Sarah</td>
+      <td style="white-space:nowrap;">1816–1888</td>
+      <td>Sister of Frederick John Goldsmid, wife of Henry Edward (Moses) Goldsmid</td>
+  </tr> 
+  <tr>
+      <td>Goldsmid, Louisa Sophia</td>
+      <td style="white-space:nowrap;">1819–1908</td>
+      <td>Feminist and philanthropist, niece of Isaac Lyon Goldsmid, wife of Francis Henry Goldsmid</td>
+  </tr> 
+  <tr>
+      <td>Gordon, Samuel</td>
+      <td style="white-space:nowrap;">1871–1927</td>
+      <td>Bavarian-born novelist and dramatist</td>
+  </tr> 
+  <tr>
+      <td>Harris, Emily Marion</td>
+      <td style="white-space:nowrap;">C1844–1900</td>
+      <td>Novelist, poet, and educationist</td>
+  </tr> 
+  <tr>
+      <td>Harris, Isidore</td>
+      <td style="white-space:nowrap;">1853–1925</td>
+      <td>Writer and historian</td>
+  </tr> 
+  <tr>
+      <td>Hartog, Marion (Moss)</td>
+      <td style="white-space:nowrap;">1821–1907</td>
+      <td>Poet, author, and educator, co-founder of the first Jewish women’s periodical, the <em>Jewish Sabbath Journal</em> (1855), sister of Celia (Moss) Levetus</td>
+  </tr> 
+  <tr>
       <td></td>
       <td style="white-space:nowrap;"></td>
       <td></td>
-  </tr>  
+  </tr> 
 
 &nbsp;
