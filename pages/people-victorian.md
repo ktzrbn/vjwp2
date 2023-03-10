@@ -342,6 +342,256 @@ img {
       <td>Poet, author, and educator, co-founder of the first Jewish women’s periodical, the <em>Jewish Sabbath Journal</em> (1855), sister of Celia (Moss) Levetus</td>
   </tr> 
   <tr>
+      <td>Henry, Emma (Lyon)</td>
+      <td style="white-space:nowrap;">1788–1870</td>
+      <td>First published Anglo-Jewish woman poet</td>
+  </tr> 
+  <tr>
+      <td>Henry, Lucy</td>
+      <td style="white-space:nowrap;">1852–1923</td>
+      <td>Writer and granddaughter of Emma Lyon Henry, niece of Michael Henry</td>
+  </tr> 
+  <tr>
+      <td>Henry, Michael</td>
+      <td style="white-space:nowrap;">1830–1875</td>
+      <td>Editor of the <em>Jewish Chronicle</em> (1868–75), son of Emma (Lyon) Henry</td>
+  </tr> 
+  <tr>
+      <td>Joseph, Delissa</td>
+      <td style="white-space:nowrap;">1859–1927</td>
+      <td>Architect and communal leader, designed synagogues such as Hampstead, lay leader of the New West End Synagogue</td>
+  </tr> 
+  <tr>
+      <td>Joseph, Lily Delissa (Solomon)</td>
+      <td style="white-space:nowrap;">1863–1940</td>
+      <td>Painter and women’s suffrage campaigner, pioneer cyclist,wife of Delissa Joseph, sister of Solomon J. Solomon</td>
+  </tr> 
+  <tr>
+      <td>Leverson, Ada Esther	(Beddington)</td>
+      <td style="white-space:nowrap;">1862–1933</td>
+      <td>Novelist and friend of Oscar Wilde, granddaughter of John Simon</td>
+  </tr> 
+  <tr>
+      <td>Levetus, Celia (Moss)</td>
+      <td style="white-space:nowrap;">1819–1873</td>
+      <td>Writer of Jewish historical fiction, co-founder of the first Jewish women’s periodical, the <em>Jewish Sabbath Journal</em> (1855), sister of Marion (Moss) Hartog</td>
+  </tr> 
+  <tr>
+      <td>Levy, Amy</td>
+      <td style="white-space:nowrap;">1861–1889</td>
+      <td>Writer and poet, second Jewish woman to attend Cambridge University and the first at Newnham College (1879–81)</td>
+  </tr> 
+  <tr>
+      <td>Lindo, David Abarbanel</td>
+      <td style="white-space:nowrap;">1772–1852</td>
+      <td>Communal leader and scion of the Lindo family, father of Abigail Lindo, uncle of Benjamin Disraeli</td>
+  </tr> 
+  <tr>
+      <td>Lindo, Elias Haim</td>
+      <td style="white-space:nowrap;">1783–1865</td>
+      <td>Scholar and author, nephew of David Abarbanel Lindo</td>
+  </tr> 
+  <tr>
+      <td>Lousada, Emanuel Baruh</td>
+      <td style="white-space:nowrap;">1783–1854</td>
+      <td>West Indies merchant and developer of Sidmouth, High Sheriff of Devon (1842–3), son of Isaac Baruh Lousada</td>
+  </tr> 
+  <tr>
+      <td>Lousada, Jane (Goldsmid)</td>
+      <td style="white-space:nowrap;">1783–1870</td>
+      <td>Daughter of Abraham Goldsmid, wife of Emanuel Baruh Lousada</td>
+  </tr> 
+  <tr>
+      <td>Lucas, Alice (Montefiore)</td>
+      <td style="white-space:nowrap;">1851–1935</td>
+      <td>Poet and translator, founder and president of the Jewish Study Society, sister of Claude Goldsmid Montefiore</td>
+  </tr> 
+  <tr>
+      <td>Lucas, Helen (Goldsmid)</td>
+      <td style="white-space:nowrap;">1835–1918</td>
+      <td>Philanthropist and communal leader, daughter of Frederick David Goldsmid</td>
+  </tr> 
+  <tr>
+      <td>Lyon, Abraham Septimus [A.S.]</td>
+      <td style="white-space:nowrap;">1804–1872</td>
+      <td>Diarist and brother of Emma (Lyon) Henry</td>
+  </tr> 
+  <tr>
+      <td>Lyon, Sarah (Lindo)</td>
+      <td style="white-space:nowrap;">1823–1906</td>
+      <td>Diarist and wife of A.S. Lyon</td>
+  </tr> 
+  <tr>
+      <td>Magnus, Lady Katie (Emanuel)</td>
+      <td style="white-space:nowrap;">1844–1924</td>
+      <td>Author and teacher</td>
+  </tr> 
+  <tr>
+      <td>Magnus, Sir Philip</td>
+      <td style="white-space:nowrap;">1842–1933</td>
+      <td>Academic and politician, husband of Katie Magnus</td>
+  </tr> 
+  <tr>
+      <td>Marks, David Woolf</td>
+      <td style="white-space:nowrap;">1811–1909</td>
+      <td>First minister of the West London Synagogue of British Jews (1840–93)</td>
+  </tr> 
+  <tr>
+      <td>Meldola, David</td>
+      <td style="white-space:nowrap;">1797–1853</td>
+      <td>Minister of Bevis Marks (1828), first co-editor of the <em>Jewish Chronicle</em> (1841–2)</td>
+  </tr> 
+  <tr>
+      <td>Merton, Hannah Moses (Cohen)</td>
+      <td style="white-space:nowrap;">1816–1898</td>
+      <td>Diarist and homemaker</td>
+  </tr> 
+  <tr>
+      <td>Mitchell, Joseph</td>
+      <td style="white-space:nowrap;">d. 1854</td>
+      <td>Proprietor of the <em>Jewish Chronicle</em> (1844–54)</td>
+  </tr> 
+  <tr>
+      <td>Mocatta, Abraham</td>
+      <td style="white-space:nowrap;">1797–1880</td>
+      <td>Bullion broker and stockbroker, grandson of Abraham (Lumbrozo) Mocatta (the founder of Mocatta & Goldsmid)</td>
+  </tr> 
+  <tr>
+      <td>Mocatta, David</td>
+      <td style="white-space:nowrap;">1806–1882</td>
+      <td>Architect and first Jewish member of a profession in Britain, son of Moses Mocatta</td>
+  </tr> 
+  <tr>
+      <td>Mocatta, Isaac Lindo</td>
+      <td style="white-space:nowrap;">1818–1879</td>
+      <td>Author of tracts on Jewish moral teachings and social questions, son of Moses Mocatta</td>
+  </tr> 
+  <tr>
+      <td>Mocatta, Moses</td>
+      <td style="white-space:nowrap;">1768–1857</td>
+      <td>Bullion broker, Hebraist, and communal leader, president of the Board of Deputies (1829–35), son of Abraham Lumbrozo Mocatta</td>
+  </tr> 
+  <tr>
+      <td>Model, Alice</td>
+      <td style="white-space:nowrap;">1856–1943</td>
+      <td>First woman appointed to the Jewish Board of Guardians, founder of the Jewish Day Nursery</td>
+  </tr> 
+  <tr>
+      <td>Montagu, Lilian Helen (Lily)</td>
+      <td style="white-space:nowrap;">1873–1963</td>
+      <td>Writer and Reformer, co-founder of the Jewish Religious Union (later the Liberal Jewish Synagogue)</td>
+  </tr> 
+  <tr>
+      <td>Montagu, Samuel Baron Montagu of Swaythling</td>
+      <td style="white-space:nowrap;">1832–1911</td>
+      <td>Financier, Liberal MP for Whitechapel, founding President of the Federation of Synagogues (1887), father of Lily Montagu</td>
+  </tr> 
+  <tr>
+      <td>Montefiore, Charlotte</td>
+      <td style="white-space:nowrap;">1818–1854</td>
+      <td>Writer and philanthropist, founder of the Cheap Jewish Library, niece of Sir Moses Montefiore</td>
+  </tr> 
+  <tr>
+      <td>Montefiore, Claude Goldsmid</td>
+      <td style="white-space:nowrap;">1858–1938</td>
+      <td>Scholar, author, and Reformer, co-founder of the Jewish Religious Union (later the Liberal Jewish Synagogue), grandson of Isaac Lyon Goldsmid</td>
+  </tr> 
+  <tr>
+      <td>Montefiore, Lady Judith (Cohen)</td>
+      <td style="white-space:nowrap;">1784–1862</td>
+      <td>Writer and philanthropist, author of the first Anglo-Jewish cookbook, wife of Moses Montefiore</td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+    <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
+      <td></td>
+      <td style="white-space:nowrap;"></td>
+      <td></td>
+  </tr> 
+  <tr>
       <td></td>
       <td style="white-space:nowrap;"></td>
       <td></td>
