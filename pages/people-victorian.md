@@ -502,99 +502,160 @@ img {
       <td>Writer and philanthropist, author of the first Anglo-Jewish cookbook, wife of Moses Montefiore</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Montefiore, Sir Moses Haim</td>
+      <td style="white-space:nowrap;">1784–1885</td>
+      <td>Businessman, philanthropist, and communal leader
+</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Nathan, Isaac</td>
+      <td style="white-space:nowrap;">1790–1864</td>
+      <td>Composer, musicologist, and writer</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Newman, Selig</td>
+      <td style="white-space:nowrap;">1788–1871</td>
+      <td>German-born Hebraist and writer</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Polack, Elizabeth</td>
+      <td style="white-space:nowrap;">fl. 1830</td>
+      <td>First Anglo-Jewish woman dramatist, related to Solomon Polack</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Polack, Elizabeth</td>
+      <td style="white-space:nowrap;">fl. 1830</td>
+      <td>Anglo-Jewish woman poet</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Polack, Joel Samuel</td>
+      <td style="white-space:nowrap;">1807–1882</td>
+      <td>Pioneer settler in New Zealand, son of Solomon Polack</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Polack, Maria</td>
+      <td style="white-space:nowrap;">fl. 1830</td>
+      <td>First Anglo-Jewish woman novelist, daughter of Ephraim Polack, related to Elizabeth Polack</td>
   </tr> 
     <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Raphall, Morris Jacob</td>
+      <td style="white-space:nowrap;">1798–1868</td>
+      <td>Orthodox rabbi and author, editor of the <em>Hebrew Review and Magazine of Rabbinical Literature</em> (1834–6), rabbi of the Birmingham Synagogue (1841–9)</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Rothschild, Sir Anthony de (1st Baronet)</td>
+      <td style="white-space:nowrap;">1810–1876</td>
+      <td>Financier, High Sheriff of Buckinghamshire (1861), son of Nathan Mayer and Hannah (Cohen) Rothschild</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Rothschild, Charlotte von</td>
+      <td style="white-space:nowrap;">1819–1884</td>
+      <td>German-born socialite, wife of Lionel de Rothschild</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Rothschild, Constance de (Lady Battersea)</td>
+      <td style="white-space:nowrap;">1843–1931</td>
+      <td>Socialite, philanthropist, and temperance activist, founder of the Jewish Association for the Protection of Girls, Women and Children (1885)</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Rothschild, Hannah (Cohen)</td>
+      <td style="white-space:nowrap;">1783–1850</td>
+      <td>Sister of Judith (Cohen) Montefiore, wife of Nathan Mayer Rothschild</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Rothschild, Baron Lionel Nathan de</td>
+      <td style="white-space:nowrap;">1808–1879</td>
+      <td>Banker, politician, and philanthropist, first Jewish MP in the House of Commons, Liberal MP for the City of London (1847–68)</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Rothschild, Lady Louisa (Montefiore) de</td>
+      <td style="white-space:nowrap;">1821–1910</td>
+      <td>Philanthropist, founding member of the Union of Jewish Women (1902), wife of Anthony de Rothschild</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Salomans, Sir David 1st Baronet</td>
+      <td style="white-space:nowrap;">1797–1873</td>
+      <td>Politician, businessman, and communal leader, Sheriff of London (1835-6), Liberal MP for Greenwich (1851-73), Lord Mayor of London (1855), son of Levy Salomons</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Salaman, Nina (Davis)</td>
+      <td style="white-space:nowrap;">1877–1925</td>
+      <td>Hebrew scholar and poet</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Salaman, Redcliffe</td>
+      <td style="white-space:nowrap;">1874–1955</td>
+      <td>Geneticist and communal leader, husband of Nina (Davis) Salaman</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Salomons, Philip</td>
+      <td style="white-space:nowrap;">1796–1867</td>
+      <td>Businessman and communal leader, High Sheriff of Sussex (1852), son of Levy Salomons</td>
   </tr> 
   <tr>
-      <td></td>
-      <td style="white-space:nowrap;"></td>
-      <td></td>
+      <td>Samuel, Moses</td>
+      <td style="white-space:nowrap;">1795–1860</td>
+      <td>Writer, translator, and Hebraist</td>
+  </tr> 
+  <tr>
+      <td>Sidgwick, Cecily (Ullmann)</td>
+      <td style="white-space:nowrap;">1854–1934</td>
+      <td>Novelist alias Mrs Andrew Dean</td>
+  </tr> 
+  <tr>
+      <td>Simon, Sir John</td>
+      <td style="white-space:nowrap;">1818–1897</td>
+      <td>Politician, barrister, and Reformer, Liberal MP for Dewsbury (1868–88)</td>
+  </tr>
+  <tr>
+      <td>Simon, Rachel (Salaman)</td>
+      <td style="white-space:nowrap;">1823–1899</td>
+      <td>Writer, wife of Sir John Simon</td>
+  </tr> 
+  <tr>
+      <td>Sola, David Aaron de</td>
+      <td style="white-space:nowrap;">1796–1860</td>
+      <td>Minister of Bevis Marks (1818–60)</td>
+  </tr> 
+  <tr>
+      <td>Solomon, Abraham</td>
+      <td style="white-space:nowrap;">1824–1862</td>
+      <td>Painter, brother of Rebecca and Simeon Solomon</td>
+  </tr>
+  <tr>
+      <td>Solomon, Rebecca</td>
+      <td style="white-space:nowrap;">1832–1886</td>
+      <td>Painter, sister of Abraham and Simeon Solomon</td>
+  </tr> 
+  <tr>
+      <td>Solomon, Simeon</td>
+      <td style="white-space:nowrap;">1840–1905</td>
+      <td>Painter, brother of Abraham and Rebecca Solomon</td>
+  </tr> 
+  <tr>
+      <td>Solomon, Solomon Joseph</td>
+      <td style="white-space:nowrap;">1860–1927</td>
+      <td>Painter, founding president of the Maccabean Society (1891)</td>
+  </tr> 
+  <tr>
+      <td>Wolf, Lucien</td>
+      <td style="white-space:nowrap;">1857–1930</td>
+      <td>Journalist, co-founder of the Jewish Territorial Organisation (1903), co-founder of the League of British Jews (1917)</td>
+  </tr> 
+  <tr>
+      <td>Vallentine, Isaac</td>
+      <td style="white-space:nowrap;">1793–1868</td>
+      <td>Founder of the <em>Jewish Chronicle</em> (1841), the Jewish Association for the Diffusion of Religious Knowledge (1828), and the Jews’ Orphans Asylum (1831)</td>
+  </tr> 
+  <tr>
+      <td>Vogel, Sir Julius</td>
+      <td style="white-space:nowrap;">1835–1899</td>
+      <td>London-born politician, first Jewish prime minister of New Zealand</td>
+  </tr> 
+  <tr>
+      <td>Zangwill, Israel</td>
+      <td style="white-space:nowrap;">1864–1926</td>
+      <td>Author, critic, and activist, co-founder of the Jewish Territorial Organisation (1903)</td>
   </tr> 
 
 &nbsp;
