@@ -31,38 +31,43 @@ permalink: /people-romantic.html
 <table>
   <tr>
       <td>Abraham, Abraham</td>
-      <td style="white-space:nowrap;">C1799-1863</td>
-      <td>Translator and optician, President of Liverpool Jewry’s Philanthropic Institute and Hebrew School, uncle of Sir John Simon</td>
+      <td style="white-space:nowrap;">C1799–1863</td>
+      <td>Translator and optician, President of Liverpool Jewry’s Philanthropic Institute and Hebrew School, uncle of John Simon</td>
   </tr>
   <tr>
       <td>Abraham, Joseph</td>
-      <td>C1814-1867</td>
+      <td>C1814–1867</td>
       <td>Politician and communal leader, President of Bristol Hebrew Congregation (1853–4), Bristol town councilor (1861), Mayor of Bristol (1865–6)</td>
   </tr>
   <tr>
       <td>Abraham, Philip</td>
-      <td>1804-1890</td>
+      <td>1804–1890</td>
       <td>Writer and educationist</td>
   </tr>
    <tr>
       <td>Abrahams (Sussman), Abraham</td>
-      <td>1801-1880</td>
+      <td>1801–1880</td>
       <td>Hasidic shochet and scholar, first notable Polish Hasid to settle in Britain (1837)</td>
   </tr>
    <tr>
       <td>Adler, Celestine (Lehfeldt)</td>
-      <td>1821-1891</td>
+      <td>1821–1891</td>
       <td>Second wife of Nathan Marcus Adler, mother of Elkan Nathan Adler</td>
   </tr>
    <tr>
       <td>Adler, Henrietta (Worms)</td>
-      <td>1800-1853</td>
+      <td>1800–1853</td>
       <td>First wife of Nathan Marcus Adler, mother of Marcus Nathan Adler and Hermann Adler</td>
   </tr>
    <tr>
       <td><a href="nathan-marcus-adler.html">Adler, Nathan Marcus</a></td>
       <td style="white-space:nowrap;">1803–1890</td>
-      <td>Rabbinical writer and Chief Rabbi (1845-90)</td>
+      <td>Rabbinical writer and Chief Rabbi (1845–90)</td>
+   </tr>
+   <tr>
+      <td>Aguilar, Emanuel Abraham</td>
+      <td style="white-space:nowrap;">1824–1904</td>
+      <td>Composer and pianist, brother of Grace Aguilar</td>
    </tr>
    <tr>
       <td>Aguilar, Emanuel</td>
@@ -72,7 +77,7 @@ permalink: /people-romantic.html
   <tr>
       <td><a href="grace-aguilar.html">Aguilar, Grace</a></td>
       <td>1816–1847</td>
-      <td>Novelist, poet, theologian, and historian</td>
+      <td>Novelist, poet, and historian, first Jewish historian of Anglo-Jewry</td>
   </tr>
   <tr>
       <td>Aguilar, Sarah (Dias Fernandes)</td>
@@ -80,19 +85,39 @@ permalink: /people-romantic.html
       <td>Founder of Mrs. and Miss Aguilar’s Preparatory Establishment for Young Gentlemen, mother of Grace Aguilar</td>
   </tr>
   <tr>
+      <td>Alex, Ephraim</td>
+      <td>1800–1882</td>
+      <td>Dentist and communal leader, founder and first president of the Jewish Board of Guardians (1859)</td>
+  </tr>
+  <tr>
       <td>Alexander (ben Judah Loeb), Alexander</td>
       <td>d. 1807</td>
       <td>Writer and printer</td>
   </tr>
   <tr>
-      <td>Alex, Ephraim</td>
-      <td>1800–1882</td>
-      <td>Philanthropist and businessman, founder of the Jewish Board of Guardians (1859)</td>
+      <td>Amschejewitz, Asher</td>
+      <td>1824–1903</td>
+      <td>Orthodox rabbi and scholar, one of the first three scholars-in-residence at the Judith Montefiore College (1867), father of J. H. Amshewitz</td>
   </tr>
   <tr>
       <td>Angel, Moses</td>
-      <td>1819–1898</td>
-      <td>Headmaster of the Jews’ Free School (1842-97), first co-editor of the <em>Jewish Chronicle</em> (1841-2)</td>
+      <td>C1819–1898</td>
+      <td>Educator and writer, headmaster of the Jews’ Free School (1842–97), first co-editor of the <em>Jewish Chronicle</em> (1841–2)</td>
+  </tr>
+  <tr>
+      <td>Ansell, Moss</td>
+      <td>C1821–1872</td>
+      <td>First Jew to hold a government office in Britain, Chief Clerk in the Court of Chancery (C1842–1872), recipient of the Freedom of the City of London (1856)</td>
+  </tr>
+  <tr>
+      <td>Ascher, Benjamin</td>
+      <td>1812–1893</td>
+      <td>Posen-born Orthodox rabbi and translator, brother of Simon Ascher</td>
+  </tr>
+  <tr>
+      <td>Ascher, Simon</td>
+      <td>1789–1872</td>
+      <td>Dutch-born cantor, reader and chazan of the Great Synagogue (1832–1870)</td>
   </tr>
   <tr>
       <td>Basevi, Miriam [Maria]</td>
@@ -101,22 +126,22 @@ permalink: /people-romantic.html
   </tr>
    <tr>
       <td>Belisario, Miriam Mendes</td>
-      <td>C1820-1885</td>
+      <td>C1820–1885</td>
       <td>Writer, teacher, and lexicographer</td>
   </tr>
   <tr>
       <td>Benisch, Abraham</td>
-      <td>1811-1878</td>
+      <td>1811–1878</td>
       <td>Hebraist, editor, and journalist, editor of the <em>Jewish Chronicle</em> (1854–69, 1875–8)</td>
   </tr>
    <tr>
       <td>Bresslau, Marcus Hyman</td>
-      <td>C1808-1864</td>
+      <td>C1808–1864</td>
       <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844-48)</td>
   </tr>
   <tr>
       <td><a href="levi-barent-cohen.html">Cohen, Levi Barent</a></td>
-      <td>1747-1808</td>
+      <td>1747–1808</td>
       <td>Merchant and communal leader, first president of the Jews’ Hospital, father of Judith (Cohen) Montefiore and Hannah (Cohen) Rothschild</td>
   </tr>  
   <tr>
@@ -125,33 +150,48 @@ permalink: /people-romantic.html
       <td>Newspaper editor and founder of the <em>Brighton Guardian</em> (1827)</td>
   </tr>
   <tr>
+      <td>D'Israeli, Isaac</td>
+      <td>1766–1848</td>
+      <td>Author and father of Benjamin Disraeli</td>
+  </tr>
+  <tr>
       <td>Dacre, Charlotte (King)</td>
       <td>C1782–1825</td>
       <td>Poet and author of Gothic novels, daughter of John King</td>
   </tr>
   <tr>
-      <td><a href="benjamin-disraeli.html">Disraeli, Benjamin, 1st Earl of Beaconsfield</a></td>
-      <td>1804–1881</td>
-      <td>Author, statesman, and Conservative politician, served twice as Prime Minister of the United Kingdom (1868, 1874-80)</td>
+      <td>de Rothschild, 1<sup>st</sup> Baronet, Sir Anthony</td>
+      <td>1810–1876</td>
+      <td>Financier, High Sheriff of Buckinghamshire (1861), son of Nathan Mayer and Hannah (Cohen) Rothschild</td>
   </tr>
   <tr>
-      <td>D'Israeli, Isaac</td>
-      <td>1766-1848</td>
-      <td>Author and father of Benjamin Disraeli</td>
+      <td>de Rothschild, Baron Lionel Nathan</td>
+      <td>1808–1879</td>
+      <td>Banker, politician, and philanthropist, first Jewish MP in the House of Commons, Liberal MP for the City of London (1847-68)</td>
   </tr>
-   <tr>
+  <tr>
+      <td>de Rothschild, Lady Louisa (Montefiore)</td>
+      <td>1821–1910</td>
+      <td>Philanthropist and founding member of the Union of Jewish Women, wife of Anthony de Rothschild</td>
+  </tr>
+  <tr>
+      <td>de Sola, David Aaron</td>
+      <td>1796–1860</td>
+      <td>Minister of Bevis Marks (1818–60)</td>
+  </tr>
+  <tr>
       <td>Deutsch, Emanuel</td>
-      <td>1829-1873</td>
+      <td>1829–1873</td>
       <td>German-born writer and scholar</td>
   </tr>
   <tr>
-      <td>Franklin, Jacob Abraham</td>
-      <td>1809-1877</td>
-      <td>Optician, actuary, and newspaper proprietor and editor, founder of the <em>Voice of Jacob</em> (1841–8)</td>
+      <td><a href="benjamin-disraeli.html">Disraeli, 1<sup>st</sup> Earl of Beaconsfield, Benjamin</a></td>
+      <td>1804–1881</td>
+      <td>Author, statesman, and Conservative politician, served twice as Prime Minister of the United Kingdom (1868, 1874–80)</td>
   </tr>
-   <tr>
+  <tr>
       <td>Edelmann, Zevi Hirsch</td>
-      <td>1805-1858</td>
+      <td>1805–1858</td>
       <td>Russian-born Hebraist and scholar</td>
   </tr>
     <tr>
@@ -160,14 +200,19 @@ permalink: /people-romantic.html
       <td>Officiant of Plymouth Synagogue (C1780–1815)</td>
   </tr>
   <tr>
+      <td>Franklin, Jacob Abraham</td>
+      <td>1809–1877</td>
+      <td>Optician, actuary, and newspaper proprietor and editor, founder of the <em>Voice of Jacob</em> (1841–8)</td>
+  </tr>
+  <tr>
       <td>Goldsmid, Abraham</td>
-      <td>C1756-1810</td>
+      <td>C1756–1810</td>
       <td>Bill broker and stockbroker, son of Dutch merchant Aaron Goldsmid</td>
   </tr>
   <tr>
       <td>Goldsmid, Anna Maria</td>
       <td>1805–1889</td>
-      <td>Writer, translator, and philanthropist, daughter of Sir Isaac Lyon Goldsmid</td>
+      <td>Writer, translator, and philanthropist, daughter of Isaac Lyon Goldsmid</td>
   </tr>
   <tr>
       <td>Goldsmid, Asher</td>
@@ -177,7 +222,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Goldsmid, Augustus</td>
       <td>1818–1874</td>
-      <td>Barrister, nephew of Sir Isaac Lyon Goldsmid, nephew of Sir David Salomons</td>
+      <td>Barrister, nephew of Isaac Lyon Goldsmid, nephew of David Salomons</td>
   </tr>
   <tr>
       <td>Goldsmid, Benjamin</td>
@@ -185,9 +230,9 @@ permalink: /people-romantic.html
       <td>Bill broker, son of Aaron Goldsmid</td>
   </tr>
   <tr>
-      <td>Goldsmid, Sir Francis Henry 2nd Baronet</td>
+      <td>Goldsmid, 2<sup>nd</sup> Baronet, Sir Francis Henry</td>
       <td>1808–1878</td>
-      <td>Politician, barrister, and communal leader, Liberal MP for Reading (1860–78), first Jew to become an English barrister, son of Sir Isaac Lyon Goldsmid</td>
+      <td>Politician, barrister, and communal leader, Liberal MP for Reading (1860–78), first Jew to become an English barrister, son of Isaac Lyon Goldsmid</td>
   </tr>
   <tr>
       <td>Goldsmid, Frederick David</td>
@@ -197,11 +242,11 @@ permalink: /people-romantic.html
   <tr>
       <td>Goldsmid, Sir Frederick John</td>
       <td>1818–1908</td>
-      <td>Author, army officer, and civil servant in India, Director General of the Indo-European Telegraph, nephew of Sir Isaac Lyon Goldsmid</td>
+      <td>Author, army officer, and civil servant in India, Director General of the <em>Indo-European Telegraph</em>, nephew of Isaac Lyon Goldsmid</td>
   </tr>
   <tr>
       <td>Goldsmid, Henry Edward (Moses)</td>
-      <td>1812-1855</td>
+      <td>1812–1855</td>
       <td>East India Company official, married into the Goldsmid family</td>
   </tr>
   <tr>
@@ -212,7 +257,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Goldsmid, Jessie Sarah</td>
       <td>1816–1888</td>
-      <td>Sister of Sir Frederick John Goldsmid, wife of Henry Edward (Moses) Goldsmid</td>
+      <td>Sister of Frederick John Goldsmid, wife of Henry Edward (Moses) Goldsmid</td>
   </tr>
   <tr>
       <td>Goldsmid, Louisa Sophia</td>
@@ -227,7 +272,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Hartog, Marion (Moss)</td>
       <td>1821–1907</td>
-      <td>Poet, author, and educator, co-founder of the first Jewish women’s periodical, the Jewish Sabbath Journal (1855), sister of Celia (Moss) Levetus</td>
+      <td>Poet, author, and educator, co-founder of the first Jewish women’s periodical, the <em>Jewish Sabbath Journal</em> (1855), sister of Celia (Moss) Levetus</td>
   </tr>
   <tr>
       <td>Henry, Emma (Lyon)</td>
@@ -242,7 +287,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Hurwitz, Hyman</td>
       <td>C1770–1844</td>
-      <td>Biblical scholar and Hebraist, founder of the Highgate Academy, professor of Hebrew at University College London (1828–44)</td>
+      <td>Posen-born biblical scholar and Hebraist, founder of the Highgate Academy, professor of Hebrew at University College London (1828–44)</td>
   </tr>
   <tr>
       <td>Josephs, Michael</td>
@@ -311,7 +356,7 @@ permalink: /people-romantic.html
   </tr>
    <tr>
       <td>Lyon, Sarah (Lindo)</td>
-      <td>1823-1906</td>
+      <td>1823–1906</td>
       <td>Diarist and wife of A.S. Lyon</td>
   </tr>
   <tr>
@@ -341,12 +386,12 @@ permalink: /people-romantic.html
   </tr>
   <tr>
       <td>Mocatta, Anne (Goldsmid)</td>
-      <td>1797–1880</td>
-      <td>Bullion broker and stockbroker, grandson of Abraham Lumbrozo Mocatta (the founder of Mocatta & Goldsmid)</td>
+      <td>1783–1837</td>
+      <td>Daughter of George [Gershon] Goldsmid, wife of Daniel Mocatta</td>
   </tr>
    <tr>
       <td>Mocatta, Abraham</td>
-      <td>1797-1880</td>
+      <td>1797–1880</td>
       <td>Bullion broker and stockbroker, grandson of Abraham (Lumbrozo) Mocatta (the founder of Mocatta & Goldsmid)</td>
   </tr>
   <tr>
@@ -372,7 +417,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Montefiore, Charlotte</td>
       <td>1818–1854</td>
-      <td>Writer and philanthropist, founder of the Cheap Jewish Library, niece of Sir Moses Montefiore</td>
+      <td>Writer and philanthropist, founder of the Cheap Jewish Library, niece of Moses Montefiore</td>
   </tr>
   <tr>
       <td>Montefiore, Joseph Elias</td>
@@ -386,7 +431,7 @@ permalink: /people-romantic.html
   </tr>
   <tr>
       <td><a href="/moses-montefiore.html">Montefiore, Sir Moses Haim</a></td>
-      <td>1784-1885</td>
+      <td>1784–1885</td>
       <td>Businessman, philanthropist, and communal leader</td>
   </tr>
   <tr>
@@ -401,7 +446,7 @@ permalink: /people-romantic.html
   </tr>
    <tr>
       <td>Newman, Selig</td>
-      <td>1788-1871</td>
+      <td>1788–1871</td>
       <td>German-born Hebraist and writer</td>
   </tr>
   <tr>
@@ -440,11 +485,6 @@ permalink: /people-romantic.html
       <td>Orthodox rabbi and author, editor of the <em>Hebrew Review and Magazine of Rabbinical Literature</em> (1834–6), rabbi of the Birmingham Synagogue (1841–9)</td>
   </tr>
   <tr>
-      <td>Rothschild, Sir Anthony de 1st Baronet</td>
-      <td>1810–1876</td>
-      <td>Financier, High Sheriff of Buckinghamshire (1861), son of Nathan Mayer and Hannah (Cohen) Rothschild</td>
-  </tr>
-  <tr>
       <td>Rothschild, Charlotte von</td>
       <td>1819–1884</td>
       <td>German-born socialite, wife of Lionel de Rothschild</td>
@@ -455,24 +495,14 @@ permalink: /people-romantic.html
       <td>Sister of Judith (Cohen) Montefiore, wife of Nathan Mayer Rothschild</td>
   </tr>
   <tr>
-      <td>Rothschild, Baron Lionel Nathan de</td>
-      <td>1808–1879</td>
-      <td>Banker, politician, and philanthropist, first Jewish MP in the House of Commons, Liberal MP for the City of London (1847-68)</td>
-  </tr>
-  <tr>
-      <td>Rothschild, Lady Louisa (Montefiore) de</td>
-      <td>1821-1910</td>
-      <td>Philanthropist and founding member of the Union of Jewish Women, wife of Anthony de Rothschild</td>
-  </tr>
-  <tr>
       <td>Rothschild, Nathan Mayer</td>
       <td>1777–1836</td>
       <td>Banker, businessman, and financier, founder of the Rothschild banking family of England (1798), son of Mayer Amschel Rothschild of Frankfurt</td>
   </tr>
   <tr>
-      <td>Salomons, Sir David 1st Baronet</td>
+      <td>Salomons, 1<sup>st</sup> Baronet, Sir David</td>
       <td>1797–1873</td>
-      <td>Politicians, businessman, and communal leader, Sheriff of London (1835-6), Liberal MP for Greenwich (1851-73), Lord Mayor of London (1855), son of Levy Salomons</td>
+      <td>Politician, businessman, and communal leader, Sheriff of London (1835–6), Liberal MP for Greenwich (1851–73), Lord Mayor of London (1855), son of Levy Salomons</td>
   </tr>
   <tr>
       <td>Salomons, Levy</td>
@@ -493,11 +523,6 @@ permalink: /people-romantic.html
       <td>Schiff, David Tevele</td>
       <td>d. 1791</td>
       <td>Chief Rabbi (1780–91)</td>
-  </tr>
-  <tr>
-      <td>Sola, David Aaron de</td>
-      <td>1796–1860</td>
-      <td>Minister of Bevis Marks (1818–60)</td>
   </tr>
   <tr>
       <td>Vallentine, Isaac</td>
