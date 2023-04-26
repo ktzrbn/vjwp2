@@ -18,6 +18,7 @@ img {
 &nbsp;
 
 # Items
+
 <!-----
 
 Yay, no errors, warnings, or alerts!
@@ -38,7 +39,6 @@ Conversion notes:
 * Wed Feb 23 2022 19:50:45 GMT-0800 (PST)
 * Source doc: romantic-items-bib
 ----->
-
 
 <ul>
 
@@ -128,11 +128,11 @@ Conversion notes:
 
 <li><a href="http://victorianjewishwritersproject.org/items/vjwp_47.html">---. Explanation of and Observations on an Antique Medal. Calvert, 1810.</a>
 
-<li><a href="http://victorianjewishwritersproject.org/items/vwjp_66.html">Macaulay, Thomas. Civil Disabilities of the Jews. 1829.</a>
+<li><a href="http://victorianjewishwritersproject.org/items/vjwp_66.html">Macaulay, Thomas. Civil Disabilities of the Jews. 1829.</a>
 
 <li><em><a href="http://victorianjewishwritersproject.org/items/vjwp_33.html">Memoirs of the Life and Commercial Connections, Public and Private, of the Late Benjamin Goldsmid, Esq of Roehampton, Containing a Cursory View of the Jewish Society and Manners... London.</a></em>
 
-<li><a href="http://victorianjewishwritersproject.org/items/vjwp_56.html">M.H.R. Letters from Perdita to a Certain Israelite, and His Answers to Them. J. Fielding, W. Kent, J. Stockdale, J. Sewell, 1781.</a>
+<!--<li><a href="http://victorianjewishwritersproject.org/items/vjwp_56.html">M.H.R. Letters from Perdita to a Certain Israelite, and His Answers to Them. J. Fielding, W. Kent, J. Stockdale, J. Sewell, 1781.-->
 
 <li><a href="http://victorianjewishwritersproject.org/items/vjwp_39.html">Polack, Maria. Fiction without Romance, or, the Locket-Watch. Effingham Wilson, 1830.</a>
 

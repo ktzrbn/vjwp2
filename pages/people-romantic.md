@@ -52,12 +52,12 @@ permalink: /people-romantic.html
    <tr>
       <td>Adler, Celestine (Lehfeldt)</td>
       <td>1821–1891</td>
-      <td>Second wife of Nathan Marcus Adler, mother of Elkan Nathan Adler</td>
+      <td>Second wife of <a href="nathan-marcus-adler.html">Nathan Marcus Adler</a>, mother of Elkan Nathan Adler</td>
   </tr>
    <tr>
       <td>Adler, Henrietta (Worms)</td>
       <td>1800–1853</td>
-      <td>First wife of Nathan Marcus Adler, mother of Marcus Nathan Adler and Hermann Adler</td>
+      <td>First wife of <a href="nathan-marcus-adler.html">Nathan Marcus Adler</a>, mother of Marcus Nathan Adler and Hermann Adler</td>
   </tr>
    <tr>
       <td><a href="nathan-marcus-adler.html">Adler, Nathan Marcus</a></td>
@@ -67,12 +67,12 @@ permalink: /people-romantic.html
    <tr>
       <td>Aguilar, Emanuel Abraham</td>
       <td style="white-space:nowrap;">1824–1904</td>
-      <td>Composer and pianist, brother of Grace Aguilar</td>
+      <td>Composer and pianist, brother of <a href="grace-aguilar.html">Grace Aguilar</a></td>
    </tr>
    <tr>
       <td>Aguilar, Emanuel</td>
       <td>1787–1845</td>
-      <td>Composer, pianist, and music teacher, father of Grace Aguilar</td>
+      <td>Composer, pianist, and music teacher, father of <a href="grace-aguilar.html">Grace Aguilar</a></td>
   </tr>
   <tr>
       <td><a href="grace-aguilar.html">Aguilar, Grace</a></td>
@@ -82,7 +82,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Aguilar, Sarah (Dias Fernandes)</td>
       <td>1786–1854</td>
-      <td>Founder of Mrs. and Miss Aguilar’s Preparatory Establishment for Young Gentlemen, mother of Grace Aguilar</td>
+      <td>Founder of Mrs. and Miss Aguilar’s Preparatory Establishment for Young Gentlemen, mother of <a href="grace-aguilar.html">Grace Aguilar</a></td>
   </tr>
   <tr>
       <td>Alex, Ephraim</td>
@@ -117,35 +117,100 @@ permalink: /people-romantic.html
   <tr>
       <td>Ascher, Simon</td>
       <td>1789–1872</td>
-      <td>Dutch-born cantor, reader and chazan of the Great Synagogue (1832–70)</td>
+      <td>Dutch-born cantor, reader, and chazan of the Great Synagogue (1832–70)</td>
+  </tr>
+  <tr>
+      <td>Barlin, Frederick</td>
+      <td>fl. 1802–7</td>
+      <td>Portrait painter, painted oil portrait of Chief Rabbi Solomon Hirschell</td>
+  </tr>
+  <tr>
+      <td>Barned, Israel</td>
+      <td>C1775–1858</td>
+      <td>Banker, Senior Warden of Liverpool’s Seel Street congregation (1831–9)</td>
+  </tr>
+  <tr>
+      <td>Barnett, David</td>
+      <td>C1796–1854</td>
+      <td>Russian-born politician, elected to the Birmingham Town Council and served without swearing the Christian oaths (1838), co-founder of Birmingham’s Hebrew National School (1841)</td>
+  </tr>
+  <tr>
+      <td>Barnett, John</td>
+      <td>1802–1890</td>
+      <td>English composer</td>
+  </tr>
+  <tr>
+      <td>Barrow, Lousada</td>
+      <td>1816–1877</td>
+      <td>Army officer, second highest-ranking person of Jewish extraction to have served in the Indian administration, son of Simon Barrow</td>
+  </tr>
+  <tr>
+      <td>Barrow, Simon</td>
+      <td>C1788–1862</td>
+      <td>First Jewish mayor in Britain, mayor of Bath (1837)</td>
   </tr>
   <tr>
       <td>Basevi, Miriam [Maria]</td>
       <td style="white-space:nowrap;">C1774–1847</td>
-      <td>Mother of Benjamin Disraeli, daughter of Verona-born Merchant Naphtali [Nathan] Basevi</td>
+      <td>Mother of <a href="benjamin-disraeli.html">Benjamin Disraeli</a>, daughter of Verona-born Merchant Naphtali [Nathan] Basevi</td>
   </tr>
-   <tr>
+  <tr>
+      <td>Beddington [Moses], Edward Henry</td>
+      <td>C1818–1872</td>
+      <td>Merchant, member of the Council of the United Synagogue</td>
+  </tr>
+  <tr>
+      <td>Behrend, Henry</td>
+      <td>1828–1893</td>
+      <td>Physician, admitted to the Royal College of Surgeons (1850), regular contributor to the <em>Jewish Chronicle</em>, President of the Jews' Hospital (1871–93)</td>
+  </tr>
+  <tr>
+      <td>Behrens, Solomon Levi</td>
+      <td>C1787–1873</td>
+      <td>Orthodox merchant and advocate of Jewish emancipation</td>
+  </tr>
+  <tr>
+      <td>Belasco, Abraham [Aby]</td>
+      <td>1797–C1853</td>
+      <td>Prominent pugilist</td>
+  </tr>
+  <tr>
+      <td>Belisario, Esther Mendes</td>
+      <td>1773–1824</td>
+      <td>Founded a Jewish girls’ school in Hackney (1807), mother of Miriam Mendes Belisario</td>
+  </tr>
+  <tr>
       <td>Belisario, Miriam Mendes</td>
-      <td>C1820–1885</td>
+      <td>1816–1885</td>
       <td>Writer, teacher, and lexicographer, granddaughter of the scholar and preacher, Isaac Mendes Belisario</td>
+  </tr>
+ <tr>
+      <td>Benedict, Sir Julius</td>
+      <td>1804–1885</td>
+      <td>Composer, conductor, writer, knighted in 1871</td>
   </tr>
   <tr>
       <td>Benisch, Abraham</td>
       <td>1811–1878</td>
       <td>Hebraist, editor, and journalist, editor of the <em>Jewish Chronicle</em> (1854–69, 1875–8)</td>
   </tr>
+  <tr>
+      <td>Benjamin, David</td>
+      <td>1815–1893</td>
+      <td>Merchant, known as the “Father of the Bayswater Synagogue,” member of the Jewish Board of Guardians</td>
+  </tr>
    <tr>
       <td>Bresslau, Marcus Hyman</td>
       <td>C1808–1864</td>
-      <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844-48)</td>
+      <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844–8)</td>
   </tr>
   <tr>
       <td><a href="levi-barent-cohen.html">Cohen, Levi Barent</a></td>
       <td>1747–1808</td>
-      <td>Merchant and communal leader, first president of the Jews’ Hospital, father of Judith (Cohen) Montefiore and Hannah (Cohen) Rothschild</td>
+      <td>Merchant and communal leader, first president of the Jews’ Hospital, father of <a href="judith-montefiore.html">Judith (Cohen) Montefiore</a> and Hannah (Cohen) Rothschild</td>
   </tr>  
   <tr>
-      <td>Cohen, Levi Barent</td>
+      <td>Cohen, Levi Emanuel</td>
       <td>1796–1840</td>
       <td>Newspaper editor and founder of the <em>Brighton Guardian</em> (1827)</td>
   </tr>
@@ -167,7 +232,7 @@ permalink: /people-romantic.html
   <tr>
       <td>D'Israeli, Isaac</td>
       <td>1766–1848</td>
-      <td>Author and father of Benjamin Disraeli</td>
+      <td>Author and father of <a href="benjamin-disraeli.html">Benjamin Disraeli</a></td>
   </tr>
   <tr>
       <td>Edelmann, Zevi Hirsch</td>
@@ -277,7 +342,7 @@ permalink: /people-romantic.html
   <tr>
       <td>King, John</td>
       <td>C1753–1824</td>
-      <td>Money broker, radical writer, born Jacob Rey, father of Charlotte (King) Dacre</td>
+      <td>Money broker, radical writer, born Jacob Rey, father of <a href="charlotte-dacre.html">Charlotte (King) Dacre</a></td>
   </tr>
   <tr>
       <td>Levetus, Celia (Moss)</td>
@@ -397,17 +462,17 @@ permalink: /people-romantic.html
   <tr>
       <td>Montefiore, Charlotte</td>
       <td>1818–1854</td>
-      <td>Writer and philanthropist, founder of the Cheap Jewish Library, niece of Moses Montefiore</td>
+      <td>Writer and philanthropist, founder of the Cheap Jewish Library, niece of <a href="moses-montefiore.html">Moses Montefiore</a></td>
   </tr>
   <tr>
       <td>Montefiore, Joseph Elias</td>
       <td>1759–1804</td>
-      <td>London merchant and father of Moses Montefiore</td>
+      <td>London merchant and father of <a href="moses-montefiore.html">Moses Montefiore</a></td>
   </tr>
   <tr>
       <td><a href="/judith-montefiore.html">Montefiore, Lady Judith (Cohen)</a></td>
       <td>1784–1862</td>
-      <td>Writer and philanthropist, author of the first Anglo-Jewish cookbook, wife of Moses Montefiore</td>
+      <td>Writer and philanthropist, author of the first Anglo-Jewish cookbook, wife of <a href="moses-montefiore.html">Moses Montefiore</a></td>
   </tr>
   <tr>
       <td><a href="/moses-montefiore.html">Montefiore, Sir Moses Haim</a></td>
@@ -417,7 +482,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Montefiore, Rachel (Mocatta)</td>
       <td>1762–1844</td>
-      <td>Mother of Moses Montefiore, daughter of Abraham Mocatta (the founder of Mocatta & Goldsmid)</td>
+      <td>Mother of <a href="moses-montefiore.html">Moses Montefiore</a>, daughter of Abraham Mocatta [Lumbrozo de Mattos]</td>
   </tr>
   <tr>
       <td><a href="isaac-nathan.html">Nathan, Isaac</a></td>
@@ -442,7 +507,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Polack, Ephraim</td>
       <td>b. C1801</td>
-      <td>Tailor and noted hazzan, cousin of Henry Edward (Moses) Goldsmid</td>
+      <td>Tailor and noted hazzan, cousin of Henry Edward Goldsmid</td>
   </tr>
   <tr>
       <td>Polack, Joel Samuel</td>
@@ -477,7 +542,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Rothschild, Hannah (Cohen)</td>
       <td>1783–1850</td>
-      <td>Sister of Judith (Cohen) Montefiore, wife of Nathan Mayer Rothschild</td>
+      <td>Sister of <a href="judith-montefiore.html">Judith (Cohen) Montefiore</a>, wife of Nathan Mayer Rothschild</td>
   </tr>
   <tr>
       <td>de Rothschild, Baron Lionel Nathan</td>
