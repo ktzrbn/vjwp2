@@ -44,7 +44,7 @@ Conversion notes:
 
 <li><em><a href="http://victorianjewishwritersproject.org/items/vjwp_60.html">“A Daughter of Israel,” Letter to Mr. Frey, of the Soi-Distant Jews-Chapel, Spitalfields; Occasioned by the Question Now in Debate at the London Forum, Cateaton-Street. 1810.</a></em>
 
-<li><em><a href="http://victorianjewishwritersproject.org/item/vjwp_37.html">A.S. Lyon’s 1823 Diary.</a></em>
+<li><em><a href="http://victorianjewishwritersproject.org/items/vjwp_37.html">A.S. Lyon’s 1823 Diary.</a></em>
 
 <li><em><a href="http://victorianjewishwritersproject.org/items/vjwp_38.html">A.S. Lyon’s 1826-1839 Diary.</a></em>
 
