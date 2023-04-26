@@ -45,7 +45,7 @@ permalink: /people-romantic.html
       <td>Writer and educationist</td>
   </tr>
    <tr>
-      <td>Abrahams (Sussman), Abraham</td>
+      <td>Abrahams [Sussman], Abraham</td>
       <td>1801–1880</td>
       <td>Hasidic shochet and scholar, first notable Polish Hasid to settle in Britain (1837)</td>
   </tr>
@@ -90,7 +90,7 @@ permalink: /people-romantic.html
       <td>Dentist and communal leader, founder and first president of the Jewish Board of Guardians (1859)</td>
   </tr>
   <tr>
-      <td>Alexander (ben Judah Loeb), Alexander</td>
+      <td>Alexander [ben Judah Loeb], Alexander</td>
       <td>d. 1807</td>
       <td>Writer and printer</td>
   </tr>
@@ -107,7 +107,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Ansell, Moss</td>
       <td>C1821–1872</td>
-      <td>First Jew to hold a government office in Britain, Chief Clerk in the Court of Chancery (C1842–1872), recipient of the Freedom of the City of London (1856)</td>
+      <td>First Jew to hold a government office in Britain, Chief Clerk in the Court of Chancery (C1842–72), recipient of the Freedom of the City of London (1856)</td>
   </tr>
   <tr>
       <td>Ascher, Benjamin</td>
@@ -117,17 +117,17 @@ permalink: /people-romantic.html
   <tr>
       <td>Ascher, Simon</td>
       <td>1789–1872</td>
-      <td>Dutch-born cantor, reader and chazan of the Great Synagogue (1832–1870)</td>
+      <td>Dutch-born cantor, reader and chazan of the Great Synagogue (1832–70)</td>
   </tr>
   <tr>
       <td>Basevi, Miriam [Maria]</td>
       <td style="white-space:nowrap;">C1774–1847</td>
-      <td>Mother of Benjamin Disraeli</td>
+      <td>Mother of Benjamin Disraeli, daughter of Verona-born Merchant Naphtali [Nathan] Basevi</td>
   </tr>
    <tr>
       <td>Belisario, Miriam Mendes</td>
       <td>C1820–1885</td>
-      <td>Writer, teacher, and lexicographer</td>
+      <td>Writer, teacher, and lexicographer, granddaughter of the scholar and preacher, Isaac Mendes Belisario</td>
   </tr>
   <tr>
       <td>Benisch, Abraham</td>
@@ -150,34 +150,9 @@ permalink: /people-romantic.html
       <td>Newspaper editor and founder of the <em>Brighton Guardian</em> (1827)</td>
   </tr>
   <tr>
-      <td>D'Israeli, Isaac</td>
-      <td>1766–1848</td>
-      <td>Author and father of Benjamin Disraeli</td>
-  </tr>
-  <tr>
       <td>Dacre, Charlotte (King)</td>
       <td>C1782–1825</td>
       <td>Poet and author of Gothic novels, daughter of John King</td>
-  </tr>
-  <tr>
-      <td>de Rothschild, 1<sup>st</sup> Baronet, Sir Anthony</td>
-      <td>1810–1876</td>
-      <td>Financier, High Sheriff of Buckinghamshire (1861), son of Nathan Mayer and Hannah (Cohen) Rothschild</td>
-  </tr>
-  <tr>
-      <td>de Rothschild, Baron Lionel Nathan</td>
-      <td>1808–1879</td>
-      <td>Banker, politician, and philanthropist, first Jewish MP in the House of Commons, Liberal MP for the City of London (1847-68)</td>
-  </tr>
-  <tr>
-      <td>de Rothschild, Lady Louisa (Montefiore)</td>
-      <td>1821–1910</td>
-      <td>Philanthropist and founding member of the Union of Jewish Women, wife of Anthony de Rothschild</td>
-  </tr>
-  <tr>
-      <td>de Sola, David Aaron</td>
-      <td>1796–1860</td>
-      <td>Minister of Bevis Marks (1818–60)</td>
   </tr>
   <tr>
       <td>Deutsch, Emanuel</td>
@@ -188,6 +163,11 @@ permalink: /people-romantic.html
       <td><a href="benjamin-disraeli.html">Disraeli, 1<sup>st</sup> Earl of Beaconsfield, Benjamin</a></td>
       <td>1804–1881</td>
       <td>Author, statesman, and Conservative politician, served twice as Prime Minister of the United Kingdom (1868, 1874–80)</td>
+  </tr>
+  <tr>
+      <td>D'Israeli, Isaac</td>
+      <td>1766–1848</td>
+      <td>Author and father of Benjamin Disraeli</td>
   </tr>
   <tr>
       <td>Edelmann, Zevi Hirsch</td>
@@ -245,7 +225,7 @@ permalink: /people-romantic.html
       <td>Author, army officer, and civil servant in India, Director General of the <em>Indo-European Telegraph</em>, nephew of Isaac Lyon Goldsmid</td>
   </tr>
   <tr>
-      <td>Goldsmid, Henry Edward (Moses)</td>
+      <td>Goldsmid [Moses], Henry Edward</td>
       <td>1812–1855</td>
       <td>East India Company official, married into the Goldsmid family</td>
   </tr>
@@ -257,12 +237,12 @@ permalink: /people-romantic.html
   <tr>
       <td>Goldsmid, Jessie Sarah</td>
       <td>1816–1888</td>
-      <td>Sister of Frederick John Goldsmid, wife of Henry Edward (Moses) Goldsmid</td>
+      <td>Sister of Frederick John Goldsmid, wife of Henry Edward Goldsmid [Moses]</td>
   </tr>
   <tr>
       <td>Goldsmid, Louisa Sophia</td>
       <td>1819–1908</td>
-      <td>Feminist and philanthropist, niece of Sir Isaac Lyon Goldsmid, wife of Sir Francis Henry Goldsmid</td>
+      <td>Feminist and philanthropist, niece of Isaac Lyon Goldsmid, wife of Francis Henry Goldsmid</td>
   </tr>
   <tr>
       <td>Gordon, Lord George</td>
@@ -392,7 +372,7 @@ permalink: /people-romantic.html
    <tr>
       <td>Mocatta, Abraham</td>
       <td>1797–1880</td>
-      <td>Bullion broker and stockbroker, grandson of Abraham (Lumbrozo) Mocatta (the founder of Mocatta & Goldsmid)</td>
+      <td>Bullion broker and stockbroker, grandson of Abraham Mocatta [Lumbrozo de Mattos], the founder of Mocatta & Goldsmid</td>
   </tr>
   <tr>
       <td>Mocatta, David</td>
@@ -407,7 +387,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Mocatta, Moses</td>
       <td>1768–1857</td>
-      <td>Bullion broker, Hebraist, and communal leader, president of the Board of Deputies (1829–35), son of Abraham (Lumbrozo) Mocatta</td>
+      <td>Bullion broker, Hebraist, and communal leader, president of the Board of Deputies (1829–35), son of Abraham Mocatta [Lumbrozo de Mattos]</td>
   </tr>
   <tr>
       <td>Montefiore, Abraham Joseph Elias</td>
@@ -482,7 +462,12 @@ permalink: /people-romantic.html
   <tr>
       <td>Raphall, Morris Jacob</td>
       <td>1798–1868</td>
-      <td>Orthodox rabbi and author, editor of the <em>Hebrew Review and Magazine of Rabbinical Literature</em> (1834–6), rabbi of the Birmingham Synagogue (1841–9)</td>
+      <td>Orthodox rabbi and author, editor of the <em>Hebrew Review and Magazine of Rabbinical Literature</em> (1834–6), rabbi of the Birmingham Hebrew Congregation (1841–9)</td>
+  </tr>
+  <tr>
+      <td>de Rothschild, 1<sup>st</sup> Baronet, Sir Anthony</td>
+      <td>1810–1876</td>
+      <td>Financier, High Sheriff of Buckinghamshire (1861), son of Nathan Mayer and Hannah (Cohen) Rothschild</td>
   </tr>
   <tr>
       <td>Rothschild, Charlotte von</td>
@@ -493,6 +478,16 @@ permalink: /people-romantic.html
       <td>Rothschild, Hannah (Cohen)</td>
       <td>1783–1850</td>
       <td>Sister of Judith (Cohen) Montefiore, wife of Nathan Mayer Rothschild</td>
+  </tr>
+  <tr>
+      <td>de Rothschild, Baron Lionel Nathan</td>
+      <td>1808–1879</td>
+      <td>Banker, politician, and philanthropist, first Jewish MP in the House of Commons, Liberal MP for the City of London (1847–68)</td>
+  </tr>
+  <tr>
+      <td>de Rothschild, Lady Louisa (Montefiore)</td>
+      <td>1821–1910</td>
+      <td>Philanthropist and founding member of the Union of Jewish Women, wife of Anthony de Rothschild</td>
   </tr>
   <tr>
       <td>Rothschild, Nathan Mayer</td>
@@ -523,6 +518,11 @@ permalink: /people-romantic.html
       <td>Schiff, David Tevele</td>
       <td>d. 1791</td>
       <td>Chief Rabbi (1780–91)</td>
+  </tr>
+  <tr>
+      <td>de Sola, David Aaron</td>
+      <td>1796–1860</td>
+      <td>Minister of Bevis Marks (1818–60)</td>
   </tr>
   <tr>
       <td>Vallentine, Isaac</td>
