@@ -182,7 +182,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Belisario, Miriam Mendes</td>
       <td>1816–1885</td>
-      <td>Writer, teacher, and lexicographer, granddaughter of the scholar and preacher, Isaac Mendes Belisario</td>
+      <td>Writer, teacher, and lexicographer, granddaughter of the scholar and preacher Isaac Mendes Belisario</td>
   </tr>
  <tr>
       <td>Benedict, Sir Julius</td>
@@ -199,7 +199,32 @@ permalink: /people-romantic.html
       <td>1815–1893</td>
       <td>Merchant, known as the “Father of the Bayswater Synagogue,” member of the Jewish Board of Guardians</td>
   </tr>
-   <tr>
+  <tr>
+      <td>Benmohel, Nathan Lazarus</td>
+      <td>C1800-1869</td>
+      <td>Hamburg-born scholar and linguist, first professing Jew to graduate from a British university, obtained his BA (1836) and MA (1846) from Trinity College, Dublin</td>
+  </tr>
+  <tr>
+      <td>Bennett, Solomon Yom Tov</td>
+      <td>1761-1838</td>
+      <td>Belorussian-born writer, Hebraist, and engraver</td>
+  </tr>
+  <tr>
+      <td>Bergson, Michael Gabriel</td>
+      <td>1820-1898</td>
+      <td>Warsaw-born composer</td>
+  </tr>
+  <tr>
+      <td>Berkowitz, Henry</td>
+      <td>C1819-1891</td>
+      <td>Warsaw-born orthodox minister, educationist, and politician, founded a private school (1857) and synagogue (1879) in Gravesend, Gravesend town councilor (1871), Mayor of Gravesend (1887)</td>
+  </tr>
+ <tr>
+      <td>Bischoffsheim, Henri Louis</td>
+      <td>1829-1908</td>
+      <td>Amsterdam-born banker and philanthropist, father of the Countess of Desart</td>
+  </tr>
+  <tr>
       <td>Bresslau, Marcus Hyman</td>
       <td>C1808–1864</td>
       <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844–8)</td>
@@ -362,7 +387,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Lindo, David Abarbanel</td>
       <td>1772–1852</td>
-      <td>Communal leader and scion of the Lindo family, father of Abigail Lindo, uncle of Benjamin Disraeli</td>
+      <td>Communal leader and scion of the Lindo family, father of Abigail Lindo, uncle of <a href="benjamin-disraeli.html">Benjamin Disraeli</a></td>
   </tr>
   <tr>
       <td>Lindo, Elias Haim</td>
@@ -437,7 +462,7 @@ permalink: /people-romantic.html
    <tr>
       <td>Mocatta, Abraham</td>
       <td>1797–1880</td>
-      <td>Bullion broker and stockbroker, grandson of Abraham Mocatta [Lumbrozo de Mattos], the founder of Mocatta & Goldsmid</td>
+      <td>Bullion broker and stockbroker, grandson of Abraham Mocatta [Lumbrozo de Mattos] the founder of Mocatta & Goldsmid</td>
   </tr>
   <tr>
       <td>Mocatta, David</td>
