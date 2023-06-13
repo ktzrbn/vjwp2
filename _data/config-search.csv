@@ -7,3 +7,4 @@ subject,true,true
 location,true,false
 objectid,true,true
 language,true,true
+searchau,true,false
