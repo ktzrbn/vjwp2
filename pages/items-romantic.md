@@ -48,7 +48,19 @@ Conversion notes:
 <strong><span style="text-decoration:underline;">Romantic Era (1780-1832) Literature</span></strong>
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_33.html">Alexander, Levy. <em>Memoirs of the Life and Commercial Connections, Public and Private, of the Late Benj. Goldsmid, Esq. of Roehampton, Containing a Cursory View of the Jewish Society and Manners</em> […]. L. Alexander, 1808.</a>
+Alexander, Alexander. <em>Pentateuch with Translation</em>. A. Alexander and Son, 1785.
+</p>
+<p class="hangingindent">
+Alexander, Levy. <em>Alexander's Hebrew Ritual</em>. L. Alexander, 1819.
+</p>
+<p class="hangingindent">
+---. <em>Answer to Mr. Joshua Van Oven’s Letters on the Present State of the Jewish Poor in London</em>. L. Alexander, 1802.
+</p>
+<p class="hangingindent">
+<a href="http://victorianjewishwritersproject.org/items/vjwp_33.html">---. <em>Memoirs of the Life and Commercial Connections, Public and Private, of the Late Benj. Goldsmid, Esq. of Roehampton, Containing a Cursory View of the Jewish Society and Manners</em> […]. L. Alexander, 1808.</a>
+</p>
+<p class="hangingindent">
+Bennett, Solomon Yom Tov. <em>The Constancy of Israel</em>. W.H. Wyatt, 1809.
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_34.html">Cohen, Shalom ben Jacob. <em>Shorshei Emunah, Elements of Faith for the Use of Jewish Youth of Both Sexes</em>. Translated by Joshua Van Oven, E. Justins, 1815.</a>
