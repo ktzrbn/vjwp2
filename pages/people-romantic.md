@@ -111,6 +111,11 @@ permalink: /people-romantic.html
       <td>Writer and printer</td>
   </tr>
   <tr>
+      <td>Alexander, Levy</td>
+      <td>d. C1834</td>
+      <td>Writer and printer, son of Alexander Alexander, successor of A. Alexander’s printing firm</td>
+  </tr>
+  <tr>
       <td>Amschejewitz, Asher</td>
       <td>1824–1903</td>
       <td>Orthodox rabbi and scholar, one of the first three scholars-in-residence at the Judith Montefiore College (1867), father of J. H. Amshewitz</td>
