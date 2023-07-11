@@ -261,7 +261,7 @@ permalink: /people-romantic.html
       <td>Newspaper editor and founder of the <em>Brighton Guardian</em> (1827)</td>
   </tr>
   <tr>
-      <td>Dacre, Charlotte (King)</td>
+      <td><a href="charlotte-dacre.html">Dacre, Charlotte (King)</a></td>
       <td>C1782–1825</td>
       <td>Poet and author of Gothic novels, daughter of John King</td>
   </tr>
