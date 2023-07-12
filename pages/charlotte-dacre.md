@@ -65,7 +65,11 @@ Little is written on King’s relationship to Judaism; many scholars do not ment
 
 ## Works Consulted
 
-xx
+<p class="hangingindent">
+Airey, Jennifer L. “‘He bears no rival near the throne’: Male Narcissism and Early Feminism in the Works of Charlotte Dacre.”<em>Eighteenth-Century Fiction</em> vol. 30, no. 2., 2017, pp. 223-241. <em>Project Muse</em>, DOI: 10.3138/ecf.30.2.223.
+</p>
+
+
 
 &nbsp;
 &nbsp;
