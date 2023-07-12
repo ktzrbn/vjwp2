@@ -3,7 +3,12 @@ title: Charlotte Dacre
 layout: page-narrow
 permalink: charlotte-dacre.html
 ---
-
+<style>
+  .hangingindent {
+  padding-left: 50px ;
+  text-indent: -50px ;
+} 
+</style>
 <!-- Matomo -->
 <script>
   var _paq = window._paq = window._paq || [];
@@ -66,7 +71,111 @@ Little is written on King’s relationship to Judaism; many scholars do not ment
 ## Works Consulted
 
 <p class="hangingindent">
-Airey, Jennifer L. “‘He bears no rival near the throne’: Male Narcissism and Early Feminism in the Works of Charlotte Dacre.”<em>Eighteenth-Century Fiction</em> vol. 30, no. 2., 2017, pp. 223-241. <em>Project Muse</em>, DOI: 10.3138/ecf.30.2.223.
+Airey, Jennifer L. “‘He bears no rival near the throne’: Male Narcissism and Early Feminism in the Works of Charlotte Dacre.” <em>Eighteenth-Century Fiction</em> vol. 30, no. 2., 2017, pp. 223-241. <em>Project Muse</em>, DOI: 10.3138/ecf.30.2.223.
+</p>
+
+<p class="hangingindent">
+Baines, Paul. “Byrne [née King], Charlotte [<em>pseud.</em> Charlotte Dacre]."<em>Oxford Dictionary of National Biography</em>, Sept. 23, 2004. <em>Oxford DNB,</em> <a href="https://doi.org/10.1093/ref:odnb/63519">https://doi.org/10.1093/ref:odnb/63519</a>. 
+</p>
+
+<p class="hangingindent">
+Birch, Dinah, editor. “Dacre, Charlotte (?1782-1825).” <em>The Oxford Companion to English
+Literature</em>, 7<sup>th</sup> ed. Oxford UP, 2009. <em>Oxford Reference</em>. 
+</p>
+
+<p class="hangingindent">
+Brewster, Glen. “Monstrous Philosophy: Charlotte Dacre’s Zofloya, or the Moor and John
+Milton’s Paradise Lost.” <em>Literature Compass</em> 8/9, 2011, pp. 609-619. Wiley Online Library, 10.1111/j.1741-4113.2011.00832.x.
+</p>
+
+<p class="hangingindent"> 
+Byron, George Gordon. <em>English Bards and Scotch Reviewers: A Satire</em>. Second edition. London: Deans & Co., 1809.
+</p>
+
+<p class="hangingindent"> 
+Craciun, Adriana. “Unnatural, Unsexed, Undead: Charlotte Dacre’s Gothic Bodies.” In <em>Fatal
+Women of Romanticism</em>, Cambridge UP, 2003, pp. 110-155.
+</p>
+
+<p class="hangingindent">
+Crockett, Christine. “Medical Gothic: Genre and Gender Bending in Charlotte Dacre’s Zofloya.” <em>Nineteenth-Century Gender Studies</em>, vol. 9, no. 2, 2013.  
+</p>
+
+<p class="hangingindent"> 
+Davison, Carol Margaret. “Getting their Knickers in a Twist: Contesting the ‘Female Gothic’ in Charlotte Dacre’s Zofloya.” <em>Gothic Studies</em> vol. 11, no. 1, 2009, pp. 32-45. <em>ProQuest</em>.
+</p>
+
+<p class="hangingindent">
+Donovan-Condron, Kellie. “Urban Gothic in Charlotte Dacre’s Zofloya.” <em>European Romantic
+Review</em>, vol. 24, no. 6, 2013, pp. 683-697. Taylor & Francis Online, DOI: 10.1080/10509585.2013.845771.
+</p>
+
+<p class="hangingindent"> 
+Dunn, James A. “Charlotte Dacre and the Feminization of Violence.” <em>Nineteenth-Century
+Literature</em>, vol 53, no. 3, Dec. 1998, pp. 307-327. JSTOR, <a href="https://doi.org/10.2307/2903042">https://doi.org/10.2307/2903042</a>.
+</p>
+
+<p class="hangingindent"> 
+Edelman, Todd M. <em>Broadening Jewish History: Towards a Social History of Ordinary Jews.</em>
+Liverpool UP, 2011.
+</p>
+
+<p class="hangingindent"> 
+---. “The Checkered Career of ‘Jew’ King: A Study in Anglo-Jewish Social
+History.” <em>AJS Review</em>, vol. 7/8, 1982/3, pp. 69-100. <em>JSTOR</em>.
+</p>
+
+<p class="hangingindent"> 
+<em>The Feminist Companion to Literature in English</em>, edited by Virginia Blain, Patricia Clements, and Isobel Grundy. Yale UP, 1990.
+</p>
+
+<p class="hangingindent"> 
+González Moreno, Beatriz. “Gothic Excess and Aesthetic Ambiguity in Charlotte Dacre’s
+Zofloya.” <em>Women’s Writing</em>, vol. 14, no. 3., 2007, pp. 419-434. <em>Taylor & Francis Online</em>, DOI: 10.1080/09699080701644931.
+</p>
+
+<p class="hangingindent"> 
+Jones, Ann H. <em>Ideas and Innovations: Best Sellers of Jane Austen’s Age.</em> AMS Press, 1986. 
+</p>
+
+<p class="hangingindent"> 
+Hoeveler, Diane Long. “Charlotte Dacre’s <em>Zofloya</em>: The Gothic Demonization of the Jew.” <em>The
+Jews and British Romanticism: Politics, Religion, Culture</em>, edited by Sheila A. Spector. Palgrave Macmillan, 2005, pp. 165-178.
+</p>
+
+<p class="hangingindent"> 
+King, Charlotte and Sophia Fortnum. <em>Trifles of Helicon.</em> James Ridgway, 1798. <em>Eighteenth
+Century Collections Online</em>.
+</p>
+
+<p class="hangingindent"> 
+Mellor, Anne. “Interracial Sexual Desire in Charlotte Dacre’s Zofloya.” <em>European Romantic
+Review</em>, vol. 13, no. 2, 2002, pp. 169-173. <em>Taylor & Francis Online</em>, DOI: 10.1080/10509580212756.
+</p>
+
+<p class="hangingindent"> 
+Michasiw, Kim Ian. “Introduction.” <em>Zofloya, or, The Moor</em>. Oxford UP, 1997, pp. vii-xxx.
+</p>
+
+<p class="hangingindent"> 
+Schotland, Sara D. “The Slave’s Revenge: The Terror in Charlotte Dacre’s Zofloya.” <em>The Western Journal of Black Studies</em>, 2009, vol. 33, no. 2, pp. 123-127. <em>Gale Academic OneFile</em>.
+</p>
+
+<p class="hangingindent"> 
+Summers, Montague. “Byron’s ‘Lovely Rosa.’” <em>Essays in Petto</em>. 1928. Books for Libraries Press, 1967, pp. 57-73.
+</p>
+
+<p class="hangingindent"> 
+---. <em>The Gothic Quest: A History of the Gothic Novel</em>. The Fortune Press, 1938.
+</p>
+
+<p class="hangingindent"> 
+Varma, Devendra P. “Introduction.” <em>Zofloya; or, The Moor: A Romance of the Fifteenth Century.</em> Vol. 1. Charlotte Dacre (‘Rosa Matilda’). Arno Press, 1974, pp. xi-xxx.
+</p>
+
+<p class="hangingindent"> 
+Wilson, Lisa M. “Female Pseudonymity in the Romantic ‘Age of Personality’: The Career of
+Charlotte King/Rosa Matilda/Charlotte Dacre.” <em>European Romantic Review</em>, vol. 9, no. 3, pp. 393-420, 1998. <em>Taylor & Francis Online</em>, DOI: 10.1080/10509589808570060.
 </p>
 
 
