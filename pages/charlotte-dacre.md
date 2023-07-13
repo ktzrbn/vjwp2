@@ -185,7 +185,30 @@ Charlotte King/Rosa Matilda/Charlotte Dacre.” <em>European Romantic Review</em
 
 ## Selected Bibliography
 
-xx
+<p class="hangingindent"> 
+Dacre, Charlotte. <em>Hours of Solitude.</em> D.N. Shury, 1805, 2 vols.
+</p>
+
+<p class="hangingindent">  
+---. <em>The Libertine.</em> T. Cadell and W. Davies, 1807, 4 vols.
+</p>
+
+<p class="hangingindent">  
+---. <em>Zofloya; or, the Moor.</em> Longman, Hurst, Rees, and Orme, 1806, 3 vols.
+</p>
+
+<p class="hangingindent">  
+King, Charlotte, and Sophia Fortnum. <em>Trifles of Helicon.</em> James Ridgway, 1798.
+</p>
+
+<p class="hangingindent">  
+Matilda, Rosa. <em>The Confessions of the Nun of St. Omer.</em> D.N. Shury for J.F. Hughes, 1805, 3
+vols.
+</p>
+
+<p class="hangingindent">  
+---. <em>The Passions.</em> T. Cadell and W. Davies, 1811, 4 vols.
+</p>
 
 &nbsp;
 &nbsp;
