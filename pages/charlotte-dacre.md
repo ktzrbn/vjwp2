@@ -194,7 +194,7 @@ Dacre, Charlotte. <em>Hours of Solitude.</em> D.N. Shury, 1805, 2 vols.
 </p>
 
 <p class="hangingindent">  
----. <em>Zofloya; or, the Moor.</em> Longman, Hurst, Rees, and Orme, 1806, 3 vols.
+<a href="/items/vjwp_59.html">---. <em>Zofloya; or, the Moor.</em> Longman, Hurst, Rees, and Orme, 1806, 3 vols.</a>
 </p>
 
 <p class="hangingindent">  
