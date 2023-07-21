@@ -63,6 +63,27 @@ Alexander, Levy. <em>Alexander's Hebrew Ritual</em>. L. Alexander, 1819.
 Bennett, Solomon Yom Tov. <em>The Constancy of Israel</em>. W.H. Wyatt, 1809.
 </p>
 <p class="hangingindent">
+---. <em>A Discourse on Sacrifices</em>. Richard and Arthur Taylor, 1815.
+</p>
+<p class="hangingindent">
+---. <em>The Molten Sea</em>. London, 1824.
+</p>
+<p class="handingindent">
+---. <em>The Present Reign of the Synagogue in Duke's Place Displayed</em>. No. 475 Strand, 1818.
+</p>
+<p class="hangingindent">
+---. <em>The Temple of Ezekiel</em>. A.J. Valfy, 1824.
+</p>
+<p class="hangingindent">
+---. <em>Tenneh Bikkurim</em>, London, 1817.
+</p>
+<p class="hangingindent">
+Bolaffey, Hayim Vita. <em>The Aleph-Beth; or, the First Step to the Hebrew Language.</em> London, 1811. 
+</p>
+<p class="hangingindent">
+---. <em>An Easy Grammar of the Primaeval Language Commonly Called Hebrew</em>. Hatchard, 1820.
+</p>
+<p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_34.html">Cohen, Shalom ben Jacob. <em>Shorshei Emunah, Elements of Faith for the Use of Jewish Youth of Both Sexes</em>. Translated by Joshua Van Oven, E. Justins, 1815.</a>
 </p>
 <p class="hangingindent">
