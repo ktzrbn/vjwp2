@@ -20,6 +20,8 @@ img {
      alt="1882 Map of London's East End"
      style="float: left; margin-right: 10px; padding-bottom:20px;" />  
 </div>
+&nbsp;
+
 <p class="hangingindent">
 <strong>Bibliography of Secondary Sources</strong>
 </p>
