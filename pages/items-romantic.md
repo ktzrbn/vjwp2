@@ -60,11 +60,11 @@ Alexander, Levy. <em>Alexander's Hebrew Ritual</em>. L. Alexander, 1819.
 <a href="http://victorianjewishwritersproject.org/items/vjwp_33.html">---. <em>Memoirs of the Life and Commercial Connections, Public and Private, of the Late Benj. Goldsmid, Esq. of Roehampton, Containing a Cursory View of the Jewish Society and Manners</em> […]. L. Alexander, 1808.</a>
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_129.pdf">
+<a href="http://victorianjewishwritersproject.org/items/vjwp_129.html">
 Bennett, Solomon Yom Tov. <em>The Constancy of Israel</em>. W.H. Wyatt, 1809.</a>
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_130.pdf">
+<a href="http://victorianjewishwritersproject.org/items/vjwp_130.html">
 ---. <em>A Discourse on Sacrifices</em>. Richard and Arthur Taylor, 1815.</a>
 </p>
 <p class="hangingindent">
@@ -74,7 +74,7 @@ Bennett, Solomon Yom Tov. <em>The Constancy of Israel</em>. W.H. Wyatt, 1809.</a
 ---. <em>The Present Reign of the Synagogue in Duke's Place Displayed</em>. No. 475 Strand, 1818.
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_131.pdf">
+<a href="http://victorianjewishwritersproject.org/items/vjwp_131.html">
 ---. <em>The Temple of Ezekiel</em>. A.J. Valfy, 1824.</a>
 </p>
 <p class="hangingindent">
