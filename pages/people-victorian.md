@@ -62,7 +62,7 @@ img {
       <td>Politician and communal leader, President of Bristol Hebrew Congregation (1853–4), Bristol town councilor (1861), Mayor of Bristol (1865–6)</td>
   </tr>
   <tr>
-      <td>Abraham, Leonora Lucy</td>
+      <td>Abraham [Braham], Leonora Lucy</td>
       <td style="white-space:nowrap;">1853–1931</td>
       <td>Operatic soprano and writer</td>
   </tr>
@@ -102,6 +102,11 @@ img {
       <td>Civil servant, economist, and historian</td>
   </tr>
   <tr>
+      <td>Abrahams, Louis Barnett</td>
+      <td style="white-space:nowrap;">1839–1918</td>
+      <td>Writer and teacher</td>
+  </tr>
+  <tr>
       <td>Abrahams, Moses</td>
       <td style="white-space:nowrap;">1853–1925</td>
       <td>Mayor of Grimsby (1901)</td>
@@ -119,12 +124,12 @@ img {
   <tr>
       <td>Adler, Celestine (Lehfeldt)</td>
       <td style="white-space:nowrap;">1821–1891</td>
-      <td>Second wife of Nathan Marcus Adler, mother of Elkan Nathan Adler</td>
+      <td>Second wife of <a href="/nathan-marcus-adler.html">Nathan Marcus Adler</a>, mother of Elkan Nathan Adler</td>
   </tr>
   <tr>
       <td>Adler, Elkan Nathan</td>
       <td style="white-space:nowrap;">1861–1946</td>
-      <td>Author and collector of antiquities, son of Nathan Marcus Adler and Celestine (Lehfeldt) Adler</td>
+      <td>Author and collector of antiquities, son of <a href="/nathan-marcus-adler.html">Nathan Marcus Adler</a> and Celestine (Lehfeldt) Adler</td>
   </tr>
   <tr>
       <td>Adler, Henrietta (Nettie)</td>
@@ -134,7 +139,7 @@ img {
   <tr>
       <td>Adler, Henrietta (Worms)</td>
       <td style="white-space:nowrap;">1800–1853</td>
-      <td>First wife of Nathan Marcus Adler, mother of Marcus Nathan Adler and Hermann Adler</td>
+      <td>First wife of <a href="/nathan-marcus-adler.html">Nathan Marcus Adler</a>, mother of Marcus Nathan Adler and Hermann Adler</td>
   </tr>
   <tr>
       <td>Adler, Herbert Marcus</td>
@@ -144,7 +149,7 @@ img {
   <tr>
       <td>Adler, Hermann</td>
       <td style="white-space:nowrap;">1839–1911</td>
-      <td>Chief Rabbi (1891–1911), son of Nathan Marcus Adler and Henrietta (Worms) Adler</td>
+      <td>Chief Rabbi (1891–1911), son of <a href="/nathan-marcus-adler.html">Nathan Marcus Adler</a> and Henrietta (Worms) Adler</td>
   </tr>
   <tr>
       <td>Adler, Jankel [Jakub]</td>
@@ -152,9 +157,9 @@ img {
       <td>Painter and printmaker</td>
   </tr>
   <tr>
-      <td>Adler, Marcus Nathan</td>
+      <a href="/nathan-marcus-adler.html"><td>Adler, Marcus Nathan</td></a>
       <td style="white-space:nowrap;">1837–1911</td>
-      <td>Actuary and communal leader, son of Nathan Marcus Adler and Henrietta (Worms) Worms</td>
+      <td>Actuary and communal leader, son of <a href="/nathan-marcus-adler.html">Nathan Marcus Adler</a> and Henrietta (Worms) Worms</td>
   </tr>
   <tr>
       <td>Adler, Michael</td>
