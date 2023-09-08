@@ -152,12 +152,17 @@ img {
       <td>Chief Rabbi (1891–1911), son of <a href="/nathan-marcus-adler.html">Nathan Marcus Adler</a> and Henrietta (Worms) Adler</td>
   </tr>
   <tr>
+      <td>Adler, Jacob Pavlovitch</td>
+      <td style="white-space:nowrap;">1855–1926</td>
+      <td>Yiddish theatre actor and memoirist</td>
+  </tr>
+  <tr>
       <td>Adler, Jankel [Jakub]</td>
       <td style="white-space:nowrap;">1895–1949</td>
       <td>Painter and printmaker</td>
   </tr>
   <tr>
-      <a href="/nathan-marcus-adler.html"><td>Adler, Marcus Nathan</td></a>
+      <td><a href="/nathan-marcus-adler.html">Adler, Marcus Nathan</a></td>
       <td style="white-space:nowrap;">1837–1911</td>
       <td>Actuary and communal leader, son of <a href="/nathan-marcus-adler.html">Nathan Marcus Adler</a> and Henrietta (Worms) Worms</td>
   </tr>
@@ -174,17 +179,17 @@ img {
   <tr>
       <td>Aguilar, Emanuel Abraham</td>
       <td style="white-space:nowrap;">1824–1904</td>
-      <td>Composer and pianist, brother of Grace Aguilar</td>
+      <td>Composer and pianist, brother of <a href="grace-aguilar.html">Grace Aguilar</a></td>
   </tr>
   <tr>
-      <td>Aguilar, Grace</td>
+      <td><a href="grace-aguilar.html">Aguilar, Grace</a></td>
       <td style="white-space:nowrap;">1816–1847</td>
       <td>Novelist, poet, and historian, first Jewish historian of Anglo-Jewry</td>
   </tr>
   <tr>
       <td>Aguilar, Henry</td>
       <td style="white-space:nowrap;">1827–1902</td>
-      <td>Captain in the Royal Navy, brother of Grace Aguilar</td>
+      <td>Captain in the Royal Navy, brother of <a href="grace-aguilar.html">Grace Aguilar</a></td>
   </tr>
   <tr>
       <td>Alex, Ephraim</td>
@@ -197,10 +202,40 @@ img {
       <td>Barrister and communal leader, president of the Board of Deputies of British Jews (1903–17), member of the League of British Jews, grandson of David Abarbanel Lindo</td>
   </tr>
   <tr>
-      <td>Angel, Moses</td>
-      <td style="white-space:nowrap;">1819–1898</td>
-      <td>Headmaster of the Jews’ Free School (1842–97), first co-editor of the <em>Jewish Chronicle</em> (1841–2)</td>
+      <td>Alman, Olga [Gertrude] (Ginzburg)</td>
+      <td style="white-space:nowrap;">C1886–1961</td>
+      <td>Russian-born co-founder of the Federation of Women Zionists (1918)</td>
   </tr>
+  <tr>
+      <td>Alman, Samuel</td>
+      <td style="white-space:nowrap;">1877–1947</td>
+      <td>Musician, composer, and writer of liturgical works</td>
+  </tr>
+  <tr>
+      <td>Amshewitz, Asher</td>
+      <td style="white-space:nowrap;">1824–1903</td>
+      <td>Orthodox rabbi and scholar, one of the first three scholars-in-residence at the Judith Montefiore College (1867), father of J.H. Amshewitz</td>
+  </tr>
+  <tr>
+      <td>Amshewitz, John Henry [J.H.]</td>
+      <td style="white-space:nowrap;">1884–1942</td>
+      <td>Artist, illustrator of works by Israel Zangwill</td>
+  </tr>        
+  <tr>
+      <td>Angel, Moses</td>
+      <td style="white-space:nowrap;">C1821–1898</td>
+      <td>Educator and writer, headmaster of the Jews’ Free School (1842–97), first co-editor of the <em>Jewish Chronicle</em> (1841–2)</td>
+  </tr>
+  <tr>
+      <td>Ansell, Moss</td>
+      <td style="white-space:nowrap;">C1821–1872</td>
+      <td>First Jew to hold a government office in Britain, Chief Clerk in the Court of Chancery (C1842–72), recipient of the Freedom of the City of London (1856)</td>
+  </tr>
+  <tr>
+      <td>Aria, Eliza (Davis)</td>
+      <td style="white-space:nowrap;">1866–1931</td>
+      <td>Author and journalist, sister of Julia Frankau</td>
+  </tr>    
   <tr>
       <td>Ascher, Isidore Gordon</td>
       <td style="white-space:nowrap;">1835–1914</td>
