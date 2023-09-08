@@ -222,42 +222,42 @@ permalink: /people-romantic.html
   </tr>
   <tr>
       <td>Benmohel, Nathan Lazarus</td>
-      <td>C1800-1869</td>
+      <td>C1800–1869</td>
       <td>Hamburg-born scholar and linguist, first professing Jew to graduate from a British university, obtained his BA (1836) and MA (1846) from Trinity College, Dublin</td>
   </tr>
   <tr>
       <td>Bennett, Solomon Yom Tov</td>
-      <td>1761-1838</td>
+      <td>1761–1838</td>
       <td>Belorussian-born writer, Hebraist, and engraver</td>
   </tr>
   <tr>
       <td>Bergson, Michael Gabriel</td>
-      <td>1820-1898</td>
+      <td>1820–1898</td>
       <td>Warsaw-born composer</td>
   </tr>
   <tr>
       <td>Berkowitz, Henry</td>
-      <td>C1819-1891</td>
+      <td>C1819–1891</td>
       <td>Warsaw-born orthodox minister, educationist, and politician, founded a private school (1857) and synagogue (1879) in Gravesend, Gravesend town councilor (1871), Mayor of Gravesend (1887)</td>
   </tr>
   <tr>
       <td>Bischoffsheim, Henri Louis</td>
-      <td>1829-1908</td>
+      <td>1829–1908</td>
       <td>Amsterdam-born banker and philanthropist, father of the Countess of Desart</td>
   </tr>
   <tr>
       <td>Bolaffey, Hayim Vita</td>
-      <td>C1779-1835</td>
+      <td>C1779–1835</td>
       <td>Teacher, writer, and Hebraist</td>
   </tr>
   <tr>
       <td>Brandon, John Raphael Rodrigues</td>
-      <td>1817-1877</td>
+      <td>1817–1877</td>
       <td>Architect and author</td>
   </tr>
     <tr>
       <td>Brandon, Joshua Arthur Rodrigues</td>
-      <td>1822-1847</td>
+      <td>1822–1847</td>
       <td>Architect and author, brother of John Raphael Rodrigues Brandon</td>
   </tr>
   <tr>
@@ -267,7 +267,7 @@ permalink: /people-romantic.html
   </tr>
   <tr>
       <td>Bright, Henry</td>
-      <td>1817-1904</td>
+      <td>1817–1904</td>
       <td>Local politician, Leamington town councilor, Mayor of Leamington (1876–82)</td>
   </tr>
   <tr>
