@@ -67,6 +67,6 @@ VJWP is built using a customized instance of CollectionBuilder, CSV-oriented met
 
 **Lindsay Katzir** is Assistant Professor of English at Langston University, where she teaches British and World literatures and serves as Assistant Director of LU’s Writing Center. Her research centers on issues of race, religion, and gender in nineteenth-century British literature and focuses particularly on Victorian Jewish literature and culture. Lindsay is the co-editor of the Victorian Jewish Writers Project (vjwp.org), an archive dedicated to the study of Judaism in the long nineteenth century. Please contact Lindsay ([katzir@vjwp.org](mailto:katzir@vjwp.org)) for more information or to contribute to the project.
 
-**Brandon Katzir** is Assistant Professor and Digital Services Librarian at Oklahoma State University. His research explores a range of Jewish topics, including the Jewish rhetorical tradition in the medieval period as well as Jewish writing in English and Yiddish in nineteenth- and twentieth-century Britain and America. He is the co-editor of the Victorian Jewish Writers Project. 
+**Brandon Katzir** is the Systems and Discovery Librarian at Smith College in Northampton, Massachusetts. His research explores a range of Jewish topics, including the Jewish rhetorical tradition in the medieval period as well as Jewish writing in English and Yiddish in nineteenth- and twentieth-century Britain and America. He is the co-editor of the Victorian Jewish Writers Project. 
 
 &nbsp;
