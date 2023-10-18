@@ -19,10 +19,14 @@ permalink: judith-montefiore.html
 
  &nbsp;
 
- *Biography* 
+**Biography**
+
 Judith Montefiore, née Cohen, lived from 1784, or possibly 1794, to 1862 (Lipman 287).1 Her father, Levi Barent Cohen, had arrived in London from Holland about a decade prior to Judith’s birth. Her mother, Liba or Lydia Diamantschliefer, married Levi Barent after the death of his first wife, her sister. Judith was their second daughter. She received an excellent private education on a genteel English model with emphasis on polite accomplishments and modern languages. However, her home and social life also inculcated Hebrew-language skills and traditional religious priorities in the Ashkenazi tradition. Her legacy is almost always yoked to that of her husband, Moses Montefiore (and often framed in the context of their childlessness). Judith and Moses, who was a Sephardic Jew, married in 1812; their marriage is often credited with easing the way toward greater unity among England’s Ashkenazim and Sephardim (prior to the arrival later in the century of less affluent Eastern European Jews), although Lipman identified this union as just one in a late-eighteenth and early-nineteenth-century “spate of such marriages” (290). After their marriage, Moses not only achieved success in business but also became one of the most important philanthropists of the nineteenth century. Judith was a particularly active partner in these philanthropic endeavors, which focused—though not exclusively­—on the conditions of Jews worldwide. Two privately published journals of her travels to Palestine reflect some of these priorities and have been understood by Judith Page as narratives of “spiritual pilgrimage” and “homemaking, planting, and improvement,” respectively (126-7). It is likely their 1826-7 journey was the first or one of the first such trips made by Anglo-Jewish tourists; as a result, the trip is sometimes understood as a prelude to or early chapter in the rise of Zionism among nineteenth-century British Jews. Judith Montefiore became Lady Montefiore when Moses was knighted in 1837. Moses received a baronetcy in 1846, the same year that _The Jewish Manual_ was published anonymously by “A Lady.” That this lady was Judith is now widely accepted, though the significance of this cookbook not only as a Jewish artifact but also as a Victorian text has been understudied. Judith’s life and work more broadly have received some scholarly attention, but this entry is unique in its focus on situating these extant writings in their broader literary critical contexts, particularly late-20th and early-21st century frameworks for locating women’s non-canonical and ephemeral writing in more familiar literary and literary critical traditions.
 
-*Travel Writing, Judith Montefiore’s Private Journals, and a “Jewish-centered world”*
+<br>
+
+**Travel Writing, Judith Montefiore’s Private Journals, and a “Jewish-centered world”**
+
 Prior to the turn of the twenty-first century, an “absence within the academy of a tradition of critical attention to travel writing” relegated works much more easily accessible and better known than Judith Montefiore’s private journals to footnotes in the literary critical record (Hulme and Youngs 1). However, literary scholarship over the last quarter century has turned increasing attention to travel writing and travelogues, though the genre remains “stubbornly indefinable” (Youngs 2). Much of the interest in nineteenth-century British travel writing has, for obvious reasons, focused on imperialism. Work on nineteenth-century British women’s travel writing is no exception to this, though with particular attention given to women’s travel writing as often “informed by a greater awareness of and attention to the details of everyday living arrangements and domestic concerns … [with more] value [placed] on personal observation of and contact with the daily lives of other people, especially women and children” (Wagner 175).
 
 Of course, travel writing is a genre with particular significance for diasporic peoples and  Jewish travel and travel writing is a notable topic among historians and scholars of religious studies. Literary critical analysis of Jewish travel writing _as writing_ is a less well-developed area of study, and the bibliography of such work on Judith Montefiore’s travel journals is slim, though Galit Hasan-Rokem’s “The Jewish Tradition of the Wandering Jew: The Poetics of Long Duration” (2021) and Judith Page’s important _Imperfect Sympathies: Jews and Judaism in British Romantic Literature and Culture_ (2004) do consider Montefiore’s travel writing in this light. As Page notes, however, a “conservatism” shared by Judith and Moses “extended to Judith’s sense of herself as a writer. She chose not to publish her travel journals, and did not consider herself an ‘author’” (124-5). The writing that Montefiore did publish for public consumption, namely _The Jewish Manual_, she published anonymously.
@@ -31,7 +35,10 @@ The _Private Journal of a Visit to Egypt and Palestine_ (printed for private cir
 
 Unlike the pilgrimage of 1826-7, the Montefiores’ 1838 journey to Palestine was a “practical mission … the record [of which] becomes a narrative of homemaking, planting, and improvement” (Page 126-7). Reading the Notes from a _Journal of a Visit to Palestine_ by way of Italy and the Mediterranean Montefiore, published privately in 1844 as extending the nurturing role increasingly associated with nineteenth-century British women to a “domestic” space that encompasses Palestine, Page sees a shared theme with another Jewish writer of the period, Grace Aguilar, namely in how “cultivating the land becomes one metaphor for establishing a Jewish identity” in Victorian Jewish women’s writing (130). A minor point of overlap between this travel narrative and a more familiar nineteenth-century lady traveler is the mention Montefiore makes of logistics surrounding the 1839 death of Lady Hester Stanhope (in the small village of Joun in what is now Lebanon).
 
-*Cookbooks as Literature and _The Jewish Manual_*
+<br>
+
+**Cookbooks as Literature and _The Jewish Manual_**
+
 The cookbook stands at an even greater remove from long-established conversations in literary studies than does travel writing. Cookbooks are very seldom incorporated in anthologies, syllabi, and general scholarship regarding nineteenth-century writing. Whereas nineteenth-century British novels will be picked up by those studying a wide variety of topics, British nineteenth-century cookbooks—with the occasional exception of _Mrs. Beeton’s Book of Household Management_—are generally studied only by those with an interest specifically in cookbooks or food cultures and only treated with a primary focus on the ways cookbooks are writing by a subset of such students and scholars.
 
 Food studies emerged as an increasingly articulable interdisciplinary area in the 1990s and early 2000s, following work in cultural studies, feminist theories and the academic study of women’s work, post-colonial theory, and theoretical approaches centering race and identity that paved the way for understandings of cookbooks as significant cultural vectors deserving of rigorous analysis. The cultural historian Janet Theophano’s 2003 _Eat My Words: Reading Women’s Lives through the Cookbooks They Wrote_ demonstrates the particular resonance of food and cookbook studies for scholars of women’s lives and writing, though literary food studies’ understanding of food as text and the literature of food— including cookbooks—_as literature_ beyond any particular focus on women’s or gender studies.
@@ -46,8 +53,15 @@ In reading _The Jewish Manual_ as a document of the religiously observant or obs
 
 In accordance with the laws of kashrut, the recipes in _The Jewish Manual_ never call for both dairy and meat products, though they are not marked as or sorted into dairy, meat, or pareve (neither dairy nor meat and suitable to be eaten with both) categories. Some recipes specify a particular dairy ingredient as omitted (like “Sauce without Butter for Boiled Puddings”), but this Jewish aspect of the book is largely implicit rather than explicit (26). Though recipes are accompanied by varied descriptions and notes, the most identifiably “Jewish” of the recipes (like “A Luction, or a Rachel,” for example) are not generally remarked upon with particular attention or explanation (118).2 The most explicit reference to concerns regarding kashrut is the editor’s instruction that “it is a great mistake to imagine lard is better adapted for pastry than butter or clarified fat,” which suggests the possibility that Montefiore envisioned _The Jewish Manual_ as a counter to assimilating urges in her community (103-4).
 
-*Judith Montefiore as a Jewish Writer* 
+<br>
+
+**Judith Montefiore as a Jewish Writer** 
+
 As Michael Scrivener notes, there are “striking difference[s] between the older and current literary critics” in their treatment of Jewish representation in British literature, notably the “inclusion of diverse genres, not just the novel and drama; and the broad contextualization of literary texts in terms of cultural, postcolonial, gender and feminist studies” (21). Certainly, the reclamation of Judith Montefiore as a writer works within these contexts. It is worth noting alongside Jane Gerson, however, that the “discovery” of Montefiore and of texts like _The Jewish Manual_ is often a complicated palimpsest of “selective public memory” and forgetfulness (298). Judith Montefiore’s life and work have not been forgotten since her death, but her significance as a Victorian Jewish _writer of literature_ has not, heretofore, been firmly established. Increased twenty-first-century interest in Montefiore suggests an opportunity to establish her more firmly in this critical conversation.
+
+<br>
+
+---
 
 _<sup>1</sup> Though Lipman notes the possibility of the 1794 birth date, the consensus seems to fall with 1784. <br>_
 _<sup>2</sup> “Luction” meaning “lokshen” kugel, a kugel made with noodles rather than potatoes._
@@ -56,7 +70,7 @@ _<sup>2</sup> “Luction” meaning “lokshen” kugel, a kugel made with noodl
 
 ## Works Consulted 
 
-Breger, Jennifer. “Judith Montefiore.” _Shalvi/Hyman Encyclopedia of Jewish Women_, Jewish Women’s Archive, 31 Dec. 1999,[https://jwa.org/encyclopedia/article/montefiore-judith](https://jwa.org/encyclopedia/article/montefiore-judith). Accessed 3 Mar. 2023.
+Breger, Jennifer. “Judith Montefiore.” _Shalvi/Hyman Encyclopedia of Jewish Women_, Jewish Women’s Archive, 31 Dec. 1999, [https://jwa.org/encyclopedia/article/montefiore-judith](https://jwa.org/encyclopedia/article/montefiore-judith). Accessed 3 Mar. 2023.
 
 ---. “Three Women of the Book: Judith Montefiore, Rachel Morpurgo and Flora Sassoon.” _AB Bookman’s Weekly_, vol. 101, 1998, pp. 853–864.
 
@@ -96,6 +110,8 @@ Wagner, Tamara. “Travel Writing.” _The Cambridge Companion to Victorian Wome
 
 Youngs, Tim. _The Cambridge Introduction to Travel Writing_. Cambridge UP, 2013.
 
+&nbsp;
+
 ## Selected Bibliography 
 
 [_The Jewish Manual: or, Practical Information in Jewish and Modern Cookery, with a Collection of Valuable Recipes and Hints Relating to the Toilette, edited by a Lady_. T. & W. Boone, 1846.](items/vjwp_132.html)
@@ -106,7 +122,8 @@ _Lady Montefiore's Honeymoon: An Unpublished Diary_, edited by Lucien Wolf, Jewi
 
 [_Private Journal of a Visit to Egypt and Palestine by Way of Italy and the Mediterranean_. Joseph Rickerby, 1836.](items/vjwp_134.html)
 
-
+&nbsp;
+&nbsp;
 
 
 
