@@ -537,7 +537,7 @@ img {
       <td>Scholar, author, and Reformer, co-founder of the Jewish Religious Union (later the Liberal Jewish Synagogue), grandson of Isaac Lyon Goldsmid</td>
   </tr> 
   <tr>
-      <td>Montefiore, Lady Judith (Cohen)</td>
+      <td><a href="/judith-montefiore.html">Montefiore, Lady Judith (Cohen)</a></td>
       <td style="white-space:nowrap;">1784–1862</td>
       <td>Writer and philanthropist, author of the first Anglo-Jewish cookbook, wife of Moses Montefiore</td>
   </tr> 

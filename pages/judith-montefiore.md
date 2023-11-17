@@ -19,8 +19,6 @@ permalink: judith-montefiore.html
 
  &nbsp;
 
-**Biography**
-
 Judith Montefiore, née Cohen, lived from 1784, or possibly 1794, to 1862 (Lipman 287).1 Her father, Levi Barent Cohen, had arrived in London from Holland about a decade prior to Judith’s birth. Her mother, Liba or Lydia Diamantschliefer, married Levi Barent after the death of his first wife, her sister. Judith was their second daughter. She received an excellent private education on a genteel English model with emphasis on polite accomplishments and modern languages. However, her home and social life also inculcated Hebrew-language skills and traditional religious priorities in the Ashkenazi tradition. Her legacy is almost always yoked to that of her husband, Moses Montefiore (and often framed in the context of their childlessness). Judith and Moses, who was a Sephardic Jew, married in 1812; their marriage is often credited with easing the way toward greater unity among England’s Ashkenazim and Sephardim (prior to the arrival later in the century of less affluent Eastern European Jews), although Lipman identified this union as just one in a late-eighteenth and early-nineteenth-century “spate of such marriages” (290). After their marriage, Moses not only achieved success in business but also became one of the most important philanthropists of the nineteenth century. Judith was a particularly active partner in these philanthropic endeavors, which focused—though not exclusively­—on the conditions of Jews worldwide. Two privately published journals of her travels to Palestine reflect some of these priorities and have been understood by Judith Page as narratives of “spiritual pilgrimage” and “homemaking, planting, and improvement,” respectively (126-7). It is likely their 1826-7 journey was the first or one of the first such trips made by Anglo-Jewish tourists; as a result, the trip is sometimes understood as a prelude to or early chapter in the rise of Zionism among nineteenth-century British Jews. Judith Montefiore became Lady Montefiore when Moses was knighted in 1837. Moses received a baronetcy in 1846, the same year that _The Jewish Manual_ was published anonymously by “A Lady.” That this lady was Judith is now widely accepted, though the significance of this cookbook not only as a Jewish artifact but also as a Victorian text has been understudied. Judith’s life and work more broadly have received some scholarly attention, but this entry is unique in its focus on situating these extant writings in their broader literary critical contexts, particularly late-20th and early-21st century frameworks for locating women’s non-canonical and ephemeral writing in more familiar literary and literary critical traditions.
 
 <br>
@@ -63,8 +61,8 @@ As Michael Scrivener notes, there are “striking difference[s] between the olde
 
 ---
 
-_<sup>1</sup> Though Lipman notes the possibility of the 1794 birth date, the consensus seems to fall with 1784. <br>_
-_<sup>2</sup> “Luction” meaning “lokshen” kugel, a kugel made with noodles rather than potatoes._
+<sup>1</sup> Though Lipman notes the possibility of the 1794 birth date, the consensus seems to fall with 1784. <br>
+<sup>2</sup> “Luction” meaning “lokshen” kugel, a kugel made with noodles rather than potatoes.
 
 &nbsp;
 
