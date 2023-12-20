@@ -49,16 +49,16 @@ _Jew. Chron. and Jew. World_, Jan. 24, 1890.
 ## Bibliography
 
 <p>
-<em>Des Israeliten Liebe zum Vaterlande: Eine Predigt zur Feier des Geburtstages seiner Majestät des Königs Wilhelm IV</em>. Hanover: In Commission in der Helwing’schen Hofbuchhandlung, 1836. 
+<a href="/items/vjwp_135.html"><em>Des Israeliten Liebe zum Vaterlande: Eine Predigt zur Feier des Geburtstages seiner Majestät des Königs Wilhelm IV</em>. Hanover: In Commission in der Helwing’schen Hofbuchhandlung, 1836.</a>
 </p>
 <p>
 <em>Hamishah Humshey Torah va’Aleyhem Yairu Urim Gedolim</em>. Vilna: Romm, 1912. 
 </p>
 <p>
-<em>The Morning and Evening Sacrifice; How to be Represented in these Days, with Special Reference to the Claims of Deaf Mutes in the Jewish Community. A Sermon Delivered in the Great Synagogue, Duke’s Place, on January 28, 5625. </em>London: Wertheimer, 1865. 
+<a href="/items/vjwp_136.html"><em>The Morning and Evening Sacrifice; How to be Represented in these Days, with Special Reference to the Claims of Deaf Mutes in the Jewish Community. A Sermon Delivered in the Great Synagogue, Duke’s Place, on January 28, 5625. </em>London: Wertheimer, 1865.</a>
 </p>
 <p>
-<em>The Second Day of the Festivals: A Sermon at the New Synagogue, Great St. Helen’s, on the Second Day of Passover, 5628</em>. London: Trübner, 1868. 
+<a href="/items/vjwp_137.html"><em>The Second Day of the Festivals: A Sermon at the New Synagogue, Great St. Helen’s, on the Second Day of Passover, 5628</em>. London: Trübner, 1868.</a>
 </p>
 
 <!-- only the space goes after this line -->
