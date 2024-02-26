@@ -55,8 +55,8 @@ metadata: vjwp-metadata
 #
 # leave these blank or comment out to NOT include google code
 # if present, used to add analytics during "production" build only
- #google-analytics-id: UA-222070083-1
- #google-cse-id: 
+google-analytics-id: G-4M58JFBK83
+google-cse-id: 7572812412
 
 ##########
 # ROBOTS EXCLUDE
