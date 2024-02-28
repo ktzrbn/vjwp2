@@ -421,7 +421,7 @@ permalink: /people-romantic.html
       <td>Author, translator, and printer</td>
   </tr>
   <tr>
-      <td>Lindo, Abigail</td>
+      <td><a href="abigail-lindo.html">Lindo, Abigail</a></td>
       <td>1803–1848</td>
       <td>Lexicographer and scholar, first British Jew to compile a Hebrew-English dictionary</td>
   </tr>
