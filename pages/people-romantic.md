@@ -481,7 +481,7 @@ permalink: /people-romantic.html
       <td>First spiritual leader of the West London Synagogue of British Jews</td>
   </tr>
   <tr>
-      <td>Meldola, David</td>
+      <td><a href="/david-meldola.html">Meldola, David</a></td>
       <td>1797–1853</td>
       <td>Minister of Bevis Marks (1828), first co-editor of the <em>Jewish Chronicle</em> (1841–2)</td>
   </tr>
@@ -651,7 +651,7 @@ permalink: /people-romantic.html
       <td>Chief Rabbi (1780–91)</td>
   </tr>
   <tr>
-      <td>de Sola, David Aaron</td>
+      <td><a href="david-aaron-desola.html">de Sola, David Aaron</a></td>
       <td>1796–1860</td>
       <td>Minister of Bevis Marks (1818–60)</td>
   </tr>
