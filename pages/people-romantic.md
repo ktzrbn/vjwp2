@@ -351,7 +351,7 @@ permalink: /people-romantic.html
       <td>Politician and communal leader, Liberal MP for Honiton (1865–6)</td>
   </tr>
   <tr>
-      <td>Goldsmid, Sir Frederick John</td>
+      <td><a href="frederic-j-goldsmid.html">Goldsmid, Sir Frederic John</a></td>
       <td>1818–1908</td>
       <td>Author, army officer, and civil servant in India, Director General of the <em>Indo-European Telegraph</em>, nephew of Isaac Lyon Goldsmid</td>
   </tr>
