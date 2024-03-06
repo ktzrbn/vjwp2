@@ -368,7 +368,7 @@ permalink: /people-romantic.html
   <tr>
       <td>Goldsmid, Jessie Sarah</td>
       <td>1816–1888</td>
-      <td>Sister of Frederick John Goldsmid, wife of Henry Edward Goldsmid [Moses]</td>
+      <td>Sister of Frederic John Goldsmid, wife of Henry Edward Goldsmid [Moses]</td>
   </tr>
   <tr>
       <td>Goldsmid, Louisa Sophia</td>
