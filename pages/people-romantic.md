@@ -661,7 +661,7 @@ permalink: /people-romantic.html
       <td>Founder of the <em>Jewish Chronicle</em> (1841), the Jewish Association for the Diffusion of Religious Knowledge (1828), and the Jews’ Orphans Asylum (1831)</td>
   </tr>
   <tr>
-      <td>Van Oven, Joshua</td>
+      <td><a href="joshua-van-oven.html">Van Oven, Joshua</a></td>
       <td>1766–1838</td>
       <td>Writer, surgeon, and communal leader, co-founder of the Jews’ Free School (1817), founder of the Jews’ Hospital (1807)</td>
   </tr>
