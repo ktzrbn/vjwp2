@@ -1,0 +1,17 @@
+pages with "coming soon" in title
+
+david-levi.md:<p align="center">Coming soon</p>
+elizabeth-polack-playwright.md:<p align="center">Coming soon</p>
+elizabeth-polack-poet.md:<p align="center">Coming soon</p>
+hebrew-melodies.md:# Coming soon
+ideas-modern.md:Coming soon
+ideas-victorians.md:Coming soon
+items-modern.md:Coming soon
+items-victorians.md:Coming soon
+maria-polack.md:# Coming soon
+merchant-of-venice.md:<p align="center">Coming soon</p>
+modern.md:Coming soon
+people-modern.md:Coming soon
+places-modern.md:Coming soon
+places-victorian.md:Coming soon
+victorian.md:Coming soon
