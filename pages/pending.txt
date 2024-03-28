@@ -15,3 +15,4 @@ people-modern.md:Coming soon
 places-modern.md:Coming soon
 places-victorian.md:Coming soon
 victorian.md:Coming soon
+delete demo images
