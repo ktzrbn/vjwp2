@@ -663,7 +663,7 @@ img {
       <td>Painter, brother of Rebecca and Simeon Solomon</td>
   </tr>
   <tr>
-      <td>Solomon, Rebecca</td>
+      <td><a href="rebecca-solomon.html">Solomon, Rebecca</a></td>
       <td style="white-space:nowrap;">1832–1886</td>
       <td>Painter, sister of Abraham and Simeon Solomon</td>
   </tr> 
