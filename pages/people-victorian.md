@@ -162,7 +162,7 @@ img {
       <td>Painter and printmaker</td>
   </tr>
   <tr>
-      <td><a href="/nathan-marcus-adler.html">Adler, Marcus Nathan</a></td>
+      <td>Adler, Marcus Nathan</td>
       <td style="white-space:nowrap;">1837–1911</td>
       <td>Actuary and communal leader, son of <a href="/nathan-marcus-adler.html">Nathan Marcus Adler</a> and Henrietta (Worms) Worms</td>
   </tr>
@@ -172,7 +172,7 @@ img {
       <td>Orthodox minister, military chaplain, and writer</td>
   </tr>
   <tr>
-      <td>Adler, Nathan Marcus</td>
+      <td><a href="/nathan-marcus-adler.html">Adler, Nathan Marcus</a></td>
       <td style="white-space:nowrap;">1803–1890</td>
       <td>Rabbinical writer and Chief Rabbi (1845–90)</td>
   </tr>
