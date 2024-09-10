@@ -110,11 +110,13 @@ Youngs, Tim. _The Cambridge Introduction to Travel Writing_. Cambridge UP, 2013.
 
 &nbsp;
 
-## Selected Bibliography 
+## Bibliography 
 
 [_The Jewish Manual: or, Practical Information in Jewish and Modern Cookery, with a Collection of Valuable Recipes and Hints Relating to the Toilette, edited by a Lady_. T. & W. Boone, 1846.](items/vjwp_132.html)
 
 _Lady Montefiore's Honeymoon: An Unpublished Diary_, edited by Lucien Wolf, Jewish Chronicle, 1902.
+
+Loewe, Louis. _Diaries of Sir Moses and Lady Montefiore_. Griffith, Farran, Okeden & Welsh, 1890, 2 vols. 
 
 [_Notes from a Private Journal of a Visit to Egypt and Palestine, by Way of  Italy and the Mediterranean._ Joseph Rickerby, 1844.](items/vjwp_133.html)
 
