@@ -183,7 +183,7 @@ Charlotte King/Rosa Matilda/Charlotte Dacre.” <em>European Romantic Review</em
 &nbsp;
 &nbsp;
 
-## Selected Bibliography
+## Bibliography
 
 <p class="hangingindent"> 
 Dacre, Charlotte. <em>Hours of Solitude.</em> D.N. Shury, 1805, 2 vols.
