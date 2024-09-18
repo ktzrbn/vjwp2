@@ -482,7 +482,7 @@ img {
       <td>Minister of Bevis Marks (1828), first co-editor of the <em>Jewish Chronicle</em> (1841–2)</td>
   </tr> 
   <tr>
-      <td>Merton, Hannah Moses (Cohen)</td>
+      <td><a href = "/hannah-merton.html">Merton, Hannah Moses (Cohen)</a></td>
       <td style="white-space:nowrap;">1816–1898</td>
       <td>Diarist and homemaker</td>
   </tr> 
@@ -548,7 +548,7 @@ img {
 </td>
   </tr> 
   <tr>
-      <td>Nathan, Isaac</td>
+      <td><a href = "/isaac-nathan.html">Nathan, Isaac</a></td>
       <td style="white-space:nowrap;">1790–1864</td>
       <td>Composer, musicologist, and writer</td>
   </tr> 
