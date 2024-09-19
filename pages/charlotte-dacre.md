@@ -185,29 +185,29 @@ Charlotte King/Rosa Matilda/Charlotte Dacre.” <em>European Romantic Review</em
 
 ## Bibliography
 
-<p class="hangingindent"> 
-Dacre, Charlotte. <em>Hours of Solitude.</em> D.N. Shury, 1805, 2 vols.
+<p class="hangingindent"><a href = "items/vjwp_172.html"> 
+Dacre, Charlotte. <em>Hours of Solitude.</em> D.N. Shury, 1805, 2 vols.</a>
 </p>
 
-<p class="hangingindent">  
----. <em>The Libertine.</em> T. Cadell and W. Davies, 1807, 4 vols.
+<p class="hangingindent"><a href = "items/vjwp_173.html">  
+---. <em>The Libertine.</em> T. Cadell and W. Davies, 1807, 4 vols.</a>
 </p>
 
 <p class="hangingindent">  
 <a href="/items/vjwp_59.html">---. <em>Zofloya; or, the Moor.</em> Longman, Hurst, Rees, and Orme, 1806, 3 vols.</a>
 </p>
 
-<p class="hangingindent">  
-King, Charlotte, and Sophia Fortnum. <em>Trifles of Helicon.</em> James Ridgway, 1798.
+<p class="hangingindent"><a href = "items/vjwp_174.html">  
+King, Charlotte, and Sophia Fortnum. <em>Trifles of Helicon.</em> James Ridgway, 1798.</a>
 </p>
 
-<p class="hangingindent">  
+<p class="hangingindent"><a href = "items/vjwp_175.html">  
 Matilda, Rosa. <em>The Confessions of the Nun of St. Omer.</em> D.N. Shury for J.F. Hughes, 1805, 3
-vols.
+vols.</a>
 </p>
 
-<p class="hangingindent">  
----. <em>The Passions.</em> T. Cadell and W. Davies, 1811, 4 vols.
+<p class="hangingindent"><a href = "items/vjwp_176.html">  
+---. <em>The Passions.</em> T. Cadell and W. Davies, 1811, 4 vols.</a>
 </p>
 
 &nbsp;
