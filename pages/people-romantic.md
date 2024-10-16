@@ -556,7 +556,7 @@ permalink: /people-romantic.html
       <td>Composer, musicologist, and writer</td>
   </tr>
    <tr>
-      <td>Newman, Selig</td>
+      <td><a href="selig-newman.html">Newman, Selig</a></td>
       <td>1788–1871</td>
       <td>German-born Hebraist and writer</td>
   </tr>
