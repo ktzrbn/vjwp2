@@ -511,7 +511,7 @@ permalink: /people-romantic.html
       <td>Architect and first Jewish member of a profession in Britain, son of Moses Mocatta</td>
   </tr>
   <tr>
-      <td>Mocatta, Isaac Lindo</td>
+      <td><a href = "/isaac-lindo-mocatta.html">Mocatta, Isaac Lindo</a></td>
       <td>1818–1879</td>
       <td>Author of tracts on Jewish moral teachings and social questions, son of Moses Mocatta</td>
   </tr>

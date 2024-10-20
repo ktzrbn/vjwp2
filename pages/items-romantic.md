@@ -222,6 +222,9 @@ Bolaffey, Hayim Vita. <em>The Aleph-Beth; or, the First Step to the Hebrew Langu
 <a href="http://victorianjewishwritersproject.org/items/vjwp_66.html">Macaulay, Thomas. Review of <em>Statement of the Civil Disabilities and Privations affecting Jews in England</em>. The Edinburgh Review, 1802–1929, vol. 52, no. 104, 1831, pp. 363–374.</a>
 </p>
 <p class="hangingindent">
+<a href="http://victorianjewishwritersproject.org/items/vjwp_142.html">Newman, Selig. <em>Tilmod Lashon ʻIvri: A Grammar of the Hebrew Language, with Points; Together with a Short Sketch of the Chaldee Grammar</em>. Printed for the author, 1827.</a>
+</p>
+<p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_39.html">Polack, Maria. <em>Fiction without Romance, or, the Locket-Watch</em>. Effingham Wilson, 1830.</a>
 </p>
 <p class="hangingindent">

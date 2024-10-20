@@ -502,7 +502,7 @@ img {
       <td>Architect and first Jewish member of a profession in Britain, son of Moses Mocatta</td>
   </tr> 
   <tr>
-      <td>Mocatta, Isaac Lindo</td>
+      <td><a href="isaac-lindo-mocatta.html">Mocatta, Isaac Lindo</a></td>
       <td style="white-space:nowrap;">1818–1879</td>
       <td>Author of tracts on Jewish moral teachings and social questions, son of Moses Mocatta</td>
   </tr> 
@@ -553,7 +553,7 @@ img {
       <td>Composer, musicologist, and writer</td>
   </tr> 
   <tr>
-      <td>Newman, Selig</td>
+      <td><a href = "/selig-newman.html">Newman, Selig</a></td>
       <td style="white-space:nowrap;">1788–1871</td>
       <td>German-born Hebraist and writer</td>
   </tr> 
