@@ -40,25 +40,17 @@ Conversion notes:
 * Mon Feb 21 2022 08:26:46 GMT-0800 (PST)
 * Source doc: romantic-ideas
 ----->
+&nbsp; 
+
+**Events and Concepts (1780-1832)**
 
 
+* Jewish Naturalization Act 1753
 
+* [William Shakespeare's *The Merchant of Venice*](/merchant-of-venice.html)
 
-* Jewish Naturalization Act
-* Gordon Riots
-* French Revolution
-* Evangelical Revival
-* Conversion Societies
-* Jewish Enlightenment
-* Reform Movement
-* Legal Disabilities
-* Board of Deputies of British Jews
-* Conversos
-* Peddlers
-* Old Clothesmen
-* Rothschilds
-* Edmund Kean
-* [The Merchant of Venice](/merchant-of-venice.html)
+* Maria Edgeworth's [*Harrington*](/items/vjwp_63.html) (1817)
 
+* Sir Walter Scott's [*Ivanhoe*](/ivanhoe.html) (1820)
 
 &nbsp;
