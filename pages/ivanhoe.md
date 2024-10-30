@@ -1,7 +1,7 @@
 ---
 title: Ivanhoe
 layout: page-narrow
-permalink: Ivanhoe.html
+permalink: ivanhoe.html
 ---
 
 &nbsp;
