@@ -16,4 +16,3 @@ type,Type,,DCTERMS.type
 format,Format,,,encodingFormat
 rightsstatements,,,DCTERMS.rights,license
 relation,Relation,,,relation
-full-text link,Full-text Link,,,full-text link
