@@ -10,7 +10,7 @@ permalink: Ivanhoe.html
 
 <p align="center">
 
-<h2 align=center>Walter Scott's Jewish Characters and the Nineteenth Century Imagination</h2>
+<h2 align=center>Walter Scott’s Jewish Characters and the Nineteenth Century Imagination</h2>
 
 <p align="center">Matthew Skwiat, Morehouse College</p>
 
@@ -49,7 +49,7 @@ Walter Scott’s decision to write a novel around Jewish characters dates back t
 His biographer J.G. Lockhart relates a story told to him by one of Scott’s friends, the
 artist and Scottish lawyer James Skene, about a conversation Skene had with Scott about
 the author’s fond memories interacting with Jews while a young man in Germany (Lockhart
-177-8). This kernel of an idea grew into what would become Isaac and Rebecca in *Ivanhoe*.
+177–8). This kernel of an idea grew into what would become Isaac and Rebecca in *Ivanhoe*.
 Scott told Skene after publication that “you will find this book owes not a little to your
 German reminiscences” (178). Scott’s turn towards Germany and the Jewish people may
 also have been inspired by real life calamities taking place there. In August of 1819 the so-
@@ -123,7 +123,7 @@ allusions, Rebecca is not free of stereotype, and in both look and appearance is
 because of her beauty and foreignness. Scott’s first descriptions of her reveal her orientalist
 qualities: “Her form was exquisitely symmetrical, and was shown to advantage by a sort of
 Eastern dress, which she wore according to the fashion of the females of her nation. Her
-turban of yellow silk suited well with the darkness of her complexion” (93-4). The beauty
+turban of yellow silk suited well with the darkness of her complexion” (93–4). The beauty
 and otherness of Rebecca add to her allure in the novel, a point many have commented on
 both positively and negatively since the novel’s release. The exotic and erotic appeal of the
 female Jewess was a trope that reverberated throughout the nineteenth century in the
@@ -236,7 +236,7 @@ well with the pattern given?” (qtd. in Lewin). For more information on the sim
 between the two see Judith Lewin’s article “Legends of Rebecca: *Ivanhoe*, Dynamic
 Identification, and the Portraits of Rebecca Gratz” (2006).
 
-<sup>3</sup> See Edgar Rosenberg, From Shylock to Svengali: Jewish Stereotypes in English Fiction
+<sup>3</sup> See Edgar Rosenberg, *From Shylock to Svengali: Jewish Stereotypes in English Fiction*
 (1960).
 
 <sup>4</sup> Nassau Senior in his review of Ivanhoe mentions that this scene imitates Samuel
@@ -303,3 +303,5 @@ Dibdin, Thomas. *Ivanhoe or the Jew’s Daughter*. London: Thomas Hailes Lacy, 1
 --. “The Surgeon’s Daughter” in *Chronicles of Canongate*. Cadell and Co., 1827.
 
 Sloane, George. *The Hebrew*. Thomas Hailes Lacy, 1820.
+
+&nbsp;

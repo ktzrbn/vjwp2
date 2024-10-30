@@ -40,17 +40,17 @@ Conversion notes:
 * Mon Feb 21 2022 08:26:46 GMT-0800 (PST)
 * Source doc: romantic-ideas
 ----->
-&nbsp; 
 
-**Events and Concepts (1780-1832)**
+<p>
+<strong><span style="text-decoration:underline;">Events and Concepts (1780-1832)</span></strong>
+</p>
 
+Jewish Naturalization Act 1753
 
-* Jewish Naturalization Act 1753
+William Shakespeare's *The Merchant of Venice*
 
-* [William Shakespeare's *The Merchant of Venice*](/merchant-of-venice.html)
+Maria Edgeworth's *Harrington* (1817)
 
-* Maria Edgeworth's [*Harrington*](/items/vjwp_63.html) (1817)
-
-* Sir Walter Scott's [*Ivanhoe*](/ivanhoe.html) (1820)
+[Sir Walter Scott's *Ivanhoe* (1819)](/ivanhoe.html)
 
 &nbsp;

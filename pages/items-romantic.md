@@ -45,7 +45,7 @@ Conversion notes:
 ----->
 
 <p class="hangingindent">
-<strong><span style="text-decoration:underline;">Romantic Era (1780-1832) Literature</span></strong>
+<strong><span style="text-decoration:underline;">Romantic Era Literature (1780-1832)</span></strong>
 </p>
 <p class="hangingindent">
 Alexander, Alexander. <em>Pentateuch with Translation</em>. A. Alexander and Son, 1785.
