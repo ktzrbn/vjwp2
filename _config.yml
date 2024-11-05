@@ -27,7 +27,7 @@ description: "Welcome to the Victorian Jewish Writers Project, a digital collect
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: britain;jews;anglo-jews
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: https://github.com/brandonkatzir
+author: https://github.com/ktzrbn
 # Organization branding
 organization-name: VJWP
 organization-link: /about.html
