@@ -20,8 +20,6 @@ img {
 
 &nbsp;
 
-# Anglo-Jews in the Modern Period
-
 The early 20th century, stretching from 1901 to 1914, was a time of significant change and progress for the Jewish community in Britain. As the Victorian era transitioned into the Edwardian era, Jews continued to advance in various spheres of British life, contributing to the nation's cultural, political, and intellectual landscape.
 
 One of the defining moments of this period was the passage of the Aliens Act in 1905, which restricted immigration to Britain, particularly targeting Eastern European Jews fleeing pogroms and persecution. Despite this, Jewish immigrants continued to arrive, enriching the British Jewish community with their traditions, languages, and resilience. These new arrivals settled primarily in London’s East End, creating vibrant neighborhoods that became centers of Jewish life and culture.
