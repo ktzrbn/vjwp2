@@ -30,6 +30,17 @@ permalink: /people-romantic.html
       columns-fill: balance;
       padding: 15px;
     }
+
+    ul.horizontal-list {
+      list-style-type: none;
+      margin: 0;
+      padding: 15px;
+      display: flex;
+    }
+
+    ul.horizontal-list li {
+      margin-right: 30px;
+    }
 </style>
 
 <!-- Banner image -->
@@ -44,6 +55,96 @@ permalink: /people-romantic.html
 
 <h1>People</h1>
 
+<ul class="horizontal-list" style="center">
+    <li>
+        <a href="#a">A</a>
+    </li>
+    <li>
+        <a href="#b">B</a>
+    </li>
+    <li>
+        <a href="#c">C</a>
+    </li>
+    <li>
+        <a href="#d">D</a>
+    </li>
+        <li>
+        <a href="#e">E</a>
+    </li>
+        <li>
+        <a href="#f">F</a>
+    </li>
+        <li>
+        <a href="#g">G</a>
+    </li>
+        <li>
+        <a href="#h">H</a>
+    </li>
+        <li>
+        I
+    </li>
+        <li>
+        <a href="#j">J</a>
+    </li>
+        <li>
+        <a href="#k">K</a>
+    </li>
+        <li>
+        <a href="#l">L</a>
+    </li>
+        <li>
+        <a href="#m">M</a>
+    </li>
+        <li>
+        <a href="#n">N</a>
+    </li>
+        <li>
+        O
+    </li>
+        <li>
+        <a href="#p">P</a>
+    </li>
+        <li>
+        Q
+    </li>
+        <li>
+        <a href="#r">R</a>
+    </li>
+        <li>
+        <a href="#s">S</a>
+    </li>
+        <li>
+        T
+    </li>
+        <li>
+        U
+    </li>
+       <li>
+        <a href="#v">V</a>
+    </li>
+        <li>
+        W
+    </li>
+        <li>
+        X
+    </li>
+        <li>
+        Y
+    </li>
+        <li>
+        Z
+    </li>
+</ul>
+
+
+&nbsp;
+
+&nbsp;
+
+<h3>
+<a id="a" name="a"></a>
+<center>A</center>
+</h3>
 <table>
   <tr>
       <td>Abraham, Abraham</td>
@@ -140,6 +241,15 @@ permalink: /people-romantic.html
       <td>1789–1872</td>
       <td>Dutch-born cantor, reader, and chazan of the Great Synagogue (1832–70)</td>
   </tr>
+  </table>
+
+&nbsp;
+
+<h3>
+<a id="b" name="b"></a>
+<center>B</center>
+</h3>
+<table>
   <tr>
       <td>Barlin, Frederick</td>
       <td>fl. 1802–7</td>
@@ -270,6 +380,15 @@ permalink: /people-romantic.html
       <td>1817–1904</td>
       <td>Local politician, Leamington town councilor, Mayor of Leamington (1876–82)</td>
   </tr>
+</table>
+&nbsp;
+
+<h3>
+<a id="c" name="c"></a>
+<center>C</center>
+</h3>
+
+<table>
   <tr>
       <td><a href="levi-barent-cohen.html">Cohen, Levi Barent</a></td>
       <td>1747–1808</td>
@@ -280,6 +399,15 @@ permalink: /people-romantic.html
       <td>1796–1840</td>
       <td>Newspaper editor and founder of the <em>Brighton Guardian</em> (1827)</td>
   </tr>
+</table>
+&nbsp;
+
+<h3>
+<a id="d" name="d"></a>
+<center>D</center>
+</h3>
+
+<table>
   <tr>
       <td><a href="charlotte-dacre.html">Dacre, Charlotte (King)</a></td>
       <td>C1782–1825</td>
@@ -300,6 +428,16 @@ permalink: /people-romantic.html
       <td>1766–1848</td>
       <td>Author and father of <a href="benjamin-disraeli.html">Benjamin Disraeli</a></td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="e" name="e"></a>
+<center>E</center>
+</h3>
+
+<table>
   <tr>
       <td>Edelmann, Zevi Hirsch</td>
       <td>1805–1858</td>
@@ -310,11 +448,31 @@ permalink: /people-romantic.html
       <td>1745–1815</td>
       <td>Officiant of Plymouth Synagogue (C1780–1815)</td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="f" name="f"></a>
+<center>F</center>
+</h3>
+
+<table>
   <tr>
       <td>Franklin, Jacob Abraham</td>
       <td>1809–1877</td>
       <td>Optician, actuary, and newspaper proprietor and editor, founder of the <em>Voice of Jacob</em> (1841–8)</td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="g" name="g"></a>
+<center>G</center>
+</h3>
+
+<table>
   <tr>
       <td>Goldsmid, Abraham</td>
       <td>C1756–1810</td>
@@ -380,6 +538,16 @@ permalink: /people-romantic.html
       <td>1751–1793</td>
       <td>Aristocrat and politician, converted to Judaism (1787)</td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="h" name="h"></a>
+<center>H</center>
+</h3>
+
+<table>
   <tr>
       <td>Hartog, Marion (Moss)</td>
       <td>1821–1907</td>
@@ -400,16 +568,46 @@ permalink: /people-romantic.html
       <td>C1770–1844</td>
       <td>Posen-born biblical scholar and Hebraist, founder of the Highgate Academy, professor of Hebrew at University College London (1828–44)</td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="j" name="j"></a>
+<center>J</center>
+</h3>
+
+<table>
   <tr>
       <td>Josephs, Michael</td>
       <td>1761–1849</td>
       <td>Businessman, Hebraist, and communal leader, born Meyer Konigsberg</td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="k" name="k"></a>
+<center>K</center>
+</h3>
+
+<table>
   <tr>
       <td>King, John</td>
       <td>C1753–1824</td>
       <td>Money broker, radical writer, born Jacob Rey, father of <a href="charlotte-dacre.html">Charlotte (King) Dacre</a></td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="l" name="l"></a>
+<center>L</center>
+</h3>
+
+<table>
   <tr>
       <td>Levetus, Celia (Moss)</td>
       <td>1819–1873</td>
@@ -475,6 +673,16 @@ permalink: /people-romantic.html
       <td>1755–1820</td>
       <td>Writer, scholar, and Hebraist, established Britain’s first Jewish boarding school, father of Emma (Lyon) Henry</td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="m" name="m"></a>
+<center>M</center>
+</h3>
+
+<table>
   <tr>
       <td>Marks, David Woolf</td>
       <td>1811–1909</td>
@@ -550,6 +758,16 @@ permalink: /people-romantic.html
       <td>1762–1844</td>
       <td>Mother of <a href="moses-montefiore.html">Moses Montefiore</a>, daughter of Abraham Mocatta [Lumbrozo de Mattos]</td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="n" name="n"></a>
+<center>N</center>
+</h3>
+
+<table>
   <tr>
       <td><a href="isaac-nathan.html">Nathan, Isaac</a></td>
       <td>1790–1864</td>
@@ -560,6 +778,16 @@ permalink: /people-romantic.html
       <td>1788–1871</td>
       <td>German-born Hebraist and writer</td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="p" name="p"></a>
+<center>P</center>
+</h3>
+
+<table>
   <tr>
       <td><a href="elizabeth-polack-playwright.html">Polack, Elizabeth</a></td>
       <td>fl. 1830</td>
@@ -590,6 +818,15 @@ permalink: /people-romantic.html
       <td>1745–1839</td>
       <td>Artist and engraver</td>
   </tr>
+  </table>
+&nbsp;
+
+<h3>
+<a id="r" name="r"></a>
+<center>R</center>
+</h3>
+
+<table>
   <tr>
       <td>Raphall, Morris Jacob</td>
       <td>1798–1868</td>
@@ -625,6 +862,16 @@ permalink: /people-romantic.html
       <td>1777–1836</td>
       <td>Banker, businessman, and financier, founder of the Rothschild banking family of England (1798), son of Mayer Amschel Rothschild of Frankfurt</td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="s" name="s"></a>
+<center>S</center>
+</h3>
+
+<table>
   <tr>
       <td>Salomons, 1<sup>st</sup> Baronet, Sir David</td>
       <td>1797–1873</td>
@@ -655,6 +902,16 @@ permalink: /people-romantic.html
       <td>1796–1860</td>
       <td>Minister of Bevis Marks (1818–60)</td>
   </tr>
+
+  </table>
+&nbsp;
+
+<h3>
+<a id="v" name="v"></a>
+<center>V</center>
+</h3>
+
+<table>
   <tr>
       <td>Vallentine, Isaac</td>
       <td>C1793–1868</td>
@@ -666,4 +923,5 @@ permalink: /people-romantic.html
       <td>Writer, surgeon, and communal leader, co-founder of the Jews’ Free School (1817), founder of the Jews’ Hospital (1807)</td>
   </tr>
 
+&nbsp;
 &nbsp;
