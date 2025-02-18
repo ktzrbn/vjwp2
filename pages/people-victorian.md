@@ -16,10 +16,21 @@ img {
 
   }
 
+      ul.horizontal-list {
+      list-style-type: none;
+      margin: 0;
+      padding: 15px;
+      display: flex;
+    }
+
+    ul.horizontal-list li {
+      margin-right: 30px;
+    }
+
 </style>
 <!-- Banner -->
 <div class=img>
-<img src="objects/disraeli.jpg"
+<img src="https://victorianjewishwritersproject.s3.us-east-1.amazonaws.com/objects/disraeli.jpg"
      alt="Disraeli and Gladstone"
      style="float: left; margin-right: 10px; padding-bottom:20px;" />  
 </div>
@@ -30,6 +41,95 @@ img {
 
 <h1>People</h1>
 
+<ul class="horizontal-list" style="center">
+    <li>
+        <a href="#a">A</a>
+    </li>
+    <li>
+        <a href="#b">B</a>
+    </li>
+    <li>
+        <a href="#c">C</a>
+    </li>
+    <li>
+        <a href="#d">D</a>
+    </li>
+        <li>
+        <a href="#e">E</a>
+    </li>
+        <li>
+        <a href="#f">F</a>
+    </li>
+        <li>
+        <a href="#g">G</a>
+    </li>
+        <li>
+        <a href="#h">H</a>
+    </li>
+        <li>
+        <a href="#i">I</a>
+    </li>
+        <li>
+        <a href="#j">J</a>
+    </li>
+        <li>
+        K
+    </li>
+        <li>
+        <a href="#l">L</a>
+    </li>
+        <li>
+        <a href="#m">M</a>
+    </li>
+        <li>
+        <a href="#n">N</a>
+    </li>
+        <li>
+        O
+    </li>
+        <li>
+        <a href="#p">P</a>
+    </li>
+        <li>
+        Q
+    </li>
+        <li>
+        <a href="#r">R</a>
+    </li>
+        <li>
+        <a href="#s">S</a>
+    </li>
+        <li>
+        T
+    </li>
+        <li>
+        U
+    </li>
+       <li>
+        V
+    </li>
+        <li>
+        <a href="#w">W</a>
+    </li>
+        <li>
+        <a href="#x">X</a>
+    </li>
+        <li>
+        <a href="#y">Y</a>
+    </li>
+        <li>
+        <a href="#z">Z</a>
+    </li>
+</ul>
+
+&nbsp;
+
+&nbsp;
+
+<h3>
+<a id="a" name="a"></a>
+<center>A</center>
+</h3>
 <table>
   <tr>
       <td>Aaronson, Lazarus Leonard</td>
@@ -246,6 +346,15 @@ img {
       <td style="white-space:nowrap;">1854–1923</td>
       <td>Electrical engineer and feminist, winner of the Royal Society’s Hughes Medal, stepmother of Edith Zangwill</td>
   </tr>
+  </table>
+
+  &nbsp; 
+
+<h3>
+<a id="b" name="b"></a>
+<center>B</center>
+</h3>
+  <table>
   <tr>
       <td>Belisario, Miriam Mendes</td>
       <td style="white-space:nowrap;">C1820–1885</td>
@@ -270,7 +379,17 @@ img {
       <td>Bresslau, Marcus Hyman</td>
       <td style="white-space:nowrap;">C1808–1864</td>
       <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844–48)</td>
-  </tr>  
+  </tr>
+  </table>
+
+&nbsp;
+<h3>
+<a id="c" name="c"></a>
+<center>C</center>
+</h3>
+
+<table>
+
   <tr>
       <td>Cohen, Julia (Waley)</td>
       <td style="white-space:nowrap;">1853–1917</td>
@@ -286,6 +405,17 @@ img {
       <td style="white-space:nowrap;">1857–1933</td>
       <td>London-born Irish politician and philanthropist, president of the Gaelic League, first Jewish senator in Ireland</td>
   </tr> 
+
+  </table>
+$nbsp;
+
+<h3>
+<a id="d" name="d"></a>
+<center>D</center>
+</h3>
+
+<table>
+
   <tr>
       <td>Deutsch, Emanuel</td>
       <td style="white-space:nowrap;">1829–1873</td>
@@ -296,11 +426,32 @@ img {
       <td style="white-space:nowrap;">1804–1881</td>
       <td>Author, statesman, and Conservative politician, served twice as Prime Minister of the United Kingdom (1868, 1874-80)</td>
   </tr> 
+</table>
+
+&nbsp;
+
+<h3>
+<a id="e" name="e"></a>
+<center>E</center>
+</h3>
+
+<table>
   <tr>
       <td>Edelmann, Zevi Hirsch</td>
       <td style="white-space:nowrap;">1805–1858</td>
       <td>Russian-born Hebraist and scholar</td>
   </tr> 
+  </table>
+
+  &nbsp;
+  <h3>
+<a id="f" name="f"></a>
+<center>F</center>
+</h3>
+
+<table>
+
+
   <tr>
       <td>Farjeon, Benjamin</td>
       <td style="white-space:nowrap;">1838–1903</td>
@@ -316,6 +467,16 @@ img {
       <td style="white-space:nowrap;">1859–1916</td>
       <td>Novelist alias Frank Danby</td>
   </tr> 
+
+</table>
+&nbsp;
+
+<h3>
+<a id="g" name="g"></a>
+<center>G</center>
+</h3>
+
+<table>
   <tr>
       <td>Goldsmid, Anna Maria</td>
       <td style="white-space:nowrap;">1805–1889</td>
@@ -366,6 +527,15 @@ img {
       <td style="white-space:nowrap;">1871–1927</td>
       <td>Bavarian-born novelist and dramatist</td>
   </tr> 
+   </table>
+&nbsp;
+
+<h3>
+<a id="h" name="h"></a>
+<center>H</center>
+</h3>
+
+<table>
   <tr>
       <td>Harris, Emily Marion</td>
       <td style="white-space:nowrap;">C1844–1900</td>
@@ -396,6 +566,15 @@ img {
       <td style="white-space:nowrap;">1830–1875</td>
       <td>Editor of the <em>Jewish Chronicle</em> (1868–75), son of Emma (Lyon) Henry</td>
   </tr> 
+  </table>
+&nbsp;
+
+<h3>
+<a id="j" name="j"></a>
+<center>J</center>
+</h3>
+
+<table>
   <tr>
       <td>Joseph, Delissa</td>
       <td style="white-space:nowrap;">1859–1927</td>
@@ -406,6 +585,16 @@ img {
       <td style="white-space:nowrap;">1863–1940</td>
       <td>Painter and women’s suffrage campaigner, pioneer cyclist,wife of Delissa Joseph, sister of Solomon J. Solomon</td>
   </tr> 
+
+</table>
+&nbsp;
+
+<h3>
+<a id="l" name="l"></a>
+<center>L</center>
+</h3>
+
+<table>
   <tr>
       <td>Leverson, Ada Esther	(Beddington)</td>
       <td style="white-space:nowrap;">1862–1933</td>
@@ -417,7 +606,7 @@ img {
       <td>Writer of Jewish historical fiction, co-founder of the first Jewish women’s periodical, the <em>Jewish Sabbath Journal</em> (1855), sister of Marion (Moss) Hartog</td>
   </tr> 
   <tr>
-      <td>Levy, Amy</td>
+      <td><a href="amy-levy.html">Levy, Amy</a></td>
       <td style="white-space:nowrap;">1861–1889</td>
       <td>Writer and poet, second Jewish woman to attend Cambridge University and the first at Newnham College (1879–81)</td>
   </tr> 
@@ -461,6 +650,15 @@ img {
       <td style="white-space:nowrap;">1823–1906</td>
       <td>Diarist and wife of A.S. Lyon</td>
   </tr> 
+  </table>
+&nbsp;
+
+<h3>
+<a id="m" name="m"></a>
+<center>M</center>
+</h3>
+
+<table>
   <tr>
       <td>Magnus, Lady Katie (Emanuel)</td>
       <td style="white-space:nowrap;">1844–1924</td>
@@ -547,6 +745,16 @@ img {
       <td>Businessman, philanthropist, and communal leader
 </td>
   </tr> 
+  </table>
+&nbsp;
+
+<h3>
+<a id="n" name="n"></a>
+<center>N</center>
+</h3>
+
+<table>
+
   <tr>
       <td><a href = "/isaac-nathan.html">Nathan, Isaac</a></td>
       <td style="white-space:nowrap;">1790–1864</td>
@@ -557,6 +765,16 @@ img {
       <td style="white-space:nowrap;">1788–1871</td>
       <td>German-born Hebraist and writer</td>
   </tr> 
+</table>
+&nbsp;
+
+<h3>
+<a id="p" name="p"></a>
+<center>P</center>
+</h3>
+
+<table>
+
   <tr>
       <td>Polack, Elizabeth</td>
       <td style="white-space:nowrap;">fl. 1830</td>
@@ -577,7 +795,17 @@ img {
       <td style="white-space:nowrap;">fl. 1830</td>
       <td>First Anglo-Jewish woman novelist, daughter of Ephraim Polack, related to Elizabeth Polack</td>
   </tr> 
-    <tr>
+  </table>
+&nbsp;
+
+<h3>
+<a id="r" name="r"></a>
+<center>R</center>
+</h3>
+
+<table>
+
+<tr>
       <td>Raphall, Morris Jacob</td>
       <td style="white-space:nowrap;">1798–1868</td>
       <td>Orthodox rabbi and author, editor of the <em>Hebrew Review and Magazine of Rabbinical Literature</em> (1834–6), rabbi of the Birmingham Synagogue (1841–9)</td>
@@ -612,6 +840,16 @@ img {
       <td style="white-space:nowrap;">1821–1910</td>
       <td>Philanthropist, founding member of the Union of Jewish Women (1902), wife of Anthony de Rothschild</td>
   </tr> 
+  </table>
+&nbsp;
+
+<h3>
+<a id="s" name="s"></a>
+<center>S</center>
+</h3>
+
+<table>
+
   <tr>
       <td>Salomans, Sir David 1st Baronet</td>
       <td style="white-space:nowrap;">1797–1873</td>
@@ -677,11 +915,16 @@ img {
       <td style="white-space:nowrap;">1860–1927</td>
       <td>Painter, founding president of the Maccabean Society (1891)</td>
   </tr> 
-  <tr>
-      <td>Wolf, Lucien</td>
-      <td style="white-space:nowrap;">1857–1930</td>
-      <td>Journalist, co-founder of the Jewish Territorial Organisation (1903), co-founder of the League of British Jews (1917)</td>
-  </tr> 
+
+</table>
+&nbsp;
+<h3>
+<a id="v" name="v"></a>
+<center>V</center>
+</h3>
+
+<table>
+
   <tr>
       <td>Vallentine, Isaac</td>
       <td style="white-space:nowrap;">1793–1868</td>
@@ -692,10 +935,36 @@ img {
       <td style="white-space:nowrap;">1835–1899</td>
       <td>London-born politician, first Jewish prime minister of New Zealand</td>
   </tr> 
+</table>
+
+&nbsp;
+  <h3>
+<a id="w" name="w"></a>
+<center>W</center>
+</h3>
+
+<table>
+  <tr>
+      <td>Wolf, Lucien</td>
+      <td style="white-space:nowrap;">1857–1930</td>
+      <td>Journalist, co-founder of the Jewish Territorial Organisation (1903), co-founder of the League of British Jews (1917)</td>
+  </tr> 
+
+  </table>
+
+  &nbsp;
+  <h3>
+<a id="z" name="z"></a>
+<center>Z</center>
+</h3>
+
+<table>
   <tr>
       <td>Zangwill, Israel</td>
       <td style="white-space:nowrap;">1864–1926</td>
       <td>Author, critic, and activist, co-founder of the Jewish Territorial Organisation (1903)</td>
   </tr> 
+  </table>
 
+&nbsp;
 &nbsp;

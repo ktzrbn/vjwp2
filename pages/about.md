@@ -30,7 +30,7 @@ img {
 }
 </style>
 <div class=img>
-<img src="objects/jews-hospital.jpg"
+<img src="https://victorianjewishwritersproject.s3.us-east-1.amazonaws.com/objects/jews-hospital.jpg"
      alt="Jews' Hospital, Whitechapel (East End)"
      style="float: left; margin-right: 10px; padding-bottom:20px;" />  </div>
 <br>  <br>
