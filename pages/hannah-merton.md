@@ -39,7 +39,7 @@ Home-educated until old enough to attend Miss Oates’s finishing school for gir
 
 She married an Englishman of means, 33-year-old Benjamin Moses (1812–1881), who was four years older than her. Their children, Henry and Louisa, were born in 1848 and 1850. In 1856 Benjamin Moses and two of his brothers changed the family surname to the less obviously Jewish name of Merton.
 
-<img src="objects/logos/fig1-hm.jpg" width="350" height="500" />
+<img src="https://victorianjewishwritersproject.s3.us-east-1.amazonaws.com/objects/logos/fig1-hm.jpg" width="350" height="500" />
 
 
 <!--![Hannah Moses Merton, c. 1845](logos/fig1-hm.jpg)<br> -->
@@ -60,7 +60,7 @@ In an unsystematic manner, Merton’s journals shed light on Victorian home-scho
 <u>Dress</u><br>
 As a bourgeois Victorian Jewish woman concerned with status, Merton pays attention to what people wore. Throughout her journals, she comments in great detail on clothing, both her own and others’, using an extensive English and French vocabulary. She always dressed up before going out to the park, calling on a friend, and receiving visitors in her home. Names of shops, dressmakers and milliners, where she acquired patterns, trimmings and fabrics as well as fashionable apparel for members of her family, also feature in her journals. She ensured that her servants were suitably clothed, to reflect her family’s social standing. She sometimes records the cost of her purchases. She occasionally admits to having certain dresses restyled to give them new life. After her husband died, she wore black and gave away her colorful dresses. She questions the wisdom of her grandson’s sleeping bare-headed, as in her day children wore nightcaps.
 
-<img src="objects/logos/fig2-hm.jpg" width="350" height="500" />
+<img src="https://victorianjewishwritersproject.s3.us-east-1.amazonaws.com/objects/logos/fig2-hm.jpg" width="350" height="500" />
 
 
 <!--![Hannah Merton at Whitchurch-on-Thames, August 1889](logos/fig2-hm.jpg)-->
@@ -94,12 +94,12 @@ Merton’s journal-writing and letter-writing, ubiquitous activities in Victoria
 
 Her journal also enabled her to engage in conversation with herself. It became a tool for thinking about ideas, news, as well as pleasant and unpleasant daily experiences. Some pages in the notebooks and journals have been cut out, suggesting self-censorship, although we do not know if this was at the time of writing or later, in retrospect. During the coup d’état in Paris, in December 1851, she reports watching the soldiers and cavalry from the window of their house. Why and when did she cut away the lines that followed? (See Figure 3). On January 11, 1876, she mentions discord and agitation in the Merton’s home. The two-week upset is solved after Benjamin Merton summons their daughter-in-law’s father for a talking-to. Hannah does not reveal what the young woman did to upset them so much. 
 
-<img src="objects/logos/fig3-hm.jpg" width="650" height="500" />
+<img src="https://victorianjewishwritersproject.s3.us-east-1.amazonaws.com/objects/logos/fig3-hm.jpg" width="650" height="500" />
 
 <!--![Figure 3: Hannah M. Merton, Journal 1, 1851.](logos/fig3-hm.jpg)-->
 *Figure 3: Hannah M. Merton, Journal 1, 1851. Richard Levy Family Archive, Israel.*
 
-<img src="objects/logos/fig4-hm.jpg" width="650" height="500" />
+<img src="https://victorianjewishwritersproject.s3.us-east-1.amazonaws.com/objects/logos/fig4-hm.jpg" width="650" height="500" />
 
 <!--![Figure 4: Hannah M. Merton, Journal 13, 1887](logos/fig4-hm.jpg)-->
 *Figure 4: Hannah M. Merton, Journal 13 1887. Richard Levy Family Archive, Israel.*
@@ -112,7 +112,7 @@ Merton’s writing is personal, but not particularly private. She often made sta
 
 In her later years, she may have intended that her collection of notebooks serve as a family relic. In the 1930s, Merton’s granddaughter, Hannah Floretta Cohen, had a transcript typed of most of the journals, skipping passages that evidently bored her. In 1937, Cohen published <em>Changing Faces</em>, a memoir about her mother, Louisa Lady Cohen, Merton’s daughter, quoting some passages from Merton’s journals. She chose those that illuminate the story of Anglo-Jewish emancipation and England’s attitude towards the Jewish persecutions in the nineteenth century which, Cohen noted, was growing in historical importance (after Hitler’s rise to power). She passed over the nearly 1500 entries that reveal Merton’s domesticity, her multiple roles as a woman, as well as her female experience and perspective on daily life. 
 
-<img src="objects/logos/fig5-hm.jpg" width="650" height="500" />
+<img src="https://victorianjewishwritersproject.s3.us-east-1.amazonaws.com/objects/logos/fig5-hm.jpg" width="650" height="500" />
 
 <!--![Figure 5: Hannah Merton with Her Family, 1882](logos/fig5-hm.jpg) -->
 *Figure 5: Hannah M. Merton (far right) with the family of her daughter Louisa (center with child on her lap) and son-in-law Benjamin L. Cohen (second from left), his brother Leonard Cohen (front left), and the children's governess, The Mount, Ascot, 1882. Album 19, Richard Levy Family Archive, Israel.* 
