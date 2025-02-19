@@ -70,7 +70,7 @@ Pullen, Christine. *The Woman Who Dared: A Biography of Amy Levy*. Kingston Univ
 
 “Captivity.” *Cambridge Review*, 9 Dec. 1885, p. 142.
 
-“Cohen of Trinity.” *Gentleman’s Magazine*, vol. 266, no. 1901, May 1889, pp. 417–24.
+[“Cohen of Trinity.” *Gentleman’s Magazine*, vol. 266, no. 1901, May 1889, pp. 417–24.](/items/vjwp_189.html)
 
 “The Diary of a Plain Girl.” *London Society*, vol. 44, no. 261, Sept. 1883, pp. 295–304.
 
@@ -100,7 +100,7 @@ Pullen, Christine. *The Woman Who Dared: A Biography of Amy Levy*. Kingston Univ
 
 “James Thomson: A Minor Poet.” *Cambridge Review*, vol. 4, no. 89, 21 Feb. 1883, pp. 240–1; vol. 4, no. 90, 28 Feb. 1883, 257–8.
 
-“The Jew in Fiction.” *Jewish Chronicle*, 4 June 1886, p. 13.
+[“The Jew in Fiction.” *Jewish Chronicle*, 4 June 1886, p. 13.](/items/vjwp_192.html)
 
 “Jewish Children.” *Jewish Chronicle*, 5 Nov. 1886, p. 8.
 
@@ -114,7 +114,7 @@ Pullen, Christine. *The Woman Who Dared: A Biography of Amy Levy*. Kingston Univ
 
 “Mariana in the Ballroom.” *London Society*, vol. 45, 1884, p. 76.
 
-“Middle-Class Jewish Women of Today.” *Jewish Chronicle*, 17 Sept. 1886, p. 7.
+[“Middle-Class Jewish Women of Today.” *Jewish Chronicle*, 17 Sept. 1886, p. 7.](/items/vjwp_190.html)
 
 *A Minor Poet and Other Verse*. 1884. 2nd ed., T. Fisher Unwin, 1891.
 
@@ -136,7 +136,7 @@ Pullen, Christine. *The Woman Who Dared: A Biography of Amy Levy*. Kingston Univ
 
 “The Recent Telepathic Occurrence at the British Museum.” *Woman’s World*, vol. 1, 1888, pp. 31–2.
 
-*Reuben Sachs: A Sketch*. Macmillan and Co., 1888.
+[*Reuben Sachs: A Sketch*. Macmillan and Co., 1888.](/items/vjwp_191.html)
 
 “Revenge.” *London Society*, vol. 47, no. 280, Apr. 1885, pp. 389–99.
 
