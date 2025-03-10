@@ -27,6 +27,24 @@ img {
       margin-right: 30px;
     }
 
+    table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+table td:nth-child(1) {
+  width: 30%;
+}
+
+table td:nth-child(2) {
+  width: 15%;
+  white-space: nowrap;
+}
+
+table td:nth-child(3) {
+  width: 55%;
+}
+
 </style>
 <!-- Banner -->
 <div class=img>

@@ -41,6 +41,24 @@ permalink: /people-romantic.html
     ul.horizontal-list li {
       margin-right: 30px;
     }
+
+    table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+table td:nth-child(1) {
+  width: 30%;
+}
+
+table td:nth-child(2) {
+  width: 15%;
+  white-space: nowrap;
+}
+
+table td:nth-child(3) {
+  width: 55%;
+}
 </style>
 
 <!-- Banner image -->
@@ -252,7 +270,7 @@ permalink: /people-romantic.html
 <table>
   <tr>
       <td>Barlin, Frederick</td>
-      <td>fl. 1802–7</td>
+      <td style="white-space:nowrap;">fl. 1802–7</td>
       <td>Portrait painter, painted oil portrait of Chief Rabbi Solomon Hirschell</td>
   </tr>
   <tr>
