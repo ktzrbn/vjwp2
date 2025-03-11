@@ -10,41 +10,72 @@ img {
      height: auto;
 }
 
-  table, th, td {
-      columns-fill: balance;
-      padding: 15px;
-
-  }
-
-      ul.horizontal-list {
-      list-style-type: none;
-      margin: 0;
-      padding: 15px;
-      display: flex;
-    }
-
-    ul.horizontal-list li {
-      margin-right: 30px;
-    }
-
-    table {
+table {
   width: 100%;
-  table-layout: fixed;
+  table-layout: auto;
+  border-collapse: collapse;
 }
 
-table td:nth-child(1) {
-  width: 30%;
+table, th, td {
+  padding: 15px;
 }
 
-table td:nth-child(2) {
-  width: 15%;
-  white-space: nowrap;
+/* Desktop layout (default) */
+@media screen and (min-width: 768px) {
+  table {
+    table-layout: fixed;
+  }
+  
+  table td:nth-child(1) {
+    width: 30%;
+  }
+  
+  table td:nth-child(2) {
+    width: 15%;
+    white-space: nowrap;
+  }
+  
+  table td:nth-child(3) {
+    width: 55%;
+  }
 }
 
-table td:nth-child(3) {
-  width: 55%;
+/* Mobile layout */
+@media screen and (max-width: 767px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  
+  tr {
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  td {
+    /* Make the cells behave like rows */
+    border: none;
+    position: relative;
+    padding-left: 15px;
+  }
+  
+  /* Add some spacing between mobile rows */
+  tr + tr {
+    margin-top: 20px;
+  }
 }
 
+ul.horizontal-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul.horizontal-list li {
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
 </style>
 <!-- Banner -->
 <div class=img>
