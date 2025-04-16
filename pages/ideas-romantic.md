@@ -47,7 +47,7 @@ Conversion notes:
 
 Jewish Naturalization Act 1753
 
-William Shakespeare's *The Merchant of Venice*
+[William Shakespeare's *The Merchant of Venice*](/merchant-of-venice.html)
 
 Maria Edgeworth's *Harrington* (1817)
 

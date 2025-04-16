@@ -80,6 +80,22 @@ table, th, td {
   }
 }
 
+/* Tablet layout (for medium screens like iPads) */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  table {
+    width: 115%;
+  }
+  
+  table td:nth-child(2) {
+    white-space: nowrap;
+  }
+  
+  /* Add some breathing room */
+  td {
+    padding: 10px;
+  }
+}
+
 ul.horizontal-list {
   list-style-type: none;
   margin: 0;
