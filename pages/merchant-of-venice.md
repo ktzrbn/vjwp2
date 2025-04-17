@@ -119,7 +119,7 @@ Spedding, James. “The Story of the ‘Merchant of Venice.’” *The Cornhill*
 
 Thomas, W. Moy. “Return of the ‘Red-Haired Shylock.’” *The Graphic*, 3 Dec. 1898, p. 708\.
 
-Thomson, Peter. “Kean, Edmund (1787–1833), Actor.” *Oxford Dictionary of National Biography*, vol. 08, Oxford UP. Accessed 23 Aug. 2022\. [https://www-oxforddnb-com.ezproxy.tcu.edu/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15204](https://www-oxforddnb-com.ezproxy.tcu.edu/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15204).
+Thomson, Peter. “Kean, Edmund (1787–1833), Actor.” *Oxford Dictionary of National Biography*, vol. 08, Oxford UP. Accessed 23 Aug. 2022\.
 
 Worrall, David. “Edmund Kean’s Celebrity.” *Historical Social Research*, vol. 32, 2019, pp. 121–38. *JSTOR*, [https://www.jstor.org/stable/10.2307/26836214](https://www.jstor.org/stable/10.2307/26836214).
 
