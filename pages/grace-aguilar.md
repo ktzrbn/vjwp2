@@ -118,17 +118,29 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 
 ## Bibliography
 
+[Aguilar, Grace. "Communings with Nature, Night." _Occident and American Jewish Advocate_, vol. 2, no. 1, Apr. 1844, pp. 22-6.](/items/X)
+
+["Communings with Nature, No. III, Hymn to Summer." _Occident and American Jewish Advocate_, vol. 2, no. 5, Aug. 1844, pp. 241-42.](/items/X)
+
+["Communings with Nature, No. IV, Autumn Leaves." _Occident and American Jewish Advocate_, vol. 2, no. 7, Nov. 1844, pp. 384-85.](/items/X)
+
+["Communings with Nature, No. V, Autumn Winds." _Occident and American Jewish Advocate_, vol. 3, no. 10, Jan. 1846, 503-505.](/items/X)
+
+["Communings with Nature, No. VI, The Evergreen." _Occident and American Jewish Advocate_, vol. 4, no. 2 May 1846, 78-9.](/items/X)
+
 [Aguilar, Grace. “Communings with Nature, No. VII, Address to the Ocean.” _Occident and American Jewish Advocate_, vol. 5, no. 7, Oct. 1847, pp. 337–38.](/items/vjwp_68.html)
 
 [_The Days of Bruce: A Story of Scottish History_. Vol. I. D. Appleton & Company, 1852.](/items/vjwp_69.html)
 
 [_The Days of Bruce: A Story of Scottish History_. Vol. II. Groombridge and Sons, 1852.](/items/vjwp_69.html)
 
+[“Dialogue Stanzas: Composed for, and Repeated by, Two Dear Little Animated Girls, at a Family Celebration of the Festival of Purim.” _Occident and American Jewish Advocate_, vol. 3, no. 5, Aug. 1845, pp. 239–40.](/items/X)
+
 [_Essays and Miscellanies: Choice Cullings from the Manuscripts of Grace Aguilar_. Edited by Sarah Aguilar, A. Hart, Late Carey and Hart, 1853.](/items/vjwp_70.html)
 
 [“The Hebrew’s Appeal, On Occasion of the Late Fearful Ukase Promulgated by the Emperor of Russia.” _Occident and American Jewish Advocate_, vol. 2, no. 6, Sept. 1844, pp. 292–93.](/items/vjwp_71.html)
 
-[Aguilar, Grace. “History of the Jews in England.” _Chambers’ Miscellany_, vol. 18, no. 153, 1847, pp. 1–32.](/items/vjwp_72.html)
+“History of the Jews in England.” _Chambers’ Miscellany_, vol. 18, no. 153, 1847, pp. 1–32.
 
 [_Home Influence: A Tale for Mothers and Daughters_. Vol. I. R. Groombridge and Sons, 1847.](/items/vjwp_73.html)
 
@@ -138,23 +150,33 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 
 [“An Hour of Peace.” _Occident and American Jewish Advocate_, vol. 1, no. 6, Sept. 1843, pp. 287–88.](/items/vjwp_75.html)
 
-[_Israel Defended_, by Orobio de Castro. Translated by Grace Aguilar, Brighton, 1838.](/items/vjwp_76.html)
+[“I Never Loved a Flower.” _Occident and American Jewish Advocate_, vol. 2, no. 9, Dec. 1844, pp. 427–28.](/items/X)
+
+[“An Infant’s Smile.” _Occident and American Jewish Advocate_, vol. 3, no. 9, Dec. 1845, 440–41.](/itemsX)
+
+_Israel Defended_, by Orobio de Castro. Translated by Grace Aguilar, Brighton, 1838.
 
 [_The Jewish Faith_. 1846. Edited by Isaac Leeser, Jewish Publication Society of America, 1864.](/items/vjwp_77.html)
 
 [“Lament for Judea.” _Hebrew Review and Magazine of Rabbinical Literature_, vol. 3, no. 73, June 1836.](/items/vjwp_170.html)
 
-[_The Magic Wreath of Hidden Flowers_. W.B. Mason, 1839.](/items/vjwp_78.html)
+_The Magic Wreath of Hidden Flowers_. W.B. Mason, 1839.
 
 [_The Mother’s Recompense; a Sequel to Home Influence._ 1851. Edited by Sarah Aguilar, Groombridge and Sons, 1860.](/items/vjwp_79.html)
 
-[“A Poet’s Dying Hymn.” _Voice of Jacob_, 18 Feb. 1842, p. 87.](/items/vjwp_80.html)
+[_The Perez Family, A Tale_. Jewish Miscellany, no. 7, Jewish Publication Society, 1847.](/items/X)
+
+“A Poet’s Dying Hymn.” _Voice of Jacob_, 18 Feb. 1842, p. 87.
 
 [_Records of Israel_. J. Mortimer, 1844.](/items/vjwp_81.html)
 
+[“Sabbath Thoughts.” _Occident and American Jewish Advocate_, vol. 2, no. 3, June 1844, pp. 141–42.](/items/vjwp_82.html)
+
+["Sabbath Thoughts, No. IV, Parting from Friends." _Occident and American Jewish Advocate_, vol. 3, no.8, Nov. 1845, pp. 379-80.](/items/X)
+
 [_Sabbath Thoughts and Sacred Communings_. Edited by Sarah Aguilar, Groombridge and Sons, 1853.](/items/vjwp_83.html)
 
-[“Sabbath Thoughts.” _Occident and American Jewish Advocate_, vol. 2, no. 3, June 1844, pp. 141–42.](/items/vjwp_82.html)
+[“Sabbath Thoughts Written on the Close of a Peculiarly Blessed Day of Rest.” _Occident and American Jewish Advocate_, vol. 1, no. 10, Jan. 1844, pp. 484–86.](/items/X) 
 
 [“Song of the Spanish Jews, During Their ‘Golden Age.’” _Occident and American Jewish Advocate_, vol. 1, no. 6, Sept. 1843, pp. 289–90.](/items/vjwp_85.html)
 
@@ -166,12 +188,12 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 
 [“The Wanderers.” _The Occident and American Jewish Advocate_, vol. 3, no. 7, Oct. 1845, pp. 330–32.](/items/vjwp_88.html)
 
+[_Woman’s Friendship: A Story of Domestic Life_. George Routledge and Sons, 1850.](/items/vjwp_89.html)
+
 [_The Women of Israel_. Vol. 1. R. Groombridge and Sons, 1845.](/items/vjwp_90.html)
 
 [_The Women of Israel_. Vol. 2. R. Groombridge and Sons, 1845.](/items/vjwp_91.html)
 
-[_Woman’s Friendship: A Story of Domestic Life_. George Routledge and Sons, 1850.](/items/vjwp_89.html)
-
-[_Works_. 8 vols. Groombridge and Sons, 1869.](/items/vjwp_67.html)
+_Works_. 8 vols. Groombridge and Sons, 1869.
 
 &nbsp;
