@@ -38,7 +38,20 @@ def prompt_user_for_confirmation(message)
 end
 
 def process_and_optimize_image(filename, file_type, output_filename, size, density)
-  image_optim = ImageOptim.new(svgo: false) unless Gem.win_platform?
+  # Configure ImageOptim with only available tools on AlmaLinux
+  image_optim = ImageOptim.new(
+    svgo: false,
+    pngcrush: false,    # Not available in AlmaLinux repos
+    pngout: false,      # Not available in AlmaLinux repos
+    optipng: true,      # Available via dnf
+    pngquant: false,    # Not available in standard repos
+    oxipng: false,      # Not available in standard repos
+    jhead: false,       # Not available in standard repos
+    jpegoptim: true,    # Available via dnf
+    gifsicle: false,    # Not available in standard repos
+    advpng: false       # Having issues
+  ) unless Gem.win_platform?
+  
   if filename == output_filename && file_type == :image && !Gem.win_platform?
     puts "Optimizing: #{filename}"
     begin
