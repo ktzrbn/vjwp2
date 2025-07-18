@@ -1,0 +1,23 @@
+{ 
+    "title": "Victorian Jewish Writers Project",
+    "url": "http://localhost:4000/",
+    "image": "https://victorianjewishwritersproject.s3.us-east-1.amazonaws.com/objects/vjwp-header.jpg", 
+    "description": "Welcome to the Victorian Jewish Writers Project, a digital collection focusing on Anglo-Jewish writing during the long nineteenth century. The site is a work-in-progress, so please contact katzir [at] vjwp [dot] org if you need one-on-one assistance.",
+    "publisher": { 
+        "name": "VJWP", 
+        "url": "/about.html", 
+        "logo": "objects/logos/black-on-trans.png" 
+    },
+    "date_start": "1782",
+    "date_end": "September1886",
+    "objects": {
+        "jpg": "2",
+        "pdf": "166",
+        null: "0",
+        "pdf ": "3"
+        
+    },
+    "data": "http://localhost:4000/assets/data/datapackage.json",
+    "last_build_date": "2025-07-18"
+}
+

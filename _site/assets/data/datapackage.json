@@ -1,0 +1,97 @@
+{
+    "profile": "data-package",
+    "name": "victorian-jewish-writers-project-data",
+    "title": "Victorian Jewish Writers Project Data",
+    "description": "Metadata and data derived from Victorian Jewish Writers Project. Welcome to the Victorian Jewish Writers Project, a digital collection focusing on Anglo-Jewish writing during the long nineteenth century. The site is a work-in-progress, so please contact katzir [at] vjwp [dot] org if you need one-on-one assistance.",
+    "keywords":  ["britain","jews","anglo-jews"],
+    "homepage": "http://localhost:4000/",
+    "contributors": [
+        {
+            "title": "VJWP",
+            "path": "/about.html",
+            "role": "author"
+        }
+    ],
+    "image": "https://victorianjewishwritersproject.s3.us-east-1.amazonaws.com/objects/vjwp-header.jpg",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+         
+        {
+            "name": "facets-json",
+            "path": "facets.json",
+            "title": "Victorian Jewish Writers Project Metadata Facets",
+            "description":"Unique values and counts of metadata facet fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "subject-csv",
+            "path": "subjects.csv",
+            "title": "Victorian Jewish Writers Project metadata subject counts in csv",
+            "description": "Unique values and counts of metadata subject fields.",
+            "format":"csv",
+            "profile":"tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "subject",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "link",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "subjects-json",
+            "path": "subjects.json",
+            "title": "Victorian Jewish Writers Project  metadata subject counts in json",
+            "description":"Unique values and counts of metadata subject fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        
+        
+        {
+            "name": "timeline-json",
+            "path": "timelinejs.json",
+            "title": "Victorian Jewish Writers Project timeline metadata",
+            "description": "Time-based metadata formatted for TimelineJS or other applications.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "Victorian Jewish Writers Project full metadata in csv",
+            "description": "Complete metadata export for Victorian Jewish Writers Project objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "Victorian Jewish Writers Project full metadata in json",
+            "description": "Complete metadata export for Victorian Jewish Writers Project objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}

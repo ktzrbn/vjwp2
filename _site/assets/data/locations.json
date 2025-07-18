@@ -1,0 +1,13 @@
+{ "locations": [
+    { "location" : "london", "count" : 147, "link" : "http://localhost:4000/browse.html#london" },
+    { "location" : "philadelphia", "count" : 23, "link" : "http://localhost:4000/browse.html#philadelphia" },
+    { "location" : "new york", "count" : 10, "link" : "http://localhost:4000/browse.html#new%20york" },
+    { "location" : "edinburgh", "count" : 4, "link" : "http://localhost:4000/browse.html#edinburgh" },
+    { "location" : "oxford", "count" : 2, "link" : "http://localhost:4000/browse.html#oxford" },
+    { "location" : "dublin", "count" : 2, "link" : "http://localhost:4000/browse.html#dublin" },
+    { "location" : "liverpool", "count" : 1, "link" : "http://localhost:4000/browse.html#liverpool" },
+    { "location" : "hanover", "count" : 1, "link" : "http://localhost:4000/browse.html#hanover" },
+    { "location" : "brighton", "count" : 1, "link" : "http://localhost:4000/browse.html#brighton" },
+    { "location" : "rödelheim", "count" : 1, "link" : "http://localhost:4000/browse.html#r%C3%B6delheim" },
+    { "location" : "london & new york", "count" : 1, "link" : "http://localhost:4000/browse.html#london%20&%20new%20york" }
+]}
