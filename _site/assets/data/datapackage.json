@@ -4,7 +4,7 @@
     "title": "Victorian Jewish Writers Project Data",
     "description": "Metadata and data derived from Victorian Jewish Writers Project. Welcome to the Victorian Jewish Writers Project, a digital collection focusing on Anglo-Jewish writing during the long nineteenth century. The site is a work-in-progress, so please contact katzir [at] vjwp [dot] org if you need one-on-one assistance.",
     "keywords":  ["britain","jews","anglo-jews"],
-    "homepage": "http://localhost:4000/",
+    "homepage": "victorianjewishwritersproject.org/",
     "contributors": [
         {
             "title": "VJWP",
