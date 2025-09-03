@@ -128,7 +128,9 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 
 ["Communings with Nature, No. VI, The Evergreen." _Occident and American Jewish Advocate_, vol. 4, no. 2 May 1846, 78-9.](/items/vjwp_197.html)
 
-[Aguilar, Grace. “Communings with Nature, No. VII, Address to the Ocean.” _Occident and American Jewish Advocate_, vol. 5, no. 7, Oct. 1847, pp. 337–38.](/items/vjwp_68.html)
+[“Communings with Nature, No. VII, Address to the Ocean.” _Occident and American Jewish Advocate_, vol. 5, no. 7, Oct. 1847, pp. 337–38.](/items/vjwp_68.html)
+
+[“Communings with Nature, Ocean.” Occident and American Jewish Advocate, vol. 2, no. 2, May 1844, pp. 81–2.](/items/vjwp_198)
 
 [_The Days of Bruce: A Story of Scottish History_. Vol. I. D. Appleton & Company, 1852.](/items/vjwp_69.html)
 
@@ -143,8 +145,6 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 “History of the Jews in England.” _Chambers’ Miscellany_, vol. 18, no. 153, 1847, pp. 1–32.
 
 [_Home Influence: A Tale for Mothers and Daughters_. Vol. I. R. Groombridge and Sons, 1847.](/items/vjwp_73.html)
-
-[_Home Influence: A Tale for Mothers and Daughters_. Vol. II. R. Groombridge and Sons, 1847.](/items/vjwp_73.html)
 
 [_Home Scenes and Heart Studies_. 1852. Edited by Sarah Aguilar, 13th ed., Groombridge and Sons, 1876.](/items/vjwp_74.html)
 
@@ -164,7 +164,7 @@ _The Magic Wreath of Hidden Flowers_. W.B. Mason, 1839.
 
 [_The Mother’s Recompense; a Sequel to Home Influence._ 1851. Edited by Sarah Aguilar, Groombridge and Sons, 1860.](/items/vjwp_79.html)
 
-[_The Perez Family, A Tale_. Jewish Miscellany, no. 7, Jewish Publication Society, 1847.](/items/vjwp_202.html)
+["The Perez Family, A Tale" _Jewish Miscellany_, no. 7, Jewish Publication Society, 1847.](/items/vjwp_202.html)
 
 “A Poet’s Dying Hymn.” _Voice of Jacob_, 18 Feb. 1842, p. 87.
 
