@@ -338,11 +338,6 @@ ul.horizontal-list li {
       <td>English composer</td>
   </tr>
   <tr>
-      <td>Barrow, Lousada</td>
-      <td>1816–1877</td>
-      <td>Army officer, second highest-ranking person of Jewish extraction to have served in the Indian administration, son of Simon Barrow</td>
-  </tr>
-  <tr>
       <td>Barrow, Simon</td>
       <td>C1788–1862</td>
       <td>First Jewish mayor in Britain, mayor of Bath (1837)</td>
@@ -353,27 +348,12 @@ ul.horizontal-list li {
       <td>Mother of <a href="benjamin-disraeli.html">Benjamin Disraeli</a>, daughter of Verona-born Merchant Naphtali [Nathan] Basevi</td>
   </tr>
   <tr>
-      <td>Beddington [Moses], Edward Henry</td>
-      <td>C1818–1872</td>
-      <td>Merchant, member of the Council of the United Synagogue</td>
-  </tr>
-  <tr>
-      <td>Behrend, Henry</td>
-      <td>1828–1893</td>
-      <td>Physician, admitted to the Royal College of Surgeons (1850), regular contributor to the <em>Jewish Chronicle</em>, President of the Jews' Hospital (1871–93)</td>
-  </tr>
-  <tr>
       <td>Behrens, Solomon Levi</td>
       <td>C1787–1873</td>
-      <td>Orthodox merchant and advocate of Jewish emancipation</td>
+      <td>Manchester-based Orthodox merchant and advocate of Jewish emancipation</td>
   </tr>
   <tr>
-      <td>Belasco, Abraham [Aby]</td>
-      <td>1797–C1853</td>
-      <td>Prominent pugilist</td>
-  </tr>
-  <tr>
-      <td>Belisario, Esther Mendes</td>
+      <td>Belisario, Esther (Lindo) Mendes</td>
       <td>1773–1824</td>
       <td>Founded a Jewish girls’ school in Hackney (1807), mother of Miriam Mendes Belisario</td>
   </tr>
@@ -426,11 +406,6 @@ ul.horizontal-list li {
       <td>Bolaffey, Hayim Vita</td>
       <td>C1779–1835</td>
       <td>Teacher, writer, and Hebraist</td>
-  </tr>
-  <tr>
-      <td>Brandon, John Raphael Rodrigues</td>
-      <td>1817–1877</td>
-      <td>Architect and author</td>
   </tr>
     <tr>
       <td>Brandon, Joshua Arthur Rodrigues</td>
