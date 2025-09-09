@@ -152,19 +152,19 @@ Valman, Nadia. _The Jewess in Nineteenth-Century British Literary Culture_. Camb
 
 [“I Never Loved a Flower.” _Occident and American Jewish Advocate_, vol. 2, no. 9, Dec. 1844, pp. 427–28.](/items/vjwp_200.html)
 
-[“An Infant’s Smile.” _Occident and American Jewish Advocate_, vol. 3, no. 9, Dec. 1845, 440–41.](/items/vjwp_201.html)
+[“An Infant’s Smile.” _Occident and American Jewish Advocate_, vol. 3, no. 9, Dec. 1845, pp. 440–41.](/items/vjwp_201.html)
 
 _Israel Defended_, by Orobio de Castro. Translated by Grace Aguilar, Brighton, 1838.
 
 [_The Jewish Faith_. 1846. Edited by Isaac Leeser, Jewish Publication Society of America, 1864.](/items/vjwp_77.html)
 
-[“Lament for Judea.” _Hebrew Review and Magazine of Rabbinical Literature_, vol. 3, no. 73, June 1836.](/items/vjwp_170.html)
+[“Lament for Judea.” _Hebrew Review and Magazine of Rabbinical Literature_, vol. 3, no. 73, June 1836, pp. 332-334.](/items/vjwp_170.html)
 
 _The Magic Wreath of Hidden Flowers_. W.B. Mason, 1839.
 
 [_The Mother’s Recompense; a Sequel to Home Influence._ 1851. Edited by Sarah Aguilar, Groombridge and Sons, 1860.](/items/vjwp_79.html)
 
-["The Perez Family, A Tale" _Jewish Miscellany_, no. 7, Jewish Publication Society, 1847.](/items/vjwp_202.html)
+["The Perez Family, A Tale." _Jewish Miscellany_, no. 7, Jewish Publication Society, 1847.](/items/vjwp_202.html)
 
 “A Poet’s Dying Hymn.” _Voice of Jacob_, 18 Feb. 1842, p. 87.
 
