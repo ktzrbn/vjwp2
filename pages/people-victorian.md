@@ -269,7 +269,7 @@ ul.horizontal-list li {
   <tr>
       <td>Abrahams, Louis Barnett</td>
       <td style="white-space:nowrap;">1839–1918</td>
-      <td>Writer and teacher</td>
+      <td>Writer and teacher, first editor of the <em>Jewish Record</em></td>
   </tr>
   <tr>
       <td>Abrahams, Moses</td>
@@ -367,6 +367,11 @@ ul.horizontal-list li {
       <td>Barrister and communal leader, president of the Board of Deputies of British Jews (1903–17), member of the League of British Jews, grandson of David Abarbanel Lindo</td>
   </tr>
   <tr>
+      <td>Alexander, Samuel</td>
+      <td style="white-space:nowrap;">1859-1938</td>
+      <td>Professor and philosopher, first professing Jew to hold an Oxbridge fellowship</td>
+  </tr>
+  <tr>
       <td>Alman, Olga [Gertrude] (Ginzburg)</td>
       <td style="white-space:nowrap;">C1886–1961</td>
       <td>Russian-born co-founder of the Federation of Women Zionists (1918)</td>
@@ -402,9 +407,29 @@ ul.horizontal-list li {
       <td>Author and journalist, sister of Julia Frankau</td>
   </tr>    
   <tr>
+      <td>Artom, Benjamin</td>
+      <td style="white-space:nowrap;">1835-1879</td>
+      <td>Asti-born orthodox rabbi, musician, composer, and writer of sermons, prayers, and poetry</td>
+  </tr>   
+  <tr>
+      <td>Ascher, Benjamin</td>
+      <td style="white-space:nowrap;">1812-1893</td>
+      <td>Posen-born orthodox rabbi and translator, half-brother of Simon Ascher</td>
+  </tr>   
+  <tr>
       <td>Ascher, Isidore Gordon</td>
       <td style="white-space:nowrap;">1835–1914</td>
       <td>Scottish-Canadian novelist and poet</td>
+  </tr>
+  <tr>
+      <td>Ascher, Simon</td>
+      <td style="white-space:nowrap;">1789-1872</td>
+      <td>Dutch-born cantor, reader, and chazan of the Great Synagogue (1832–70)</td>
+  </tr>
+  <tr>
+      <td>Ascher, Ascher</td>
+      <td style="white-space:nowrap;">1837–1889</td>
+      <td>Scottish-born physician and writer, first Jew in Scotland to enter the medical profession Medical Officer to the Glasgow Hebrew Philanthropic Society, Secretary to the Glasgow Hebrew Congregation</td>
   </tr>
   <tr>
       <td>Ayrton, Hertha (Marks)</td>
@@ -421,9 +446,44 @@ ul.horizontal-list li {
 </h3>
   <table>
   <tr>
+      <td>Ballin, Ada Sarah</td>
+      <td style="white-space:nowrap;">1862–1906</td>
+      <td>Author and journalist. <em>Founder of Baby: The Mothers’ Magazine</em> (1887) and <em>Womanhood</em> (1898) magazine</td>
+  </tr>
+  <tr>
+      <td>Barnett, Lionel David</td>
+      <td style="white-space:nowrap;">1871-1960</td>
+      <td>Professor of Sanskrit at UCL (1917–48), Elder of Bevis Marks</td>
+  </tr>
+  <tr>
+      <td>Beer, Rachel (Sassoon)</td>
+      <td style="white-space:nowrap;">1858-1927</td>
+      <td>Bombay-born newspaper editor, first woman to edit a Fleet Street newspaper, owner and editor of the <em>Observer</em> and the <em>Sunday Times</em> until 1904</td>
+  </tr>
+  <tr>
+      <td>Behrend, Henry</td>
+      <td style="white-space:nowrap;">1828-1893</td>
+      <td>Liverpool-based physician, admitted to the Royal College of Surgeons (1850), President of the Jews’ Hospital (1871–93), regularly contributed essays on Jewish law and history to the <em>Jewish Chronicle</em></td>
+  </tr>
+  <tr>
       <td>Belisario, Miriam Mendes</td>
-      <td style="white-space:nowrap;">C1820–1885</td>
-      <td>Writer, teacher, and lexicographer</td>
+      <td style="white-space:nowrap;">1816–1885</td>
+      <td>Writer, teacher, and lexicographer, granddaughter of the scholar and preacher Isaac Mendes Belisario</td>
+  </tr>
+  <tr>
+      <td>Benas, Baron Louis</td>
+      <td style="white-space:nowrap;">1844–1914</td>
+      <td>Stockbroker and antiquarian, senior warden of Liverpool’s Old Hebrew Congregation, historian of Liverpool Jewry, founder of the first English branch of the Alliance Israélite Universalle (1867), father of Betram Benas</td>
+  </tr>
+  <tr>
+      <td>Bender, Philipp</td>
+      <td style="white-space:nowrap;">C1830-1901</td>
+      <td>Orthodox minister, teacher, and Hebrew scholar</td>
+  </tr>
+  <tr>
+      <td>Benham, Arthur</td>
+      <td style="white-space:nowrap;">C1878-1895</td>
+      <td>Playwright, member of the Maccabaeans</td>
   </tr>
   <tr>
       <td>Benisch, Abraham</td>
@@ -434,16 +494,83 @@ ul.horizontal-list li {
       <td>Benjamin, Elizabeth Abadi</td>
       <td style="white-space:nowrap;">1874–1966</td>
       <td>Head of the girls’ section of the Jews’ Free School (1879–1907)</td>
-  </tr>                                
+  </tr>   
+  <tr>
+      <td>Benjamin, Lewis Saul</td>
+      <td style="white-space:nowrap;">1874–1932</td>
+      <td>Author known as Lewis Melville, published a two-volume life of Thackeray in 1899</td>
+  </tr>
+  <tr>
+      <td>Bensusan, Samuel Levy</td>
+      <td style="white-space:nowrap;">1872–1958</td>
+      <td>Journalist, author, and playwright</td>
+  </tr>  
+  <tr>
+      <td>Bentwich, Herbert</td>
+      <td style="white-space:nowrap;">1856–1932</td>
+      <td>Lawyer and law journalist, owner and editor of the Law Journal from 1908, co-founder of the Maccabaeans (1891), member of the Chovevei Zion movement, Chairman of the Zionist Federation (1898–1909)</td>
+  </tr>     
+  <tr>
+      <td>Bergson, Michael Gabriel</td>
+      <td style="white-space:nowrap;">1820–1898</td>
+      <td>Warsaw-born composer, co-edited a collection of sacred Jewish hymns and prayers with Marcus Hast in 1874</td>
+  </tr>        
+    <tr>
+      <td>Berlin, Moses</td>
+      <td style="white-space:nowrap;">1849–1919</td>
+      <td>Hamburg-born orthodox rabbi, minister of the 
+      Hebrew Congregation at Newport, Monmouthshire, and Plymouth, Headmaster of the Talmud Torah School in Manchester, brother of Norman Isaac Berlin</td>
+  </tr> 
+  <tr>
+      <td>Berlin, Norman Isaac</td>
+      <td style="white-space:nowrap;">1832–1902</td>
+      <td>Teacher and scholar, teacher at Leopold 
+      Neumegen’s school at Kew, scholar-in-residence at the Judith Montefiore College, Ramsgate, studying Hebrew literature</td>
+  </tr>  
+  <tr>
+      <td>Berliner, Berman</td>
+      <td style="white-space:nowrap;">1848–1913</td>
+      <td>Orthodox minister, Baal Koreh at the German Synagogue in Broad Street, London Wall, minister of the Bristol Hebrew Congregation (1871–8) and St. John’s Wood Synagogue (1878–1912), contributed an essay on Solomon Luria to the <em>Jews’ College Jubilee Volume</em> (1906)</td>
+  </tr>  
+  <tr>
+      <td>Bernberg, Joseph</td>
+      <td style="white-space:nowrap;">1869–1941</td>
+      <td>Poland-born religious teacher</td>
+  </tr>          
+  <tr>
+      <td>Bles, David Samuel</td>
+      <td style="white-space:nowrap;">C1834–1899</td>
+      <td>Merchant, president of the Manchester Board of Guardians, manager of the Manchester Jews’ Free School, co-founder of the Manchester Reform Synagogue</td>
+  </tr>      
   <tr>
       <td>Blind, Mathilde (Cohen)</td>
       <td style="white-space:nowrap;">1841–1896</td>
       <td>German-born poet, writer, and feminist</td>
   </tr>  
   <tr>
+      <td>Bloch, Sir Maurice</td>
+      <td style="white-space:nowrap;">1882–1964</td>
+      <td>First Scottish Jew to be knighted, president and treasurer of the Glasgow Jewish Board of Guardians, Hon. Life President of the Glasgow Yeshiva</td>
+  </tr> 
+  <tr>
+      <td>Boas, Frederick Samuel</td>
+      <td style="white-space:nowrap;">1862–1957</td>
+      <td>Literary scholar and academic, specialist in the Elizabethan and Restoration periods</td>
+  </tr>
+  <tr>
+      <td>Bowman, Laurence George</td>
+      <td style="white-space:nowrap;">C1866–1950</td>
+      <td>Educationist, president of the Haskalah Literary Society (1931)</td>
+  </tr>
+  <tr>
       <td>Bresslau, Marcus Hyman</td>
       <td style="white-space:nowrap;">C1808–1864</td>
-      <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844–48)</td>
+      <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844–50, 54–55)</td>
+  </tr>
+  <tr>
+      <td>Brighten, Hilda Rachel (Cohen)</td>
+      <td style="white-space:nowrap;">1817–1904</td>
+      <td>Orthodox songwriter and poet, editor of the <em>Jewish Woman</em> (1925-6)</td>
   </tr>
   </table>
 
@@ -674,6 +801,11 @@ $nbsp;
       <td><a href="amy-levy.html">Levy, Amy</a></td>
       <td style="white-space:nowrap;">1861–1889</td>
       <td>Writer and poet, second Jewish woman to attend Cambridge University and the first at Newnham College (1879–81)</td>
+  </tr> 
+  <tr>
+      <td>Lindo,Abigail</td>
+      <td style="white-space:nowrap;">1803-1848</td>
+      <td>Lexicographer and scholar, first British Jew to compile a Hebrew-English dictionary</td>
   </tr> 
   <tr>
       <td>Lindo, David Abarbanel</td>

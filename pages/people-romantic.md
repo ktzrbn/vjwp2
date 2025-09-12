@@ -4,22 +4,6 @@ layout: page
 permalink: /people-romantic.html
 ---
 
-<!-- Matomo -->
-<script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://victorianjewishwritersproject.matomo.cloud/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '1']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src='//cdn.matomo.cloud/victorianjewishwritersproject.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
-
 <style>
 img {
      max-width: 100%;
@@ -120,7 +104,7 @@ ul.horizontal-list li {
 &nbsp;
 <br>
 
-<h1>People</h1>
+<h1>Romantic Era (1780-1832) People</h1>
 
 <ul class="horizontal-list" style="center">
     <li>
