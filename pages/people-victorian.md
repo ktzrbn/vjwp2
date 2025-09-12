@@ -599,7 +599,7 @@ ul.horizontal-list li {
   </tr> 
 
   </table>
-$nbsp;
+&nbsp;
 
 <h3>
 <a id="d" name="d"></a>
