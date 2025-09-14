@@ -382,29 +382,14 @@ ul.horizontal-list li {
       <td>Warsaw-born orthodox minister, educationist, and politician, founded a private school (1857) and synagogue (1879) in Gravesend, Gravesend town councilor (1871), Mayor of Gravesend (1887)</td>
   </tr>
   <tr>
-      <td>Bischoffsheim, Henri Louis</td>
-      <td>1829–1908</td>
-      <td>Amsterdam-born banker and philanthropist, father of the Countess of Desart</td>
-  </tr>
-  <tr>
       <td>Bolaffey, Hayim Vita</td>
       <td>C1779–1835</td>
       <td>Teacher, writer, and Hebraist</td>
   </tr>
-    <tr>
-      <td>Brandon, Joshua Arthur Rodrigues</td>
-      <td>1822–1847</td>
-      <td>Architect and author, brother of John Raphael Rodrigues Brandon</td>
-  </tr>
   <tr>
       <td>Bresslau, Marcus Hyman</td>
       <td>C1808–1864</td>
-      <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844–8)</td>
-  </tr>
-  <tr>
-      <td>Bright, Henry</td>
-      <td>1817–1904</td>
-      <td>Local politician, Leamington town councilor, Mayor of Leamington (1876–82)</td>
+      <td>Prussian-born Hebraist, editor, and journalist, Baal Korah for the Western Synagogue, editor of the <em>Jewish Chronicle</em> (1844–50, 54-55)</td>
   </tr>
 </table>
 &nbsp;
