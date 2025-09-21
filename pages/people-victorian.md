@@ -104,7 +104,7 @@ ul.horizontal-list li {
 &nbsp;
 <br>
 
-<h1>People</h1>
+<h1>Victorian Era (1837-1901) People</h1>
 
 <ul class="horizontal-list" style="center">
     <li>
@@ -202,11 +202,6 @@ ul.horizontal-list li {
       <td>Poet and academic</td>
   </tr>
   <tr>
-      <td>Abady, Jacques</td>
-      <td style="white-space:nowrap;">1872-1964</td>
-      <td>Mechanical engineer, barrister, and politician, Mayor of Westminster (1927–8)</td>
-  </tr>
-  <tr>
       <td>Abdela, Jacob Elia</td>
       <td style="white-space:nowrap;">C1837-1907</td>
       <td>Shipping merchant, President of the Manchester Talmud Torah, member of the Society of Gemeluth Chasidim</td>
@@ -273,11 +268,6 @@ ul.horizontal-list li {
   </tr>
   <tr>
       <td>Abrahams, Moses</td>
-      <td style="white-space:nowrap;">1853–1925</td>
-      <td>Mayor of Grimsby (1901)</td>
-  </tr>
-  <tr>
-      <td>Abrahams, Moses</td>
       <td style="white-space:nowrap;">1860–1919</td>
       <td>Author and minister of the Leeds Jewish community, son of Abraham (Sussman) Abrahams</td>
   </tr>
@@ -329,7 +319,7 @@ ul.horizontal-list li {
   <tr>
       <td>Adler, Marcus Nathan</td>
       <td style="white-space:nowrap;">1837–1911</td>
-      <td>Actuary and communal leader, son of <a href="/nathan-marcus-adler.html">Nathan Marcus Adler</a> and Henrietta (Worms) Worms</td>
+      <td>Actuary and communal leader, son of <a href="/nathan-marcus-adler.html">Nathan Marcus Adler</a> and Henrietta (Worms) Adler</td>
   </tr>
   <tr>
       <td>Adler, Michael</td>
@@ -350,11 +340,6 @@ ul.horizontal-list li {
       <td><a href="grace-aguilar.html">Aguilar, Grace</a></td>
       <td style="white-space:nowrap;">1816–1847</td>
       <td>Novelist, poet, and historian, first Jewish historian of Anglo-Jewry</td>
-  </tr>
-  <tr>
-      <td>Aguilar, Henry</td>
-      <td style="white-space:nowrap;">1827–1902</td>
-      <td>Captain in the Royal Navy, brother of <a href="grace-aguilar.html">Grace Aguilar</a></td>
   </tr>
   <tr>
       <td>Alex, Ephraim</td>
@@ -382,7 +367,7 @@ ul.horizontal-list li {
       <td>Musician, composer, and writer of liturgical works</td>
   </tr>
   <tr>
-      <td>Amshewitz, Asher</td>
+      <td>Amschejewitz, Asher</td>
       <td style="white-space:nowrap;">1824–1903</td>
       <td>Orthodox rabbi and scholar, one of the first three scholars-in-residence at the Judith Montefiore College (1867), father of J.H. Amshewitz</td>
   </tr>
@@ -417,11 +402,6 @@ ul.horizontal-list li {
       <td>Posen-born orthodox rabbi and translator, half-brother of Simon Ascher</td>
   </tr>   
   <tr>
-      <td>Ascher, Isidore Gordon</td>
-      <td style="white-space:nowrap;">1835–1914</td>
-      <td>Scottish-Canadian novelist and poet</td>
-  </tr>
-  <tr>
       <td>Ascher, Simon</td>
       <td style="white-space:nowrap;">1789-1872</td>
       <td>Dutch-born cantor, reader, and chazan of the Great Synagogue (1832–70)</td>
@@ -434,7 +414,7 @@ ul.horizontal-list li {
   <tr>
       <td>Ayrton, Hertha (Marks)</td>
       <td style="white-space:nowrap;">1854–1923</td>
-      <td>Electrical engineer and feminist, winner of the Royal Society’s Hughes Medal, stepmother of Edith Zangwill</td>
+      <td>Electrical engineer and feminist, winner of the Royal Society’s Hughes Medal, niece of Marion and Celia Moss, stepmother of Edith Zangwill</td>
   </tr>
   </table>
 
@@ -448,7 +428,7 @@ ul.horizontal-list li {
   <tr>
       <td>Ballin, Ada Sarah</td>
       <td style="white-space:nowrap;">1862–1906</td>
-      <td>Author and journalist. <em>Founder of Baby: The Mothers’ Magazine</em> (1887) and <em>Womanhood</em> (1898) magazine</td>
+      <td>Author and journalist, Founder of <em>Baby: The Mothers’ Magazine</em> (1887) and <em>Womanhood</em> (1898) magazine</td>
   </tr>
   <tr>
       <td>Barnett, Lionel David</td>
@@ -488,7 +468,7 @@ ul.horizontal-list li {
   <tr>
       <td>Benisch, Abraham</td>
       <td style="white-space:nowrap;">1811–1878</td>
-      <td>Hebraist, editor, and journalist, editor of the <em>Jewish Chronicle</em> (1854–69, 1875–8</td>
+      <td>Hebraist, editor, and journalist, editor of the <em>Jewish Chronicle</em> (1854–69, 1875–8)</td>
   </tr>
   <tr>
       <td>Benjamin, Elizabeth Abadi</td>
