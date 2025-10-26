@@ -48,6 +48,9 @@ Conversion notes:
 <strong><span style="text-decoration:underline;">Romantic Era Literature (1780-1832)</span></strong>
 </p>
 <p class="hangingindent">
+Aguilar, Grace. See <a href="grace-aguilar.html#bibliography">Bibliography of Grace Aguilar</a>.
+</p>
+<p class="hangingindent">
 Alexander, Alexander. <em>Pentateuch with Translation</em>. A. Alexander and Son, 1785.
 </p>
 <p class="hangingindent">
@@ -57,7 +60,7 @@ Alexander, Levy. <em>Alexander's Hebrew Ritual</em>. L. Alexander, 1819.
 ---. <em>Answer to Mr. Joshua Van Oven’s Letters on the Present State of the Jewish Poor in London</em>. L. Alexander, 1802.
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_33.html">---. <em>Memoirs of the Life and Commercial Connections, Public and Private, of the Late Benj. Goldsmid, Esq. of Roehampton, Containing a Cursory View of the Jewish Society and Manners</em> […]. L. Alexander, 1808.</a>
+<a href="http://victorianjewishwritersproject.org/items/vjwp_33.html">---. <em>Memoirs of the Life and Commercial Connections, Public and Private, of the Late Benj. Goldsmid, Esq. of Roehampton</em> […]. L. Alexander, 1808.</a>
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_129.html">
