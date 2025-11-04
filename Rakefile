@@ -38,20 +38,24 @@ def prompt_user_for_confirmation(message)
 end
 
 def process_and_optimize_image(filename, file_type, output_filename, size, density)
-  # Configure ImageOptim with only available tools on AlmaLinux
+  # Configure ImageOptim with tools available on macOS
   image_optim = ImageOptim.new(
-    svgo: false,
-    pngcrush: false,    # Not available in AlmaLinux repos
-    pngout: false,      # Not available in AlmaLinux repos
-    optipng: true,      # Available via dnf
-    pngquant: false,    # Not available in standard repos
-    oxipng: false,      # Not available in standard repos
-    jhead: false,       # Not available in standard repos
-    jpegoptim: true,    # Available via dnf
-    gifsicle: false,    # Not available in standard repos
-    advpng: false       # Having issues
+    svgo: false,         # Not typically used for macOS
+    pngcrush: false,     # Optional, not installed by default
+    pngout: false,       # Optional, not installed by default
+    optipng: true,       # Available via Homebrew
+    pngquant: true,      # Available via Homebrew
+    oxipng: true,        # Available via Homebrew
+    jhead: false,        # Optional, not installed by default
+    jpegoptim: true,     # Available via Homebrew
+    gifsicle: true,      # Available via Homebrew
+    advpng: false        # Optional, not installed by default
   ) unless Gem.win_platform?
-  
+
+  # Ensure default values for size and density
+  size ||= '800x800'
+  density ||= '300'
+
   if filename == output_filename && file_type == :image && !Gem.win_platform?
     puts "Optimizing: #{filename}"
     begin
@@ -65,14 +69,11 @@ def process_and_optimize_image(filename, file_type, output_filename, size, densi
     puts "Creating: #{output_filename}"
     begin
       if file_type == :pdf
-        inputfile = "#{filename}[0]"
-        magick = MiniMagick::Tool::Convert.new
-        magick.density(density)
-        magick << inputfile
-        magick.resize(size)
-        magick.flatten
-        magick << output_filename
-        magick.call
+        image = MiniMagick::Image.open(filename)
+        image.format('jpg')
+        image.density(density) unless density.nil?
+        image.resize(size) unless size.nil?
+        image.write(output_filename)
       else
         image = MiniMagick::Image.open(filename)
         image.format('jpg')
@@ -151,13 +152,29 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :com
       # Optimize the original image.
       if args.compress_originals == 'true'
         puts "Optimizing: #{filename}"
-        process_and_optimize_image(filename, file_type, filename, nil, nil)
+        process_and_optimize_image(
+          filename,
+          file_type,
+          filename,
+          args.small_size || '800x800', # Default size
+          args.density || '300'        # Default density
+        )
       end
 
       # Generate the thumb image.
       thumb_filename = File.join(thumb_image_dir, "#{base_filename}_th.jpg")
       if args.missing == 'false' || !File.exist?(thumb_filename)
-        process_and_optimize_image(filename, file_type, thumb_filename, args.thumbs_size, args.density)
+        if file_type == :pdf
+          process_and_optimize_image(
+            filename,
+            file_type,
+            thumb_filename,
+            args.thumbs_size || '450x', # Default size for thumbnails
+            args.density || '300'      # Default density for PDFs
+          )
+        else
+          process_and_optimize_image(filename, file_type, thumb_filename, args.thumbs_size, args.density)
+        end
       else
         puts "Skipping: #{thumb_filename} already exists"
       end
@@ -165,7 +182,17 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :com
       # Generate the small image.
       small_filename = File.join([small_image_dir, "#{base_filename}_sm.jpg"])
       if (args.missing == 'false') || !File.exist?(small_filename)
-        process_and_optimize_image(filename, file_type, small_filename, args.small_size, args.density)
+        if file_type == :pdf
+          process_and_optimize_image(
+            filename,
+            file_type,
+            small_filename,
+            args.small_size || '800x800', # Default size for small images
+            args.density || '300'        # Default density for PDFs
+          )
+        else
+          process_and_optimize_image(filename, file_type, small_filename, args.small_size, args.density)
+        end
       else
         puts "Skipping: #{small_filename} already exists"
       end
