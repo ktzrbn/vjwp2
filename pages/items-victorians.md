@@ -57,6 +57,24 @@ Abrahams (Sussman), Abraham. <em>Millel Avraham</em>. London, 1882.
 </p>
 
 <p class="hangingindent">
+Abrahams, Israel. Chapters on Jewish Literature. Jewish Publication Society of America,
+1899.
+</p>
+
+<p class="hangingindent">
+---. Jewish Life in the Middle Ages. Jewish Publication Society of America, 1896.
+</p>
+
+<p class="hangingindent">
+Abrahams, Israel. Jewish Quarterly Review. 1888–1908.
+</p>
+
+<p class="hangingindent">
+Abrahams, Israel, and Claude Montefiore. Aspects of Judaism. 2nd ed., Macmillan and Co., 
+1895.
+</p>
+
+<p class="hangingindent">
 Abrahams, Louis Barnett, editor. <em>The Jewish Record</em>. 1868–c.1871.
 </p>
 
@@ -70,7 +88,55 @@ Abrahams, Louis Barnett, editor. <em>The Jewish Record</em>. 1868–c.1871.
 </p>
 
 <p class="hangingindent">
+Adler, Hermann. “Can Jews Be Patriots?” <em>Littell’s Living Age</em>, vol. 137, no. 1769, 11 May 1878, p. 374.
+</p>
+
+<p class="hangingindent">
+---. <em>A Course of Sermons on the Biblical Passages Adduced by Christian Theologians in Support of the Dogmas of Their Faith, Preached in the Bayswater Synagogue</em>. Trubner & Co., 1869.
+</p>
+
+<p class="hangingindent">
+---. <em>The Cry of Our Board School Children: A Sermon Preached at the St. John’s Wood Synagogue, on Sabbath, December 1st, 1894.</em>
+</p>
+
+<p class="hangingindent">
+---. <em>Fidelity to the Dead: A Sermon Preached at the New Synagogue on February 9th, 5655–1895.</em>
+</p>
+
+<p class="hangingindent">
+---. <em>The Ideal Jewish Pastor: A Sermon, Preached at the Great Synagogue, on June 23rd, 5651–1891.</em> Wertheimer, Lea and Co., 1891.
+</p>
+
+<p class="hangingindent">
+---. <em>The Industrious Apprentice: A Sermon Preached at the Great Synagogue on Sabbath December 10th, 1887.</em> Wertheimer, Lea and Co., 1887.
+</p>
+
+<p class="hangingindent">
+---. <em>The Jews During the Victorian Era: A Sermon Preached at the North London Synagogue on Sabbath, June 26th, 5657–1897.</em> Alfred J. Isaacs & Sons, 1897.
+</p>
+
+<p class="hangingindent">
+---. <em>Judaism and War: A Sermon Preached at the North London Synagogue on Sabbath, November 4th, 5660–1899.</em>
+</p>
+
+<p class="hangingindent">
+---. <em>Our Provincial Brethren: A Sermon Preached at the North London Synagogue, on Sabbath, July 13th, 5661–1901.</em>
+</p>
+
+<p class="hangingindent">
+---. <em>The Sabbath and the Synagogue: A Sermon Preached at the North London Synagogue, on June 29th, 5649–1889.</em>
+</p>
+
+<p class="hangingindent">
 Adler, Marcus Nathan. <em>The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary</em>. Oxford University Press, 1907.
+</p>
+
+<p class="hangingindent">
+Adler, Michael. <em>Elements of Hebrew Grammar: With Exercises.</em> David Nutt, 1897.
+</p>
+
+<p class="hangingindent">
+---. <em>Students’ Hebrew Grammar.</em> David Nutt, 1900.
 </p>
 
 <p class="hangingindent">
@@ -94,19 +160,35 @@ Adler, Nathan Marcus. <em>The Bonds of Brotherhood; A Sermon, Delivered in the S
 </p>
 
 <p class="hangingindent">
-<em>The Second Days of the Festivals; A Sermon at the New Synagogue, Great St. Helen’s, on the Second Day of Passover, 5628</em>. Trübner, 1868.
+---. <em>The Second Days of the Festivals; A Sermon at the New Synagogue, Great St. Helen’s, on the Second Day of Passover, 5628</em>. Trübner, 1868.
 </p>
 
 <p class="hangingindent">
-<em>Sermon Delivered in the Great Synagogue, Duke’s Place, Wednesday, the 24th March, A.M., 5607</em>. Sherwood, Gilbert, and Piper, 1847.
+---. <em>Sermon Delivered in the Great Synagogue, Duke’s Place, Wednesday, the 24th March, A.M., 5607</em>. Sherwood, Gilbert, and Piper, 1847.
 </p>
 
 <p class="hangingindent">
-<em>Sermon Delivered at the Great Synagogue, on the Occasion of His Installation into Office as Chief Rabbi Great Britain</em>. Translated by Barnard Van Oven, Longman, Brown, Green and Longmans, 1845.
+---. <em>Sermon Delivered at the Great Synagogue, on the Occasion of His Installation into Office as Chief Rabbi Great Britain</em>. Translated by Barnard Van Oven, Longman, Brown, Green and Longmans, 1845.
 </p>
 
 <p class="hangingindent">
-<em>Solomon’s Judgment: A Picture of Israel; A Sermon Delivered at the Great Synagogue, on Shabbat Chanukah, 31st December, 5614</em>. Wertheimer, 1854.
+---. <em>Solomon’s Judgment: A Picture of Israel; A Sermon Delivered at the Great Synagogue, on Shabbat Chanukah, 31st December, 5614</em>. Wertheimer, 1854.
+</p>
+
+<p class="hangingindent">
+Aguilar, Emanuel. <em>How to Learn the Pianoforte.</em> Groombridge and Sons, 1883.
+</p>
+
+<p class="hangingindent">
+---. <em>A Little Book About Learning the Pianoforte.</em> Groombridge and Sons, 1866.
+</p>
+
+<p class="hangingindent">
+Aguilar, Emanuel Abraham, and Christina Rossetti. <em>Goblin Market: Cantata, for Treble Voices.</em> Hutchings & Romer, 1880.
+</p>
+
+<p class="hangingindent">
+Aguilar, Emanuel Abraham, and David Aaron de Sola. <em>The Ancient Melodies of the Liturgy of the Spanish and Portuguese Jews.</em> Wertheimer, 1857.
 </p>
 
 <p class="hangingindent">
