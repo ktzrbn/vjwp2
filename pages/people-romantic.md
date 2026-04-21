@@ -410,6 +410,16 @@ ul.horizontal-list li {
       <td>1796–1840</td>
       <td>Newspaper editor and founder of the <em>Brighton Guardian</em> (1827)</td>
   </tr>
+  <tr>
+      <td>Cohen, Louis</td>
+      <td>1799–1882</td>
+      <td>Major leader of Anglo-Jewry, primary author of the Constitution of the Board of Deputies of British Jews</td>
+  </tr>
+    <tr>
+      <td>Crooll, Joseph</td>
+      <td>1760–1829</td>
+      <td>Hungary-born Hebrew scholar, rabbi of the Manchester and Nottingham Hebrew Congregations, Cambridge Hebrew teacher (1808)</td>
+  </tr>
 </table>
 &nbsp;
 

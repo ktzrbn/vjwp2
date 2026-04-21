@@ -561,16 +561,95 @@ ul.horizontal-list li {
 </h3>
 
 <table>
-
+  <tr>
+      <td>Chaikin, Avigdor [Moses]</td>
+      <td style="white-space:nowrap;">1852–1928</td>
+      <td>Lubavitcher Hasid, rabbi, and writer, minister and shochet of Sheffield’s New Hebrew Congregation (1892-1901), Chief Minister of the Federation of Synagogues from 1901, served on the London Beth Din (1902–6), appointed dayan in 1911, established a Talmud Torah and Sabbath Observance Society, member of Agudat Achim Kahal Chabad</td>
+  </tr>  
+  <tr>
+      <td>Chapman, John</td>
+      <td style="white-space:nowrap;">C1846–1917</td>
+      <td>Orthodox minister and Rosh Yeshiva, founder of Great Ealing School, a Jewish boys’ school (1880–1908)</td>
+  </tr>  
+  <tr>
+      <td>Charlemont, Elizabeth Jane (Somerville) Caulfield, Countess of</td>
+      <td style="white-space:nowrap;">1834–1882</td>
+      <td>Anglo-Irish convert to Judaism</td>
+  </tr> 
+  <tr>
+      <td>Chotzner, Joseph</td>
+      <td style="white-space:nowrap;">1844–1914</td>
+      <td>Krakow-born Orthodox rabbi, writer, and teacher, appointed inaugural minister of the Belfast Hebrew Congregation (1869)</td>
+  </tr>
+  <tr>
+      <td>Cohen, Abraham</td>
+      <td style="white-space:nowrap;">1887–1957</td>
+      <td>Orthodox minister, scholar, and author</td>
+  </tr>
+  <tr>
+      <td>Cohen, Alfred Louis</td>
+      <td style="white-space:nowrap;">1836–1903</td>
+      <td>Stockbroker, communal leader, and writer, Warden of the Bayswater Synagogue, son of stockbroker Louis Cohen</td>
+  </tr>
+  <tr>
+      <td>Cohen, Benjamin Louis</td>
+      <td style="white-space:nowrap;">1844–1909</td>
+      <td>President of the Jewish Board of Guardians, the Jews’ Hospital, and vice president of the United Synagogue, early supporter of Jewish settlement in Palestine</td>
+  </tr>
+  <tr>
+      <td>Cohen, Ellen Gertrude</td>
+      <td style="white-space:nowrap;">b. 1860</td>
+      <td>Painter and illustrator, illustrated Simeon Singer’s article on East End Jewry for <em>English Illustrated Magazine</em></td>
+  </tr>
+  <tr>
+      <td>Cohen, Francis Lyon</td>
+      <td style="white-space:nowrap;">1862–1934</td>
+      <td>Orthodox rabbi, minister of Borough New Synagogue, London, author of articles for the Jewish press, the Anglo-Jewish Historical Exhibition (1887), and the JHSE (1894), Music Editor of the <em>Jewish Encyclopedia (1901–6)</em></td>
+  </tr>
+  <tr>
+      <td>Cohen, Hannah</td>
+      <td style="white-space:nowrap;">1875–1946</td>
+      <td>First women elected to the Jewish Board of Guardians (1900), daughter of Benjamin L. Cohen</td>
+  </tr>
+  <tr>
+      <td>Cohen, Israel</td>
+      <td style="white-space:nowrap;">1879–1961</td>
+      <td>Writer and journalist</td>
+  </tr>
   <tr>
       <td>Cohen, Julia (Waley)</td>
       <td style="white-space:nowrap;">1853–1917</td>
       <td>Founder of the Union of Jewish Women (1902)</td>
   </tr>  
   <tr>
+      <td>Cohen, Lionel Louis</td>
+      <td style="white-space:nowrap;">1832–1887</td>
+      <td>One of the founders of the United Synagogue (1870)</td>
+  </tr>  
+  <tr>
       <td>Cohen, Nathaniel Louis</td>
       <td style="white-space:nowrap;">1844–1913</td>
       <td>Governmental advisor and communal leader, husband of Julia Cohen</td>
+  </tr>
+  <tr>
+      <td>Coplans, Michael</td>
+      <td style="white-space:nowrap;">1855–1923</td>
+      <td>Officiant at the Canterbury Synagogue</td>
+  </tr>
+  <tr>
+      <td>Cowen, Joseph</td>
+      <td style="white-space:nowrap;">1868–1932</td>
+      <td>Zionist leader, one of the founders of the Zionist Federation (1899), director of the Jewish Colonial Trust (1899–1932), appears in Herzl’s novel <em>Altneuland</em> (1902) as Joe-Joseph Levy</td>
+  </tr>
+  <tr>
+      <td>Cowen, Laurence</td>
+      <td style="white-space:nowrap;">1865–1942</td>
+      <td>Journalist, editor, and playwright</td>
+  </tr>
+  <tr>
+      <td>Cowen, Louis</td>
+      <td style="white-space:nowrap;"></td>
+      <td>Journalist, Israel Zangwill’s coauthor (as J. Freeman Bell) on <em>Motza Kleis</em> (1882), <em>The Premier and the Painter</em> (1888), and <em>The Great Demonstration</em> (1892)</td>
   </tr>
   <tr>
       <td>Cuffe, Ellen (Bischoffsheim)</td>
