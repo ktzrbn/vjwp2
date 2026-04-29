@@ -93,6 +93,16 @@ Bolaffey, Hayim Vita. <em>The Aleph-Beth; or, the First Step to the Hebrew Langu
 <a href="http://victorianjewishwritersproject.org/items/vjwp_34.html">Cohen, Shalom ben Jacob. <em>Shorshei Emunah, Elements of Faith for the Use of Jewish Youth of Both Sexes</em>. Translated by Joshua Van Oven, E. Justins, 1815.</a>
 </p>
 <p class="hangingindent">
+Crooll, Joseph. <em>The Fifth Empire, Delivered in a Discourse by Thirty-Six Men.</em> J. Wertheimer,
+1829.
+</p>
+<p class="hangingindent">
+---. <em>The Last Generation.</em> Talbot and Ladds, 1829
+</p>
+<p class="hangingindent">
+---. <em>The Restoration of Israel, by R. Joseph Crooll, and An Answer, by Thomas Scott.</em> B. R.
+Goakman, 1814.
+<p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_57.html">Cumberland, Richard. <em>The Jew</em>. C. Dilly, 1794.</a>
 </p>
 <p class="hangingindent">

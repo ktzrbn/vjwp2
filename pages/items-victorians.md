@@ -57,20 +57,20 @@ Abrahams (Sussman), Abraham. <em>Millel Avraham</em>. London, 1882.
 </p>
 
 <p class="hangingindent">
-Abrahams, Israel. Chapters on Jewish Literature. Jewish Publication Society of America,
+Abrahams, Israel. <em>Chapters on Jewish Literature.</em> Jewish Publication Society of America,
 1899.
 </p>
 
 <p class="hangingindent">
----. Jewish Life in the Middle Ages. Jewish Publication Society of America, 1896.
+---. <em>Jewish Life in the Middle Ages.</em> Jewish Publication Society of America, 1896.
 </p>
 
 <p class="hangingindent">
-Abrahams, Israel. Jewish Quarterly Review. 1888–1908.
+---, editor. <em>Jewish Quarterly Review.</em> 1888–1908.
 </p>
 
 <p class="hangingindent">
-Abrahams, Israel, and Claude Montefiore. Aspects of Judaism. 2nd ed., Macmillan and Co., 
+Abrahams, Israel, and Claude Montefiore. <em>Aspects of Judaism.</em> 2nd ed., Macmillan and Co., 
 1895.
 </p>
 
@@ -266,6 +266,96 @@ Belisario, Miriam Mendes. <em>A Hebrew and English Vocabulary from a Selection o
 </p>
 
 <p class="hangingindent">
+Benisch, Abraham. <em>Bishop Colenso’s Objections to the Historical Character of the Pentateuch
+and the Book of Joshua.</em> The Jewish Chronicle, 1863.</p>
+
+<p class="hangingindent">
+---. <em>Elementary Hebrew Grammar.</em> 1852.
+</p>
+
+<p class="hangingindent">
+---. <em>Judaism Surveyed; Being a Sketch of the Rise and Development of Judaism, from Moses to
+our Days, in a Series of Five Lectures.</em> Longmans, Green & Co., 1874.
+</p>
+
+<p class="hangingindent">
+---. <em>Judaïsme et Christianisme.</em> Translated by Alexandre Weill, E. Dentu Libraire-Éditeur,
+1878.
+</p>
+
+<p class="hangingindent">
+---. <em>The Principal Charges of Dr. M’Caul’s Old Paths, as Stated by Mr. Newdegate in the House
+of Commons, Considered & Answered.</em> The Jewish Chronicle, 1858.
+
+<p class="hangingindent">
+---. <em>Two Lectures on the Life and Writings of Maimonides.</em> Wertheim, 1847.
+</p>
+
+<p class="hangingindent">
+---, editor. <em>Scripture History, Simply Arranged for the Use of Jewish Children.</em> Sophia Joel,
+1853.
+</p>
+
+<p class="hangingindent">
+---, trans. <em>Jewish School and Family Bible.</em> Vols. 1–4, James Darling and Longman & Co.,
+1851–1861.
+</p>
+
+<p class="hangingindent">
+---, trans. <em>The Pentateuch, and the Haftaroth.</em> Vols. 1–5, 2nd ed., J. Lehrberger & Comp.,
+1864.
+</p>
+
+<p class="hangingindent">
+---, trans. <em>Travels of Rabbi Petachia of Ratisbon.</em> By Petachia of Ratisbon, Messrs. Trubner &amp;
+Co., 1856.
+</p>
+
+<p class="hangingindent">
+Bentwich, Herbert. “The Progress of Zionism.” <em>The Fortnightly Review,</em> Dec. 1898, pp.
+928–943.
+</p>
+
+<p class="hangingindent">
+Bergson, Michael Gabriel. <em>A Collection of Sacred Jewish Hymns and Prayers, in Hebrew,
+English and German, with Solos and Choruses, and an Accompaniment for Piano or
+Harmonium.</em> Edited by Marcus Hast, 1874.
+</p>
+
+<p class="hangingindent">
+Blind, Mathilde. <em>Birds of Passage: Songs of the Orient and Occident.</em> Chatto & Windus, 1895.
+</p>
+
+<p class="hangingindent">
+---. “Mary Wollstonecraft.” <em>New Quarterly Magazine,</em> vol. 10, July 1878, pp. 390–412.
+</p>
+
+<p class="hangingindent">
+---, trans. <em>The Old Faith and the New: A Confession.</em> By David Friedrich Strauss, Asher & Co.,
+1873.
+</p>
+
+<p class="hangingindent">
+---. <em>The Poetical Works of Mathilde Blind.</em> Edited by Arthur Symons, with a memoir by
+Richard Garnett, T. Fisher Unwin, 1900.
+</p>
+
+<p class="hangingindent">
+---. <em>A Selection from the Poems of Mathilde Blind.</em> Edited by Arthur Symons, T. Fisher Unwin,
+1897.
+</p>
+
+<p class="hangingindent">
+---. “Shelley.” <em>Review of The Poetical Works of Percy Bysshe Shelley: A Revised Text, with
+Notes and a Memoir,</em> edited by William Michael Rossetti. Westminster Review, vol. 38, July
+1870, pp. 75–97.
+</p>
+
+<p class="hangingindent">
+Boas, Frederick Samuel. <em>Shakespeare and His Predecessors.</em> 1896. John Murray, 1910.
+</p>
+
+<p class="hangingindent">
 Bennett, Solomon Yom Tov. <em>Critical Remarks on the Authorized Versions of the Old Testament</em>. London, 1834.
 </p>
 
@@ -304,6 +394,25 @@ Browning, Robert. “Ben Karshook’s Wisdom.” <em>The Keepsake</em>, 1856, p.
 <p class="hangingindent">
 ---. “Solomon and Balkis.” <em>Jocoseria</em>. Smith, Elder & Co., 1883, pp. 25–32.
 </p>
+
+<p class="hangingindent">
+Chaikin, Avigdor. <em>The Celebrities of the Jews.</em> Pawson and Brailsford, 1899.
+</p>
+
+<p class="hangingindent">
+Chotzner, Joseph. <em>Humour and Irony of the Hebrew Bible.</em> London, 1883.
+</p>
+
+<p class="hangingindent">
+---. <em>Modern Judaism.</em> London, 1876.
+</p>
+
+<p class="hangingindent">
+---. <em>Zikhronot.</em> 1885.
+</p>
+
+<p class="hangingindent">
+Cohen, Alfred Louis. <em>Prayers for Jewish Family Use.</em> Wertheimer, Lea and Co., 1890.
 
 <p class="hangingindent">
 Mocatta, Isaac Lindo. <em>The Jewish Armoury.</em> Brighton, 1877.
