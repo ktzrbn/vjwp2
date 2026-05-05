@@ -604,7 +604,7 @@ ul.horizontal-list li {
   <tr>
       <td>Cohen, Francis Lyon</td>
       <td style="white-space:nowrap;">1862–1934</td>
-      <td>Orthodox rabbi, minister of Borough New Synagogue, London, author of articles for the Jewish press, the Anglo-Jewish Historical Exhibition (1887), and the JHSE (1894), Music Editor of the <em>Jewish Encyclopedia (1901–6)</em></td>
+      <td>Orthodox rabbi, minister of Borough New Synagogue, London, author of articles for the Jewish press, the Anglo-Jewish Historical Exhibition (1887), and the JHSE (1894), Music Editor of the <em>Jewish Encyclopedia</em> (1901–6)</td>
   </tr>
   <tr>
       <td>Cohen, Hannah</td>
