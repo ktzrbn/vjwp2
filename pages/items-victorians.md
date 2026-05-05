@@ -312,6 +312,14 @@ Co., 1856.
 </p>
 
 <p class="hangingindent">
+Bennett, Solomon Yom Tov. <em>Critical Remarks on the Authorized Versions of the Old Testament</em>. London, 1834.
+</p>
+
+<p class="hangingindent">
+---. <em>A Theological and Critical Treatise on the Primogeniture and Integrity of the Holy Language</em>. Richard Taylor, 1835.
+</p>
+
+<p class="hangingindent">
 Bentwich, Herbert. “The Progress of Zionism.” <em>The Fortnightly Review,</em> Dec. 1898, pp.
 928–943.
 </p>
@@ -353,14 +361,6 @@ Notes and a Memoir,</em> edited by William Michael Rossetti. Westminster Review,
 
 <p class="hangingindent">
 Boas, Frederick Samuel. <em>Shakespeare and His Predecessors.</em> 1896. John Murray, 1910.
-</p>
-
-<p class="hangingindent">
-Bennett, Solomon Yom Tov. <em>Critical Remarks on the Authorized Versions of the Old Testament</em>. London, 1834.
-</p>
-
-<p class="hangingindent">
----. <em>A Theological and Critical Treatise on the Primogeniture and Integrity of the Holy Language</em>. Richard Taylor, 1835.
 </p>
 
 <p class="hangingindent">
