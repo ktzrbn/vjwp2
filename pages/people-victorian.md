@@ -673,7 +673,7 @@ ul.horizontal-list li {
       <td>German-born writer and scholar</td>
   </tr> 
   <tr>
-      <td>Disraeli, Benjamin 1st Earl of Beaconsfield</td>
+      <td><a href = "benjamin-disraeli.html">Disraeli, Benjamin 1st Earl of Beaconsfield</a></td>
       <td style="white-space:nowrap;">1804–1881</td>
       <td>Author, statesman, and Conservative politician, served twice as Prime Minister of the United Kingdom (1868, 1874-80)</td>
   </tr> 

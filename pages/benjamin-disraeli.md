@@ -58,7 +58,7 @@ Georg Brandes, <em>Lord Beaconsfield.</em>
 &nbsp;
 &nbsp;
 
-## Selected Bibliography
+## Bibliography
 
 <p>
 <a href="https://victorianjewishwritersproject.org/items/vjwp_96.html"><em>Coningsby, or the New Generation</em>. Vol. 1. Henry Colburn, 1844.</a>
