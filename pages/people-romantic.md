@@ -218,16 +218,6 @@ ul.horizontal-list li {
       <td>Hasidic shochet and scholar, first notable Polish Hasid to settle in Britain (1837)</td>
   </tr>
    <tr>
-      <td>Adler, Celestine (Lehfeldt)</td>
-      <td>1821–1891</td>
-      <td>Second wife of <a href="nathan-marcus-adler.html">Nathan Marcus Adler</a>, mother of Elkan Nathan Adler</td>
-  </tr>
-   <tr>
-      <td>Adler, Henrietta (Worms)</td>
-      <td>1800–1853</td>
-      <td>First wife of <a href="nathan-marcus-adler.html">Nathan Marcus Adler</a>, mother of Marcus Nathan Adler and Hermann Adler</td>
-  </tr>
-   <tr>
       <td><a href="nathan-marcus-adler.html">Adler, Nathan Marcus</a></td>
       <td style="white-space:nowrap;">1803–1890</td>
       <td>Rabbinical writer and Chief Rabbi (1845–90)</td>
@@ -268,19 +258,9 @@ ul.horizontal-list li {
       <td>Writer and printer, son of Alexander Alexander, successor of A. Alexander’s printing firm</td>
   </tr>
   <tr>
-      <td>Amschejewitz, Asher</td>
-      <td>1824–1903</td>
-      <td>Orthodox rabbi and scholar, one of the first three scholars-in-residence at the Judith Montefiore College (1867), father of J. H. Amshewitz</td>
-  </tr>
-  <tr>
       <td>Angel, Moses</td>
       <td>C1819–1898</td>
       <td>Educator and writer, headmaster of the Jews’ Free School (1842–97), first co-editor of the <em>Jewish Chronicle</em> (1841–2)</td>
-  </tr>
-  <tr>
-      <td>Ansell, Moss</td>
-      <td>C1821–1872</td>
-      <td>First Jew to hold a government office in Britain, Chief Clerk in the Court of Chancery (C1842–72), recipient of the Freedom of the City of London (1856)</td>
   </tr>
   <tr>
       <td>Ascher, Benjamin</td>
@@ -327,11 +307,6 @@ ul.horizontal-list li {
       <td>First Jewish mayor in Britain, mayor of Bath (1837)</td>
   </tr>
   <tr>
-      <td>Basevi, Miriam [Maria]</td>
-      <td style="white-space:nowrap;">C1774–1847</td>
-      <td>Mother of <a href="benjamin-disraeli.html">Benjamin Disraeli</a>, daughter of Verona-born Merchant Naphtali [Nathan] Basevi</td>
-  </tr>
-  <tr>
       <td>Behrens, Solomon Levi</td>
       <td>C1787–1873</td>
       <td>Manchester-based Orthodox merchant and advocate of Jewish emancipation</td>
@@ -370,11 +345,6 @@ ul.horizontal-list li {
       <td>Bennett, Solomon Yom Tov</td>
       <td>1761–1838</td>
       <td>Belorussian-born writer, Hebraist, and engraver</td>
-  </tr>
-  <tr>
-      <td>Bergson, Michael Gabriel</td>
-      <td>1820–1898</td>
-      <td>Warsaw-born composer</td>
   </tr>
   <tr>
       <td>Berkowitz, Henry</td>
@@ -431,13 +401,53 @@ ul.horizontal-list li {
 <table>
   <tr>
       <td><a href="charlotte-dacre.html">Dacre, Charlotte (King)</a></td>
-      <td>C1782–1825</td>
+      <td>c1782–1825</td>
       <td>Poet and author of Gothic novels, daughter of John King</td>
   </tr>
   <tr>
-      <td>Deutsch, Emanuel</td>
-      <td>1829–1873</td>
-      <td>German-born writer and scholar</td>
+      <td>Davids, Arthur Lumley</a></td>
+      <td>1811–1832</td>
+      <td>Jewish rights campaigner and orientalist, advocated for Jewish civil emancipation in <em>The Times</em>, author of <em>A Grammar of the Turkish Language</em> (1832)</td>
+  </tr>
+  <tr>
+      <td>D'Avigdor, Rachel, Countess D'Avigdor</a></td>
+      <td>1816–1896</td>
+      <td>Philanthropist and communal leader active in London Jewish charities, president of the Jews’ Deaf and Dumb Home and committee member for the Jewish Board of Guardians’ workhouse committee, the Jewish Convalescent Home, and other institutions, daughter of Isaac Lyon Goldsmid</td>
+  </tr>
+  <tr>
+      <td>Davis, Alfred</a></td>
+      <td>c1806–1870</td>
+      <td>Toy importer and philanthropist, major supporter of the Jews’ Free School</td>
+  </tr>
+  <tr>
+      <td>Davis, Edward</a></td>
+      <td>c1807–1895</td>
+      <td>Businessman and antiquary, lecturer on Jewish history and coins in Shrewsbury, later active in Leeds Jewish communal affairs and a founder of its first synagogue</td>
+  </tr>
+  <tr>
+      <td>de Castro, Hananel</a></td>
+      <td>c1795–1849</td>
+      <td>City merchant and communal leader; president of the Board of Deputies (1840–41), leading member of Bevis Marks Synagogue, president of the Jews’ Hospital and Beth Holim, and supporter and first president of the Jews’ and General Literary and Scientific Institution</td>
+  </tr>
+  <tr>
+      <td>Defries, Jonas</a></td>
+      <td>c1805–1860</td>
+      <td>Founder of a prominent lighting firm; president of the New Synagogue (1852–55) and its honorary Baal Tekiah</td>
+  </tr>
+  <tr>
+      <td>Delgado, Isaac</a></td>
+      <td>fl. late-eighteenth century</td>
+      <td>Sephardi teacher of Hebrew and Hebraist, produced the first Anglo-Jewish translation of selected Pentateuch passages from Hebrew into English that differed from the King James Version</td>
+  </tr>
+  <tr>
+      <td><a href="david-aaron-desola.html">de Sola, David Aaron</a></td>
+      <td>1796–1860</td>
+      <td>Minister of Bevis Marks (1818–60)</td>
+  </tr>
+  <tr>
+      <td>de Worms, Solomon Benedict</td>
+      <td>1801–1882</td>
+      <td>Businessman, stockbroker, and communal leader, Rothschild relation who developed major tea plantations in Ceylon with his brothers, life member of the Council of the United Synagogue and warden of the Great Synagogue</td>
   </tr>
   <tr>
       <td><a href="benjamin-disraeli.html">Disraeli, 1<sup>st</sup> Earl of Beaconsfield, Benjamin</a></td>
@@ -448,6 +458,16 @@ ul.horizontal-list li {
       <td>D'Israeli, Isaac</td>
       <td>1766–1848</td>
       <td>Author and father of <a href="benjamin-disraeli.html">Benjamin Disraeli</a></td>
+  </tr>
+  <tr>
+      <td>Drach, Solomon Moses</td>
+      <td>c1815–1879</td>
+      <td>Businessman, Hebrew scholar, and orientalist, guardian of Matthias Levy, Talmudist who published statistics of Jewish charities in the <em>Jewish Chronicle</em> in 1841, committee member and contributor to the Society of Biblical Archaeology</td>
+  </tr>
+  <tr>
+      <td>Dukes, Leopold</td>
+      <td>1810–1891</td>
+      <td>Pressburg-born Hebraist, scholar, and maskil</td>
   </tr>
 
   </table>
@@ -464,10 +484,65 @@ ul.horizontal-list li {
       <td>1805–1858</td>
       <td>Russian-born Hebraist and scholar</td>
   </tr>
+  <tr>
+      <td>Edrehi, Moses</td>
+      <td>c1771–c1842</td>
+      <td>Moroccan-born kabbalist and teacher of oriental languages</td>
+  </tr>
     <tr>
       <td>Ephraim, Moses</td>
       <td>1745–1815</td>
       <td>Officiant of Plymouth Synagogue (C1780–1815)</td>
+  </tr>
+  <tr>
+      <td>Eliason, Daniel</td>
+      <td>d. 1824</td>
+      <td>Bill broker and diamond merchant; prominent member of the Great Synagogue; one of the ten founders of the Jews’ Hospital (1807); and, in 1788, helped revise the Ashkenazi Talmud Torah curriculum to reduce Hebrew instruction and include basic secular subjects</td>
+  </tr>
+  <tr>
+      <td>Emanuel, Emanuel</td>
+      <td>c1801–1888</td>
+      <td>First Jewish Mayor of Portsmouth (1866–7), father of Katie, Lady Magnus</td>
+  </tr>
+  <tr>
+      <td>Ewald, Ferdinand Christian</td>
+      <td>1802–1874</td>
+      <td>Jewish-born Christian missionary for the London Society for Promoting Christianity amongst the Jews</td>
+  </tr>
+  <tr>
+      <td>Ezekiel, Solomon</td>
+      <td>1781–1867</td>
+      <td>Community member in Penzance who lectured on Jewish themes</td>
+  </tr>
+  <tr>
+      <td>Falk, Samuel Jacob Hayyim</td>
+      <td>c1710–1782</td>
+      <td>Alchemist, magician, and kabbalist known as the “Baal-Shem of London”; maintained a private synagogue in Wellclose Square and left substantial bequests to Jewish charities and the London Chief Rabbinate</td>
+  </tr>
+  <tr>
+      <td>Faudel, Henry</td>
+      <td>1809–1863</td>
+      <td>Businessman, communal leader, and advocate for Jewish civil rights; chaired the Jews’ Hospital, promoted the consolidation of London Jewish charities, and published pamphlets on Jewish disabilities and communal reform</td>
+  </tr>
+  <tr>
+      <td>Fernandes, Benjamin Dias</td>
+      <td>fl. late-eighteenth century</td>
+      <td>Sephardic merchant and writer, maternal great-grandfather of Grace Aguilar</td>
+  </tr>
+  <tr>
+      <td>Foligno, Isaac</td>
+      <td>c1797–1857</td>
+      <td>Silversmith, Bevis Marks warden, and Board of Deputies president, elected during Moses Montefiore’s absence and serving briefly until his death during his second term</td>
+  </tr>
+  <tr>
+      <td>Franklin, Jacob Abraham</td>
+      <td>c1797–1857</td>
+      <td>Optician, actuary, and newspaper proprietor and editor, member of the prominent Franklin family established in England since the eighteenth century, represented Manchester on the Board of Deputies, founder and editor of the <em>Voice of Jacob</em> from 1841 to 1846, which continued until 1848</td>
+  </tr>
+  <tr>
+      <td>Franks, Naphtali</td>
+      <td>c1715–1796</td>
+      <td>Merchant and member of the Franks family (one of the first Ashkenazi families to settle in England), major benefactor of the Great Synagogue, leader of London’s Ashkenazi community, and Fellow of the Royal Society for his interest in botany</td>
   </tr>
 
   </table>
@@ -918,12 +993,6 @@ ul.horizontal-list li {
       <td>d. 1791</td>
       <td>Chief Rabbi (1780–91)</td>
   </tr>
-  <tr>
-      <td><a href="david-aaron-desola.html">de Sola, David Aaron</a></td>
-      <td>1796–1860</td>
-      <td>Minister of Bevis Marks (1818–60)</td>
-  </tr>
-
   </table>
 &nbsp;
 
