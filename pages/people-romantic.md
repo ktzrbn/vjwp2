@@ -405,37 +405,37 @@ ul.horizontal-list li {
       <td>Poet and author of Gothic novels, daughter of John King</td>
   </tr>
   <tr>
-      <td>Davids, Arthur Lumley</a></td>
+      <td>Davids, Arthur Lumley</td>
       <td>1811–1832</td>
       <td>Jewish rights campaigner and orientalist, advocated for Jewish civil emancipation in <em>The Times</em>, author of <em>A Grammar of the Turkish Language</em> (1832)</td>
   </tr>
   <tr>
-      <td>D'Avigdor, Rachel, Countess D'Avigdor</a></td>
+      <td>D'Avigdor, Rachel, Countess D'Avigdor</td>
       <td>1816–1896</td>
       <td>Philanthropist and communal leader active in London Jewish charities, president of the Jews’ Deaf and Dumb Home and committee member for the Jewish Board of Guardians’ workhouse committee, the Jewish Convalescent Home, and other institutions, daughter of Isaac Lyon Goldsmid</td>
   </tr>
   <tr>
-      <td>Davis, Alfred</a></td>
+      <td>Davis, Alfred</td>
       <td>c1806–1870</td>
       <td>Toy importer and philanthropist, major supporter of the Jews’ Free School</td>
   </tr>
   <tr>
-      <td>Davis, Edward</a></td>
+      <td>Davis, Edward</td>
       <td>c1807–1895</td>
       <td>Businessman and antiquary, lecturer on Jewish history and coins in Shrewsbury, later active in Leeds Jewish communal affairs and a founder of its first synagogue</td>
   </tr>
   <tr>
-      <td>de Castro, Hananel</a></td>
+      <td>de Castro, Hananel</td>
       <td>c1795–1849</td>
       <td>City merchant and communal leader; president of the Board of Deputies (1840–41), leading member of Bevis Marks Synagogue, president of the Jews’ Hospital and Beth Holim, and supporter and first president of the Jews’ and General Literary and Scientific Institution</td>
   </tr>
   <tr>
-      <td>Defries, Jonas</a></td>
+      <td>Defries, Jonas</td>
       <td>c1805–1860</td>
       <td>Founder of a prominent lighting firm; president of the New Synagogue (1852–55) and its honorary Baal Tekiah</td>
   </tr>
   <tr>
-      <td>Delgado, Isaac</a></td>
+      <td>Delgado, Isaac</td>
       <td>fl. late-eighteenth century</td>
       <td>Sephardi teacher of Hebrew and Hebraist, produced the first Anglo-Jewish translation of selected Pentateuch passages from Hebrew into English that differed from the King James Version</td>
   </tr>

@@ -189,7 +189,7 @@ Aguilar, Emanuel Abraham, and Christina Rossetti. <em>Goblin Market: Cantata, fo
 
 <p class="hangingindent">
 Aguilar, Emanuel Abraham, and David Aaron de Sola. <em>The Ancient Melodies of the Liturgy of the Spanish and Portuguese Jews.</em> Wertheimer, 1857.
-</p>
+</p>¡
 
 <p class="hangingindent">
 Aguilar, Grace. See <a href="grace-aguilar.html#bibliography">Bibliography of Grace Aguilar</a>.
