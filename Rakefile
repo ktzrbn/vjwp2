@@ -13,8 +13,12 @@ require 'mini_magick'
 
 desc 'Build site with production env'
 task :deploy do
+  validate_site_url!
   ENV['JEKYLL_ENV'] = 'production'
-  system('bundle', 'exec', 'jekyll', 'build')
+  success = system('bundle', 'exec', 'jekyll', 'build')
+  raise 'Jekyll production build failed' unless success
+
+  validate_built_stylesheet!
 end
 
 ###############################################################################
@@ -35,6 +39,24 @@ def prompt_user_for_confirmation(message)
     puts 'Please enter "y" or "n"'
   end
   response
+end
+
+def validate_site_url!
+  config_path = '_config.yml'
+  url_line = File.readlines(config_path).find { |line| line.start_with?('url:') }
+  return unless url_line
+
+  site_url = url_line.split(':', 2).last.to_s.strip
+  return if site_url.empty? || site_url.match?(%r{^https?://})
+
+  raise "Configured site url must include http:// or https:// for production builds: #{site_url}"
+end
+
+def validate_built_stylesheet!
+  stylesheet_path = File.join('_site', 'assets', 'css', 'cb.css')
+  return if File.exist?(stylesheet_path) && File.size?(stylesheet_path)
+
+  raise "Production build created an empty or missing stylesheet at #{stylesheet_path}"
 end
 
 def process_and_optimize_image(filename, file_type, output_filename, size, density)
