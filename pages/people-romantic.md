@@ -436,7 +436,7 @@ ul.horizontal-list li {
   </tr>
   <tr>
       <td>Delgado, Isaac</td>
-      <td>fl. late-eighteenth century</td>
+      <td>fl. late c18</td>
       <td>Sephardi teacher of Hebrew and Hebraist, produced the first Anglo-Jewish translation of selected Pentateuch passages from Hebrew into English that differed from the King James Version</td>
   </tr>
   <tr>
@@ -514,6 +514,14 @@ ul.horizontal-list li {
       <td>1781–1867</td>
       <td>Community member in Penzance who lectured on Jewish themes</td>
   </tr>
+  </table>
+
+&nbsp;
+<h3>
+<a id="f" name="f"></a>
+<center>F</center>
+</h3>
+<table>
   <tr>
       <td>Falk, Samuel Jacob Hayyim</td>
       <td>c1710–1782</td>
@@ -526,18 +534,13 @@ ul.horizontal-list li {
   </tr>
   <tr>
       <td>Fernandes, Benjamin Dias</td>
-      <td>fl. late-eighteenth century</td>
+      <td>fl. late c18</td>
       <td>Sephardic merchant and writer, maternal great-grandfather of Grace Aguilar</td>
   </tr>
   <tr>
       <td>Foligno, Isaac</td>
       <td>c1797–1857</td>
       <td>Silversmith, Bevis Marks warden, and Board of Deputies president, elected during Moses Montefiore’s absence and serving briefly until his death during his second term</td>
-  </tr>
-  <tr>
-      <td>Franklin, Jacob Abraham</td>
-      <td>c1797–1857</td>
-      <td>Optician, actuary, and newspaper proprietor and editor, member of the prominent Franklin family established in England since the eighteenth century, represented Manchester on the Board of Deputies, founder and editor of the <em>Voice of Jacob</em> from 1841 to 1846, which continued until 1848</td>
   </tr>
   <tr>
       <td>Franks, Naphtali</td>
@@ -547,11 +550,6 @@ ul.horizontal-list li {
 
   </table>
 &nbsp;
-
-<h3>
-<a id="f" name="f"></a>
-<center>F</center>
-</h3>
 
 <table>
   <tr>
