@@ -51,13 +51,17 @@ Conversion notes:
 Aguilar, Grace. See <a href="grace-aguilar.html#bibliography">Bibliography of Grace Aguilar</a>.
 </p>
 <p class="hangingindent">
-Alexander, Alexander. <em>Pentateuch with Translation</em>. A. Alexander and Son, 1785.
+Alexander, Alexander. <em>The first book of Moses, called Genesis, in Hebrew and English.</em> A. Alexander and Son, 1785.
 </p>
 <p class="hangingindent">
 Alexander, Levy. <em>Alexander's Hebrew Ritual</em>. L. Alexander, 1819.
 </p>
 <p class="hangingindent">
 ---. <em>Answer to Mr. Joshua Van Oven’s Letters on the Present State of the Jewish Poor in London</em>. L. Alexander, 1802.
+</p>
+<p class="hangingindent">
+---. <em>The Axe Laid to the Root, or, Ignorance and Superstition Evident in the Character of the
+Rev. Solomon Hirschell.</em> L. Alexander, 1808.
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_33.html">---. <em>Memoirs of the Life and Commercial Connections, Public and Private, of the Late Benj. Goldsmid, Esq. of Roehampton</em> […]. L. Alexander, 1808.</a>
@@ -116,6 +120,16 @@ Goakman, 1814.
 </p>
 <p class="hangingindent">
 Delgado, Isaac. <em>A New English Translation of the Pentateuch</em>. W. Richardson, 1789.
+</p>
+<p class="hangingindent">
+de Sola, David Aaron. <em>Seder Berakhot: The Blessings; or, Expressions of Praise and
+Thanksgiving Said by All Israelites on Various Occasions, with an Interlineary Translation ...
+and Explanatory Notes.</em> Wertheimer, 1829.
+</p>
+<p class="hangingindent">
+---. <em>A Sermon on the Excellence of the Holy Law and the Necessity and Importance of Religious
+Instruction Delivered at the Synagogue of the Spanish and Portuguese Congregation in
+London, 26th March, 1831.</em> H. Barnett, 1831.
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_16.html">D’Israeli, Isaac. “A Biographical Sketch of the Jewish Socrates.” <em>Monthly Magazine</em>, 1798.</a>
