@@ -231,10 +231,7 @@ London, 26th March, 1831.</em> H. Barnett, 1831.
 <a href="http://victorianjewishwritersproject.org/items/vjwp_29.html">---. <em>A Succinct Account, of the Rites, and Ceremonies, of the Jews.</em> J. Parsons, 1782.</a>
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_14.html">---, translator. <em>Tiḳun sofrim: ʻim ṿaṿe ʻamudim. The Five Books of Moses in Hebrew, with the English Translation on the Opposite Page; Accompanied with Notes.</em> Edited by Levi and Lion Soesmans, Lion Soesmans, 1785–87. 5 vols.</a>
-</p>
-<p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_41.html">---. <em>Tikun Sofrim: Im Vave Amudim</em> [Shemot]. David Levi, 1787.</a>
+<a href="http://victorianjewishwritersproject.org/items/vjwp_14.html">---, translator. <em>Tiḳun sofrim: ʻim ṿaṿe ʻamudim. The Five Books of Moses in Hebrew, with the English Translation on the Opposite Page; Accompanied with Notes.</em> Edited by Levi and Lion Soesmans, Lion Soesmans, 1785–87. 5 vol
 </p>
 <p class="hangingindent">
 Levy, Moses Elias. <em>Letters Concerning the Present Condition of the Jews: Being a Correspondence between Mr. Forster and Mr. Levy.</em> J. Hatchard and Son, 1829.
@@ -249,7 +246,7 @@ Levy, Moses Elias. <em>Letters Concerning the Present Condition of the Jews: Bei
 <a href="http://victorianjewishwritersproject.org/items/vjwp_38.html">---. <em>A.S. Lyon’s 1826–39 Diary</em>. 1826–39.</a>
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_48.html">Lyon, Emma (Henry). <em>Miscellaneous Poems</em>. J. Bartlett, 1812.</a>
+<a href="http://victorianjewishwritersproject.org/items/vjwp_48.html">Lyon (Henry), Emma. <em>Miscellaneous Poems</em>. J. Bartlett, 1812.</a>
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_28.html">Lyon, Solomon. <em>A Compendious Hebrew Grammar</em>. London, 1799.</a>
