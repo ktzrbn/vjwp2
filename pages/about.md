@@ -67,6 +67,14 @@ VJWP is built using a customized instance of CollectionBuilder, CSV-oriented met
 
 **Dr. Lindsay Katzir** is the Assistant Director of Jewish Studies at Gratz College, where she also teaches as Assistant Professor of Jewish Literature. She has a Ph.D. in English and was previously an Assistant Professor of English and Writing Center Director. An experienced writer and editor specializing in academic and professional writing, her research focuses on British literature, with a particular emphasis on the Victorian era and especially on nineteenth-century Jewish literature. She is also the editor of the Victorian Jewish Writers Project [https://victorianjewishwritersproject.org](vjwp.org), an open-access archive on Jews and Judaism in the long nineteenth century. She is guided by the Lubavitcher Rebbe's teaching that education should not only inform the mind but also inspire the heart.
 
-**Dr. Brandon Katzir** is the Director of Systems Administration at the University of Rhode Island Libraries. He began his career as an Assistant Professor of English and his most recent academic appointment has been as a Senior Lecturer of Computer Science and Information Technology. He received his Ph.D from Louisiana State University in 2017 and his MLIS from the University of Oklahoma in 2022. He is an avid Python programmer, and his academic research explores a range of Jewish topics, including the Jewish literary tradition in the medieval period as well as Jewish writing in English and Yiddish in nineteenth- and twentieth-century Britain and America. He is the co-editor of the Victorian Jewish Writers Project and a chosid of the Lubavitcher Rebbe. 
+**Dr. Brandon Katzir** is the Director of Systems Administration at the University of Rhode Island Libraries. He began his career as an Assistant Professor of English. He received his Ph.D from Louisiana State University in 2017 and his MLIS from the University of Oklahoma in 2022. He enjoys programming in Python and Go as well was administering cloud systems in higher education environments. His academic research explores a range of topics on the English language as well as Jewish literature and culture. He has been been published in venues such as <em>Literature Compass</em>, <em>Rhetorica</em>, <em>Rhetoric Society Quarterly</em>, <em>Jewish History</em>, and <em>Literature Compass</em>. He is the co-editor of the Victorian Jewish Writers Project.
+
+**Castiel Gray Lisko** is a Ph.D student in the English department at the University of Alabama,
+specializing in British literature of the long nineteenth century. She holds two master’s degrees,
+in English literature and American studies, and a bachelor’s degree in English literature and
+creative writing. Her research focuses include gender and sexuality, visual culture, and Jewish
+studies. A passionate enthusiast for digital humanities, she incorporates DH methods in her
+research and teaching. She currently serves as the Cecil Roth Graduate Fellow at the Victorian
+Jewish Writers Project.
 
 &nbsp;
