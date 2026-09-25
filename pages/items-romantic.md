@@ -171,10 +171,112 @@ London, 26th March, 1831.</em> H. Barnett, 1831.
 <a href="http://victorianjewishwritersproject.org/items/vjwp_63.html">Edgeworth, Maria. <em>Harrington</em>. R. Hunter, 1817.</a>
 </p>
 <p class="hangingindent">
+Falk, Samuel Jacob Hayyim. [Diary]. Hebrew manuscript, eighteenth century. Formerly Beth
+Din and Beth Hamidrash Library, United Synagogue, London.
+</p>
+<p class="hangingindent">
+Fernandes, Benjamin Dias. <em>A Series of Letters on the Evidences of Christianity.</em> 1755–1775.
+Jewish Publication Society of America, 1853.
+</p>
+<p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_58.html">Godwin, William. <em>St. Leon</em>. C.C. and J. Robinson, 1799.</a>
+</p>
+
+<p class="hangingindent">
+Goldsmid, Francis Henry. <em>The Arguments Advanced against the Enfranchisement of the Jews,
+Considered in a Series of Letters.</em> Colburn and Bentley, 1831.
+</p>
+<p class="hangingindent">
+---. <em>A Few Words Respecting the Enfranchisement of British Jews: Addressed to the New
+Parliament.</em> R. Bentley, 1833.
+</p>
+<p class="hangingindent">
+---. <em>Remarks on the Civil Disabilities of British Jews.</em> Colburn and Bentley, 1830.
+</p>
+<p class="hangingindent">
+---. <em>Two Letters, in Answer to the Objections Urged against Mr. Grant’s Bill for the Relief of the
+Jews: With an Appendix.</em> W. J. Ruffy, 1830.
+</p>
+<p class="hangingindent">
+Goodman, Tobias. <em>An Address to the Committee of the London Society for Promoting
+Christianity among the Jews.</em> W. Day, 1809.
+</p>
+<p class="hangingindent">
+---, translator. <em>Beḥinat Olam; or, An Investigation of Causes Arising from the Organization of
+the World, in Which Man Is Particularly Interested.</em> By Jedaiah ben Abraham Bedersi, L.
+Alexander, 1806.
+</p>
+<p class="hangingindent">
+---. <em>The Faith of Israel; or, The Substance of a Discourse Delivered at the Jews’ Synagogue,
+Seel-Street, Liverpool, on the 2d of May, 1819.</em> G. F. Harris, 1819.
+</p>
+<p class="hangingindent">
+---. <em>A Sermon Occasioned by the Demise of Our Late Venerable Sovereign, King George the
+Third, Preached on Wednesday, February 16, 1820, at the Synagogue, Denmark Court,
+London.</em> 1820.
+</p>
+<p class="hangingindent">
+---. <em>A Sermon on the Universally Regretted Death of the Most Illustrious Princess Charlotte,
+Preached on Wednesday, November 19, 1817, at the Synagogue, Denmark Court, London.</em>
+1817.
+</p>
+<p class="hangingindent">
+Gompertz, Isaac. <em>Devon, a Poem.</em> Sams, Curtis, Upham, and Coydon, 1825.
+</p>
+<p class="hangingindent">
+Gompertz, Lewis. <em>Moral Inquiries on the Situation of Man and of Brutes</em> Westley and Parrish,
+1824.
+</p>
+<p class="hangingindent">
+Hart, Jacob [Eliakim ben Abraham]. <em>Binah la-‘Ittim [Understanding the Times].</em> Mordecai
+ha-Levi, 1795.
+</p>
+<p class="hangingindent">
+---. <em>Milḥamot Adonai [Wars of the Lord].</em> Mordecai ha-Levi, 1794.
+</p>
+<p class="hangingindent">
+Hirschell, Solomon. <em>> Sermon of Thanksgiving for the Success of His Majesty’s Fleet under the
+Command of the Late Lord Viscount Nelson, off Trafalgar.</em> Translated by Joshua van Oven,
+1805.
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_65.html">Hazlitt, William. “The Emancipation of the Jews.” <em>The Tatler</em>, 28 Mar. 1831, p. 701–2.</a>
+</p>
+<p class="hangingindent">
+---. <em>The Elements of the Hebrew Language.</em> 2nd ed., rev. and enlarged, John Taylor, 1832.
+</p>
+<p class="hangingindent">
+---. <em>The Etymology and Syntax, in Continuation of the Elements of the Hebrew Language.</em> John
+Taylor, 1831.
+</p>
+<p class="hangingindent">
+---. <em>A Hebrew Dirge, Chaunted in the Great Synagogue, St. James’s Place, Aldgate, on the Day
+of the Funeral of Her Royal Highness the Princess Charlotte.</em> Translated by Samuel Taylor
+Coleridge, H. Barnett, 1817.
+</p>
+<p class="hangingindent">
+---. <em>Hebrew Tales: Selected and Translated from the Writings of the Ancient Hebrew Sages.</em>
+Morrison and Watt, 1826.
+</p>
+<p class="hangingindent">
+---. <em>An Introductory Lecture Delivered in the University of London on Tuesday, November 11,
+1828.</em> John Taylor, 1828.
+</p>
+<p class="hangingindent">
+---. <em>The Knell: An Elegy on George the Third.</em> Hebrew by Hyman Hurwitz; translated by
+William Smith.
+<p class="hangingindent">
+---. <em>A Letter to Isaac L. Goldsmid, Esq. F.R.S., Chairman of the Association for Obtaining for
+British Jews Civil Rights and Privileges, on Certain Recent Mis-statements Respecting the
+Jewish Religion.</em> W. J. Ruffy, 1833.
+</p>
+<p class="hangingindent">
+---. <em>The Tears of a Grateful People, A Hebrew Dirge &amp; Hymn, Chaunted in the Great Synagogue,
+St. James’s Place, Aldgate, on the day of the funeral of His Late Most Sacred Majesty, King
+George III., of Blessed Memory.</em> Translated by Samuel Taylor Coleridge, H. Barnett, 1820.
+</p>
+<p class="hangingindent">
+---. <em>Vindiciae Hebraicae.</em> F. C. and J. Rivington and Boosey and Sons, 1820.
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_3.html">Hurwitz, Hyman. <em>The Elements of the Hebrew Language</em>. L. Alexander, 1807.</a>
