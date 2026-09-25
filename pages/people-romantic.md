@@ -562,6 +562,22 @@ ul.horizontal-list li {
 
 <table>
   <tr>
+      <td>Garcia, Abraham</td>
+      <td>fl. 1790–1826</td>
+      <td>Founder of a boarding school for Jewish boys at Camden Place, Peckham (1815), which became a leading school for wealthy Sephardi families and educated members of the Rothschild, Henriques, Montefiore, and Mocatta families</td>
+  </tr>
+  <tr>
+      <td>Gideon Eardley, Sir Sampson</td>
+      <td>1745–1824</td>
+      <td>Politician, first MP and first peer of Jewish descent</td>
+  </tr>
+  <tr>
+      <td>Glück, Lewis</td>
+      <td>c1803–1874</td>
+      <td>Posen-born artist and Hebraist specializing in  micrography, produced portraits of Queen Victoria, the Duke of Sussex, the Duke of Wellington, and Chief Rabbi Solomon Hirschell; later active in the Sheffield Hebrew Congregation and in promoting Jewish-Christian understanding
+</td>
+  </tr>
+  <tr>
       <td>Goldsmid, Abraham</td>
       <td>C1756–1810</td>
       <td>Bill broker and stockbroker, son of Dutch merchant Aaron Goldsmid</td>
@@ -573,13 +589,8 @@ ul.horizontal-list li {
   </tr>
   <tr>
       <td>Goldsmid, Asher</td>
-      <td>C1751–1822</td>
-      <td>Bullion broker, son of Aaron Goldsmid</td>
-  </tr>
-  <tr>
-      <td>Goldsmid, Augustus</td>
-      <td>1818–1874</td>
-      <td>Barrister, nephew of Isaac Lyon Goldsmid, nephew of David Salomons</td>
+      <td>c1751–1822</td>
+      <td>Bullion broker, son of Aaron Goldsmid, father of Isaac Lyon Goldsmid</td>
   </tr>
   <tr>
       <td>Goldsmid, Benjamin</td>
@@ -587,46 +598,65 @@ ul.horizontal-list li {
       <td>Bill broker, son of Aaron Goldsmid</td>
   </tr>
   <tr>
-      <td>Goldsmid, 2<sup>nd</sup> Baronet, Sir Francis Henry</td>
+      <td>Goldsmid, Sir Francis Henry</td>
       <td>1808–1878</td>
-      <td>Politician, barrister, and communal leader, Liberal MP for Reading (1860–78), first Jew to become an English barrister, son of Isaac Lyon Goldsmid</td>
-  </tr>
-  <tr>
-      <td>Goldsmid, Frederick David</td>
-      <td>1812–1866</td>
-      <td>Politician and communal leader, Liberal MP for Honiton (1865–6)</td>
-  </tr>
-  <tr>
-      <td><a href="frederic-j-goldsmid.html">Goldsmid, Sir Frederic John</a></td>
-      <td>1818–1908</td>
-      <td>Author, army officer, and civil servant in India, Director General of the <em>Indo-European Telegraph</em>, nephew of Isaac Lyon Goldsmid</td>
-  </tr>
-  <tr>
-      <td>Goldsmid [Moses], Henry Edward</td>
-      <td>1812–1855</td>
-      <td>East India Company official, married into the Goldsmid family</td>
+      <td>Politician, barrister, and communal leader, first practicing Jew called to the English Bar (1833), first Jewish QC and Bencher of Lincoln’s Inn (1858), Liberal MP for Reading (1860–78), campaigner for Jewish civil and political emancipation, President of the Council of Founders of the West London Synagogue and Vice-President of the Anglo-Jewish Association</td>
   </tr>
   <tr>
       <td>Goldsmid, Sir Isaac Lyon</td>
       <td>1778–1859</td>
-      <td>Financier and communal leader, founding member of the West London Synagogue (C1840), son of Asher Goldsmid</td>
+      <td>Financier and communal leader, first practicing Jew to receive a British baronetcy (1841), major supporter and founder of University College London, campaigner for Jewish civil emancipation and the abolition of slavery, and co-founder of the West London Synagogue, Britain’s first Reform congregation</td>
   </tr>
   <tr>
-      <td>Goldsmid, Jessie Sarah</td>
-      <td>1816–1888</td>
-      <td>Sister of Frederic John Goldsmid, wife of Henry Edward Goldsmid [Moses]</td>
+      <td>Gomes, Hannah</td>
+      <td>1791–1847</td>
+      <td>Teacher, ran a Jewish girls’ academy in Deptford Lane, Peckham, until the early 1840s; daughter of Isaac Suares Gomes, who also operated an academy in London</td>
   </tr>
   <tr>
-      <td>Goldsmid, Louisa Sophia</td>
-      <td>1819–1908</td>
-      <td>Feminist and philanthropist, niece of Isaac Lyon Goldsmid, wife of Francis Henry Goldsmid</td>
+      <td>Gompertz, Benjamin</td>
+      <td>1779–1865</td>
+      <td>Self-taught mathematician and actuary, developed the Gompertz law of human mortality (1825), an influential model in actuarial science; author of numerous mathematical papers and <em>The Principles and Application of Imaginary Quantities</em> (1817–18), Fellow of the Royal Society (1819), and supporter of Jewish charities whose plan for poor relief was adopted by the Jewish Board of Guardians</td>
+  </tr>
+  <tr>
+      <td>Gompertz, Isaac</td>
+      <td>1774–1856</td>
+      <td>Poet, author of <em>The Modern Antique</em> (1813), <em>Time, or Light and Shade</em> (1815), and <em>Devon, a Poem</em> (1825)</td>
+  </tr>
+  <tr>
+      <td>Gompertz, Lewis</td>
+      <td>c1783–1861</td>
+      <td>Inventor, writer, and animal welfare campaigner, author of <em>Moral Enquiries on the Situation of Man and of Brutes</em> (1824), co-founder and later Honorary Secretary of the Society for the Prevention of Cruelty to Animals, founder of the Animals’ Friend Society, and editor of <em>The Animals’ Friend</em> (1833–41)</td>
+  </tr>
+  <tr>
+      <td>Goodman, Julia (Salaman)</td>
+      <td>1812–1906</td>
+      <td>Portrait painter educated at the Belisarios’ Jewish girls’ school, later trained at Sass’s Academy, exhibited at the Royal Academy and other major venues, painted more than 1,000 portraits, and counted Barnard Van Oven, Sir Francis Goldsmid, and David Woolf Marks among her prominent sitters</td>
+  </tr>
+  <tr>
+      <td>Goodman, Tobias</td>
+      <td>fl. 1806–34</td>
+      <td>Bohemian-born Orthodox rabbi, scholar, Hebrew teacher, and English-language preacher; delivered the first English sermon at a London Ashkenazi synagogue, on the death of Princess Charlotte (1817), served as reader and minister of the Western Synagogue, and published translations, sermons, anti-missionary writing, and a polemical defense of Judaism</td>
   </tr>
   <tr>
       <td>Gordon, Lord George</td>
       <td>1751–1793</td>
       <td>Aristocrat and politician, converted to Judaism (1787)</td>
   </tr>
-
+  <tr>
+      <td>Graeditz, Levi Solomon</td>
+      <td>d. 1827</td>
+      <td>Orthodox rabbi and educator, rabbi of the Denmark Court congregation that developed into the Western Synagogue, and founder of the Talmud Torah veDerekh halashar, later the Western Institute for Educating, Clothing, and Apprenticing Indigent Jewish Boys, which later became the Westminster Jews’ Free School (1853)</td>
+  </tr>
+  <tr>
+      <td>Guedalla, Judah</td>
+      <td>1773–1858</td>
+      <td>Moroccan-born merchant, rabbinically trained communal leader and philanthropist, gabbai of Bevis Marks Synagogue and founder of the Beth Guedalla yeshivah in Jerusalem</td>
+  </tr>
+  <tr>
+      <td>Guedalla, Haim</td>
+      <td>1815–1904</td>
+      <td>Communal leader, philanthropist, and writer on Jewish affairs, publisher of the <em>Voice of Jacob</em>; accompanied Sir Moses Montefiore to Eretz Israel (1855) and on his mission to Morocco (1863), successfully advocated for the readmission of Jews to Spain (1869) and their right to practice Judaism there, served for over sixty years as an Elder of the Spanish and Portuguese Congregation, and co-founded the Bevis Marks Anti-Demolition League (1886)</td>
+  </tr>
   </table>
 &nbsp;
 
