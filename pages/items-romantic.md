@@ -88,7 +88,7 @@ Bennett, Solomon Yom Tov. <em>The Constancy of Israel</em>. W.H. Wyatt, 1809.</a
 ---. <em>Tenneh Bikkurim</em>, London, 1817.
 </p>
 <p class="hangingindent">
-Bolaffey, Hayim Vita. <em>The Aleph-Beth; or, the First Step to the Hebrew Language.</em> London, 1811. 
+Bolaffey, Hayim Vita. <em>The Aleph-Beth; or, the First Step to the Hebrew Language.</em> Galabin and Marchand, 1811. 
 </p>
 <p class="hangingindent">
 ---. <em>An Easy Grammar of the Primaeval Language Commonly Called Hebrew</em>. Hatchard, 1820.
@@ -116,7 +116,7 @@ Goakman, 1814.
 <a href="http://victorianjewishwritersproject.org/items/vjwp_35.html">A Daughter of Israel. <em>The Jewish Preceptress; or, Elementary Lessons: Written Chiefly for the Use of Female Children, Educated at the Jews Hospital</em>. N. Archer, 1818.</a>
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_60.html">A Daughter of Israel. <em>Letter to Mr. Frey, of the Soi-Disant Jews’ Chapel, Spitalfields; Occasioned by the Questions Now in Debate at the London Forum</em>. Cateaton-Street, 1810.</a>
+A Daughter of Israel. <em>Letter to Mr. Frey, of the Soi-Disant Jews’ Chapel, Spitalfields; Occasioned by the Questions Now in Debate at the London Forum</em>. Levy Alexander, 1810.
 </p>
 <p class="hangingindent">
 Delgado, Isaac. <em>A New English Translation of the Pentateuch</em>. W. Richardson, 1789.
@@ -132,7 +132,7 @@ Instruction Delivered at the Synagogue of the Spanish and Portuguese Congregatio
 London, 26th March, 1831.</em> H. Barnett, 1831.
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_16.html">D’Israeli, Isaac. “A Biographical Sketch of the Jewish Socrates.” <em>Monthly Magazine</em>, 1798.</a>
+<a href="http://victorianjewishwritersproject.org/items/vjwp_16.html">D’Israeli, Isaac. “A Biographical Sketch of the Jewish Socrates.” <em>Monthly Magazine</em>, vol. 6, no. 34, July 1798, pp. 38–44.</a>
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_49.html">---. <em>Calamities of Authors</em>. John Murray, 1812.</a>
@@ -141,13 +141,13 @@ London, 26th March, 1831.</em> H. Barnett, 1831.
 <a href="http://victorianjewishwritersproject.org/items/vjwp_25.html">---. <em>Curiosities of Literature</em>. John Murray, 1791–1823, 5 vols.</a>
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_19.html">---. <em>A Defense of Poetry and Specimens of a New Version of Telemachus</em>. Harrison & Co., 1790.</a>
+---. <em>A Defense of Poetry and Specimens of a New Version of Telemachus</em>. Harrison & Co., 1790.
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_17.html">---. <em>A Dissertation on Anecdotes</em>. C. and G. Kearsley and J. Murray, 1793.</a>
+---. <em>A Dissertation on Anecdotes</em>. C. and G. Kearsley and J. Murray, 1793.
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_18.html">---. <em>Eighty-Nine Fugitive Fables, in Verse; Moral, Prudential, and Allegorical, Original and Selected</em>. J. Murray, 1792.</a>
+---. <em>Eighty-Nine Fugitive Fables, in Verse; Moral, Prudential, and Allegorical, Original and Selected</em>. J. Murray, 1792.
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_42.html">---. <em>An Essay on the Manners and Genius of the Literary Character</em>. T. Cadell, Junr., and W. Davies, 1795.</a>
@@ -162,10 +162,10 @@ London, 26th March, 1831.</em> H. Barnett, 1831.
 <a href="http://victorianjewishwritersproject.org/items/vjwp_43.html">---. <em>Miscellanies; or, Literary Recreations</em>. T. Cadell and W. Davies, 1796.</a>
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_46.html">---. <em>Narrative Poems</em>. John Murray, 1803.</a>
+---. <em>Narrative Poems</em>. John Murray, 1803.
 </p>
 <p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_20.html">---. “On the Abuse of Satire.” <em>Gentleman’s Magazine</em>, 1789.</a>
+---. “On the Abuse of Satire.” <em>Gentleman’s Magazine</em>, 1789.
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_63.html">Edgeworth, Maria. <em>Harrington</em>. R. Hunter, 1817.</a>
@@ -235,13 +235,13 @@ ha-Levi, 1795.
 ---. <em>Milḥamot Adonai [Wars of the Lord].</em> Mordecai ha-Levi, 1794.
 </p>
 <p class="hangingindent">
-Hirschell, Solomon. <em>> Sermon of Thanksgiving for the Success of His Majesty’s Fleet under the
-Command of the Late Lord Viscount Nelson, off Trafalgar.</em> Translated by Joshua van Oven,
-1805.
-</p>
-<p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_65.html">Hazlitt, William. “The Emancipation of the Jews.” <em>The Tatler</em>, 28 Mar. 1831, p. 701–2.</a>
 </p>
+<p class="hangingindent">
+Hirschell, Solomon. <em>A Sermon of Thanksgiving for the Success of His Majesty's Fleet under the Command of the Late Lord Viscount Nelson, off Trafalgar.</em> Translated by Joshua van Oven, 1805.
+</p>
+<p class="hangingindent">
+Hurwitz, Hyman. <em>The Elements of the Hebrew Language</em>. John Taylor, 1829. 
 <p class="hangingindent">
 ---. <em>The Elements of the Hebrew Language.</em> 2nd ed., rev. and enlarged, John Taylor, 1832.
 </p>
@@ -277,27 +277,6 @@ George III., of Blessed Memory.</em> Translated by Samuel Taylor Coleridge, H. B
 </p>
 <p class="hangingindent">
 ---. <em>Vindiciae Hebraicae.</em> F. C. and J. Rivington and Boosey and Sons, 1820.
-</p>
-<p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_3.html">Hurwitz, Hyman. <em>The Elements of the Hebrew Language</em>. L. Alexander, 1807.</a>
-</p>
-<p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_40.html">---. <em>The Etymology and Syntax of the Hebrew Language</em>. John Taylor, 1831.</a>
-</p>
-<p class="hangingindent">
----. <em>A Hebrew Dirge, Chaunted in the Great Synagogue, St. James’s Place, Aldgate, on the Day of the Funeral of Her Royal Highness, the Princess Charlotte</em>. Translated by Samuel Taylor Coleridge, H. Barnett, 1817.
-</p>
-<p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_6.html">---. <em>Hebrew Tales: Selected and Translated from the Writings of the Ancient Hebrew Sages</em> […]. Morrison and Watt, 1826.</a>
-</p>
-<p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_5.html">---. <em>An Introductory Lecture Delivered in the University of London on Tuesday, November 11, 1828</em>. John Taylor, 1828.</a>
-</p>
-<p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_4.html">---. <em>The Tears of a Grateful People, A Hebrew Dirge & Hymn, Chaunted in the Great Synagogue, St. James’s Place, Aldgate, on the day of the funeral of His Late Most Sacred Majesty, King George III., of Blessed Memory</em>. Translated by Samuel Taylor Coleridge, H. Barnett, 1820.</a>
-</p>
-<p class="hangingindent">
-<a href="http://victorianjewishwritersproject.org/items/vjwp_36.html">---. <em>Vindiciae Hebraicae: Or, a Defence of the Hebrew Scriptures as a Vehicle of Revealed Religion, in Refutation of J. Bellamy</em>. F.C. and J. Rivington, 1820.</a>
 </p>
 <p class="hangingindent">
 <a href="http://victorianjewishwritersproject.org/items/vjwp_9.html">Levi, David. <em>A Defence of the Old Testament.</em> D. Levi, 1797.</a>
