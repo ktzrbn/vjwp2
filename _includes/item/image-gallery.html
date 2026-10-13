@@ -4,9 +4,13 @@
     Ensure dependencies are added by including `gallery: true` in the layout front matter calling this include.
 
 {%- endcomment -%}
+{% if page.object_location == 'https://victorianjewishwritersproject.s3.amazonaws.com/objects/vjwp-no-full-text.png' %}
+<p><img src="{{ page.image_small | relative_url }}" alt="item thumbnail for {{ page.title | escape }}" class="img-fluid"></p>
+{% else %}
 <div id="lightgallery">
     <div class="gallery-img" data-src="{{ page.object_location | relative_url }}">
         <p><img src="{{ page.image_small | relative_url }}" alt="item thumbnail for {{ page.title | escape }}" class="img-fluid"></p>
         <p><small>Click to view full screen</small></p>
     </div>
 </div>
+{% endif %}
